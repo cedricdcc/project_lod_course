@@ -1,5 +1,5 @@
-@prefix emobon : <https://open-vocabularies.vliz.be/EMOBON#> .
-@prefix schema : <https://schema.org/> . 
+@prefix emobon: <https://open-vocabularies.vliz.be/EMOBON#> .
+@prefix schema: <https://schema.org/> . 
 @prefix sosa: <http://www.w3.org/ns/sosa/> . 
 @prefix dwc: <http://rs.tdwg.org/dwc/terms/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .

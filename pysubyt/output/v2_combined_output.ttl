@@ -1,0 +1,2322 @@
+@prefix emobon: <https://open-vocabularies.vliz.be/EMOBON#> .
+@prefix schema: <https://schema.org/> . 
+@prefix sosa: <http://www.w3.org/ns/sosa/> . 
+@prefix dwc: <http://rs.tdwg.org/dwc/terms/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .<https://www.embrc.eu/emo-bon> a schema:Project ;
+    schema:legalName “European Marine Omics Biodiversity Observation Network” ;
+    schema:name "EMO BON" . 
+    schema:ContactPoint
+    [
+        schema:givenName "Ioulia" ;
+        schema:familyName "Santi" ;
+        schema:email "secretariat@embrc.eu" ;
+    ] .
+<https://edmo.seadatanet.org/report/422%2C%20449%2C%20432%2C%202248> 
+         a schema:Organization ;
+         schema:legalName "Flanders Marine Institute (VLIZ), Ghent University, Royal Belgian Institute of Natural Sciences, Katholieke Universiteit Leuven" ;
+         schema:Country "Belgium" ;
+         schema:ContactPoint [ 
+            schema:name "Klaas Deneudt" ;
+            schema:identifier  "" ;
+            schema:email "klaas.deneudt@vliz.be";
+         ] ;
+         schema:identifier "BPNS", "BPNS So" ;
+         schema:memberOf <https://www.embrc.eu/emo-bon> .
+          emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-220425>
+    a emobon:Event ;
+    dwc:eventDate "2022-04-20 10:57:42";
+    dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
+    dwc:decimalLatitude "51.433331" ; 
+    dwc:decimalLongitude "2.80833" ;
+    dwc:eventID "BPNS-So3-220425" ; 
+    schema:Contributor 
+        [schema:isMemberOf <https://edmo.seadatanet.org/report/422> ;schema:isMemberOf <https://edmo.seadatanet.org/report/449> ;schema:isMemberOf <https://edmo.seadatanet.org/report/432> ;schema:isMemberOf <https://edmo.seadatanet.org/report/2248> ;
+            schema:name "Annelien Rigaux";
+            schema:identifier  "" ;
+        ] ;
+    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-220426>
+    a emobon:Event ;
+    dwc:eventDate "2022-04-20 10:57:42";
+    dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
+    dwc:decimalLatitude "51.433331" ; 
+    dwc:decimalLongitude "2.80833" ;
+    dwc:eventID "BPNS-So3-220426" ; 
+    schema:Contributor 
+        [schema:isMemberOf <https://edmo.seadatanet.org/report/422> ;schema:isMemberOf <https://edmo.seadatanet.org/report/449> ;schema:isMemberOf <https://edmo.seadatanet.org/report/432> ;schema:isMemberOf <https://edmo.seadatanet.org/report/2248> ;
+            schema:name "Annelien Rigaux";
+            schema:identifier  "" ;
+        ] ;
+    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-220429>
+    a emobon:Event ;
+    dwc:eventDate "2022-04-20 10:57:42";
+    dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
+    dwc:decimalLatitude "51.433331" ; 
+    dwc:decimalLongitude "2.80833" ;
+    dwc:eventID "BPNS-So3-220429" ; 
+    schema:Contributor 
+        [schema:isMemberOf <https://edmo.seadatanet.org/report/422> ;schema:isMemberOf <https://edmo.seadatanet.org/report/449> ;schema:isMemberOf <https://edmo.seadatanet.org/report/432> ;schema:isMemberOf <https://edmo.seadatanet.org/report/2248> ;
+            schema:name "Annelien Rigaux";
+            schema:identifier  "" ;
+        ] ;
+    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/EMOBON_BE_20210701_330>
+    a emobon:Event ;
+    dwc:eventDate "2021-07-01 08:23:15";
+    dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
+    dwc:decimalLatitude "51.433331" ; 
+    dwc:decimalLongitude "2.80833" ;
+    dwc:eventID "EMOBON_BE_20210701_330" ; 
+    schema:Contributor 
+        [schema:isMemberOf <https://edmo.seadatanet.org/report/422> ;schema:isMemberOf <https://edmo.seadatanet.org/report/449> ;schema:isMemberOf <https://edmo.seadatanet.org/report/432> ;schema:isMemberOf <https://edmo.seadatanet.org/report/2248> ;
+            schema:name "Lara Macheriotou";
+            schema:identifier  "0000-0002-5662-5689" ;
+        ] ;
+    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-220432>
+    a emobon:Event ;
+    dwc:eventDate "2022-04-20 10:57:42";
+    dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
+    dwc:decimalLatitude "51.433331" ; 
+    dwc:decimalLongitude "2.80833" ;
+    dwc:eventID "BPNS-So3-220432" ; 
+    schema:Contributor 
+        [schema:isMemberOf <https://edmo.seadatanet.org/report/422> ;schema:isMemberOf <https://edmo.seadatanet.org/report/449> ;schema:isMemberOf <https://edmo.seadatanet.org/report/432> ;schema:isMemberOf <https://edmo.seadatanet.org/report/2248> ;
+            schema:name "Annelien Rigaux";
+            schema:identifier  "" ;
+        ] ;
+    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-220428>
+    a emobon:Event ;
+    dwc:eventDate "2022-04-20 10:57:42";
+    dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
+    dwc:decimalLatitude "51.433331" ; 
+    dwc:decimalLongitude "2.80833" ;
+    dwc:eventID "BPNS-So3-220428" ; 
+    schema:Contributor 
+        [schema:isMemberOf <https://edmo.seadatanet.org/report/422> ;schema:isMemberOf <https://edmo.seadatanet.org/report/449> ;schema:isMemberOf <https://edmo.seadatanet.org/report/432> ;schema:isMemberOf <https://edmo.seadatanet.org/report/2248> ;
+            schema:name "Annelien Rigaux";
+            schema:identifier  "" ;
+        ] ;
+    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-220424>
+    a emobon:Event ;
+    dwc:eventDate "2022-04-20 10:57:42";
+    dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
+    dwc:decimalLatitude "51.433331" ; 
+    dwc:decimalLongitude "2.80833" ;
+    dwc:eventID "BPNS-So3-220424" ; 
+    schema:Contributor 
+        [schema:isMemberOf <https://edmo.seadatanet.org/report/422> ;schema:isMemberOf <https://edmo.seadatanet.org/report/449> ;schema:isMemberOf <https://edmo.seadatanet.org/report/432> ;schema:isMemberOf <https://edmo.seadatanet.org/report/2248> ;
+            schema:name "Annelien Rigaux";
+            schema:identifier  "" ;
+        ] ;
+    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-211023>
+    a emobon:Event ;
+    dwc:eventDate "2021-10-28 08:02:56";
+    dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
+    dwc:decimalLatitude "51.433331" ; 
+    dwc:decimalLongitude "2.80833" ;
+    dwc:eventID "BPNS-So3-211023" ; 
+    schema:Contributor 
+        [schema:isMemberOf <https://edmo.seadatanet.org/report/422> ;schema:isMemberOf <https://edmo.seadatanet.org/report/449> ;schema:isMemberOf <https://edmo.seadatanet.org/report/432> ;schema:isMemberOf <https://edmo.seadatanet.org/report/2248> ;
+            schema:name "Sander Delacauw";
+            schema:identifier  "0000-0002-5400-2891" ;
+        ] ;
+    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-211223>
+    a emobon:Event ;
+    dwc:eventDate "2021-12-23 09:28:40";
+    dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
+    dwc:decimalLatitude "51.433331" ; 
+    dwc:decimalLongitude "2.80833" ;
+    dwc:eventID "BPNS-So3-211223" ; 
+    schema:Contributor 
+        [schema:isMemberOf <https://edmo.seadatanet.org/report/422> ;schema:isMemberOf <https://edmo.seadatanet.org/report/449> ;schema:isMemberOf <https://edmo.seadatanet.org/report/432> ;schema:isMemberOf <https://edmo.seadatanet.org/report/2248> ;
+            schema:name "Rune Lagaisse";
+            schema:identifier  "0000-0001-9191-9140" ;
+        ] ;
+    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-211018>
+    a emobon:Event ;
+    dwc:eventDate "2021-10-28 08:02:56";
+    dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
+    dwc:decimalLatitude "51.433331" ; 
+    dwc:decimalLongitude "2.80833" ;
+    dwc:eventID "BPNS-So3-211018" ; 
+    schema:Contributor 
+        [schema:isMemberOf <https://edmo.seadatanet.org/report/422> ;schema:isMemberOf <https://edmo.seadatanet.org/report/449> ;schema:isMemberOf <https://edmo.seadatanet.org/report/432> ;schema:isMemberOf <https://edmo.seadatanet.org/report/2248> ;
+            schema:name "Sander Delacauw";
+            schema:identifier  "0000-0002-5400-2891" ;
+        ] ;
+    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-220434>
+    a emobon:Event ;
+    dwc:eventDate "2022-04-20 10:57:42";
+    dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
+    dwc:decimalLatitude "51.433331" ; 
+    dwc:decimalLongitude "2.80833" ;
+    dwc:eventID "BPNS-So3-220434" ; 
+    schema:Contributor 
+        [schema:isMemberOf <https://edmo.seadatanet.org/report/422> ;schema:isMemberOf <https://edmo.seadatanet.org/report/449> ;schema:isMemberOf <https://edmo.seadatanet.org/report/432> ;schema:isMemberOf <https://edmo.seadatanet.org/report/2248> ;
+            schema:name "Annelien Rigaux";
+            schema:identifier  "" ;
+        ] ;
+    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/EMOBON_BE_20210726_330>
+    a emobon:Event ;
+    dwc:eventDate "2021-07-26 12:44:15";
+    dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
+    dwc:decimalLatitude "51.433331" ; 
+    dwc:decimalLongitude "2.80833" ;
+    dwc:eventID "EMOBON_BE_20210726_330" ; 
+    schema:Contributor 
+        [schema:isMemberOf <https://edmo.seadatanet.org/report/422> ;schema:isMemberOf <https://edmo.seadatanet.org/report/449> ;schema:isMemberOf <https://edmo.seadatanet.org/report/432> ;schema:isMemberOf <https://edmo.seadatanet.org/report/2248> ;
+            schema:name "Jonas Mortelmans";
+            schema:identifier  "0000-0002-8781-7915" ;
+        ] ;
+    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-211017>
+    a emobon:Event ;
+    dwc:eventDate "2021-10-28 08:02:56";
+    dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
+    dwc:decimalLatitude "51.433331" ; 
+    dwc:decimalLongitude "2.80833" ;
+    dwc:eventID "BPNS-So3-211017" ; 
+    schema:Contributor 
+        [schema:isMemberOf <https://edmo.seadatanet.org/report/422> ;schema:isMemberOf <https://edmo.seadatanet.org/report/449> ;schema:isMemberOf <https://edmo.seadatanet.org/report/432> ;schema:isMemberOf <https://edmo.seadatanet.org/report/2248> ;
+            schema:name "Sander Delacauw";
+            schema:identifier  "0000-0002-5400-2891" ;
+        ] ;
+    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-211015>
+    a emobon:Event ;
+    dwc:eventDate "2021-10-28 08:02:56";
+    dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
+    dwc:decimalLatitude "51.433331" ; 
+    dwc:decimalLongitude "2.80833" ;
+    dwc:eventID "BPNS-So3-211015" ; 
+    schema:Contributor 
+        [schema:isMemberOf <https://edmo.seadatanet.org/report/422> ;schema:isMemberOf <https://edmo.seadatanet.org/report/449> ;schema:isMemberOf <https://edmo.seadatanet.org/report/432> ;schema:isMemberOf <https://edmo.seadatanet.org/report/2248> ;
+            schema:name "Sander Delacauw";
+            schema:identifier  "0000-0002-5400-2891" ;
+        ] ;
+    schema:range<https://data.emobon.embrc.eu/IDs/EMOBON_BE_20210701_330>
+    a emobon:Event ;
+    dwc:eventDate "2021-07-01 08:23:15";
+    dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
+    dwc:decimalLatitude "51.433331" ; 
+    dwc:decimalLongitude "2.80833" ;
+    dwc:eventID "EMOBON_BE_20210701_330" ; 
+    schema:Contributor 
+        [schema:isMemberOf <https://edmo.seadatanet.org/report/422> ;schema:isMemberOf <https://edmo.seadatanet.org/report/449> ;schema:isMemberOf <https://edmo.seadatanet.org/report/432> ;schema:isMemberOf <https://edmo.seadatanet.org/report/2248> ;
+            schema:name "Lara Macheriotou";
+            schema:identifier  "0000-0002-5662-5689" ;
+        ] ;
+    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-211022>
+    a emobon:Event ;
+    dwc:eventDate "2021-10-28 08:02:56";
+    dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
+    dwc:decimalLatitude "51.433331" ; 
+    dwc:decimalLongitude "2.80833" ;
+    dwc:eventID "BPNS-So3-211022" ; 
+    schema:Contributor 
+        [schema:isMemberOf <https://edmo.seadatanet.org/report/422> ;schema:isMemberOf <https://edmo.seadatanet.org/report/449> ;schema:isMemberOf <https://edmo.seadatanet.org/report/432> ;schema:isMemberOf <https://edmo.seadatanet.org/report/2248> ;
+            schema:name "Sander Delacauw";
+            schema:identifier  "0000-0002-5400-2891" ;
+        ] ;
+    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-220601>
+    a emobon:Event ;
+    dwc:eventDate "2022-06-01 12:57:08";
+    dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
+    dwc:decimalLatitude "51.433331" ; 
+    dwc:decimalLongitude "2.80833" ;
+    dwc:eventID "BPNS-So3-220601" ; 
+    schema:Contributor 
+        [schema:isMemberOf <https://edmo.seadatanet.org/report/422> ;schema:isMemberOf <https://edmo.seadatanet.org/report/449> ;schema:isMemberOf <https://edmo.seadatanet.org/report/432> ;schema:isMemberOf <https://edmo.seadatanet.org/report/2248> ;
+            schema:name "Lara Macheriotou";
+            schema:identifier  "0000-0002-5662-5689" ;
+        ] ;
+    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-220420>
+    a emobon:Event ;
+    dwc:eventDate "2022-04-20 10:57:42";
+    dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
+    dwc:decimalLatitude "51.433331" ; 
+    dwc:decimalLongitude "2.80833" ;
+    dwc:eventID "BPNS-So3-220420" ; 
+    schema:Contributor 
+        [schema:isMemberOf <https://edmo.seadatanet.org/report/422> ;schema:isMemberOf <https://edmo.seadatanet.org/report/449> ;schema:isMemberOf <https://edmo.seadatanet.org/report/432> ;schema:isMemberOf <https://edmo.seadatanet.org/report/2248> ;
+            schema:name "Annelien Rigaux";
+            schema:identifier  "" ;
+        ] ;
+    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-211020>
+    a emobon:Event ;
+    dwc:eventDate "2021-10-28 08:02:56";
+    dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
+    dwc:decimalLatitude "51.433331" ; 
+    dwc:decimalLongitude "2.80833" ;
+    dwc:eventID "BPNS-So3-211020" ; 
+    schema:Contributor 
+        [schema:isMemberOf <https://edmo.seadatanet.org/report/422> ;schema:isMemberOf <https://edmo.seadatanet.org/report/449> ;schema:isMemberOf <https://edmo.seadatanet.org/report/432> ;schema:isMemberOf <https://edmo.seadatanet.org/report/2248> ;
+            schema:name "Sander Delacauw";
+            schema:identifier  "0000-0002-5400-2891" ;
+        ] ;
+    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-211021>
+    a emobon:Event ;
+    dwc:eventDate "2021-10-28 08:02:56";
+    dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
+    dwc:decimalLatitude "51.433331" ; 
+    dwc:decimalLongitude "2.80833" ;
+    dwc:eventID "BPNS-So3-211021" ; 
+    schema:Contributor 
+        [schema:isMemberOf <https://edmo.seadatanet.org/report/422> ;schema:isMemberOf <https://edmo.seadatanet.org/report/449> ;schema:isMemberOf <https://edmo.seadatanet.org/report/432> ;schema:isMemberOf <https://edmo.seadatanet.org/report/2248> ;
+            schema:name "Sander Delacauw";
+            schema:identifier  "0000-0002-5400-2891" ;
+        ] ;
+    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-211013>
+    a emobon:Event ;
+    dwc:eventDate "2021-10-28 08:02:56";
+    dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
+    dwc:decimalLatitude "51.433331" ; 
+    dwc:decimalLongitude "2.80833" ;
+    dwc:eventID "BPNS-So3-211013" ; 
+    schema:Contributor 
+        [schema:isMemberOf <https://edmo.seadatanet.org/report/422> ;schema:isMemberOf <https://edmo.seadatanet.org/report/449> ;schema:isMemberOf <https://edmo.seadatanet.org/report/432> ;schema:isMemberOf <https://edmo.seadatanet.org/report/2248> ;
+            schema:name "Sander Delacauw";
+            schema:identifier  "0000-0002-5400-2891" ;
+        ] ;
+    schema:range emobon:sedimentSample .schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/EMOBON_BE_20210825_330>
+    a emobon:Event ;
+    dwc:eventDate "2021-08-25 09:06:30";
+    dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
+    dwc:decimalLatitude "51.433331" ; 
+    dwc:decimalLongitude "2.80833" ;
+    dwc:eventID "EMOBON_BE_20210825_330" ; 
+    schema:Contributor 
+        [schema:isMemberOf <https://edmo.seadatanet.org/report/422> ;schema:isMemberOf <https://edmo.seadatanet.org/report/449> ;schema:isMemberOf <https://edmo.seadatanet.org/report/432> ;schema:isMemberOf <https://edmo.seadatanet.org/report/2248> ;
+            schema:name "Sander Delacauw";
+            schema:identifier  "0000-0002-5400-2891" ;
+        ] ;
+    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-211025>
+    a emobon:Event ;
+    dwc:eventDate "2021-10-28 08:02:56";
+    dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
+    dwc:decimalLatitude "51.433331" ; 
+    dwc:decimalLongitude "2.80833" ;
+    dwc:eventID "BPNS-So3-211025" ; 
+    schema:Contributor 
+        [schema:isMemberOf <https://edmo.seadatanet.org/report/422> ;schema:isMemberOf <https://edmo.seadatanet.org/report/449> ;schema:isMemberOf <https://edmo.seadatanet.org/report/432> ;schema:isMemberOf <https://edmo.seadatanet.org/report/2248> ;
+            schema:name "Lara Macheriotou";
+            schema:identifier  "0000-0002-5662-5689" ;
+        ] ;
+    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-220433>
+    a emobon:Event ;
+    dwc:eventDate "2022-04-20 10:57:42";
+    dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
+    dwc:decimalLatitude "51.433331" ; 
+    dwc:decimalLongitude "2.80833" ;
+    dwc:eventID "BPNS-So3-220433" ; 
+    schema:Contributor 
+        [schema:isMemberOf <https://edmo.seadatanet.org/report/422> ;schema:isMemberOf <https://edmo.seadatanet.org/report/449> ;schema:isMemberOf <https://edmo.seadatanet.org/report/432> ;schema:isMemberOf <https://edmo.seadatanet.org/report/2248> ;
+            schema:name "Annelien Rigaux";
+            schema:identifier  "" ;
+        ] ;
+    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-220423>
+    a emobon:Event ;
+    dwc:eventDate "2022-04-20 10:57:42";
+    dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
+    dwc:decimalLatitude "51.433331" ; 
+    dwc:decimalLongitude "2.80833" ;
+    dwc:eventID "BPNS-So3-220423" ; 
+    schema:Contributor 
+        [schema:isMemberOf <https://edmo.seadatanet.org/report/422> ;schema:isMemberOf <https://edmo.seadatanet.org/report/449> ;schema:isMemberOf <https://edmo.seadatanet.org/report/432> ;schema:isMemberOf <https://edmo.seadatanet.org/report/2248> ;
+            schema:name "Annelien Rigaux";
+            schema:identifier  "" ;
+        ] ;
+    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-211026>
+    a emobon:Event ;
+    dwc:eventDate "2021-10-28 08:02:56";
+    dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
+    dwc:decimalLatitude "51.433331" ; 
+    dwc:decimalLongitude "2.80833" ;
+    dwc:eventID "BPNS-So3-211026" ; 
+    schema:Contributor 
+        [schema:isMemberOf <https://edmo.seadatanet.org/report/422> ;schema:isMemberOf <https://edmo.seadatanet.org/report/449> ;schema:isMemberOf <https://edmo.seadatanet.org/report/432> ;schema:isMemberOf <https://edmo.seadatanet.org/report/2248> ;
+            schema:name "Lara Macheriotou";
+            schema:identifier  "0000-0002-5662-5689" ;
+        ] ;
+    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-211024>
+    a emobon:Event ;
+    dwc:eventDate "2021-10-28 08:02:56";
+    dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
+    dwc:decimalLatitude "51.433331" ; 
+    dwc:decimalLongitude "2.80833" ;
+    dwc:eventID "BPNS-So3-211024" ; 
+    schema:Contributor 
+        [schema:isMemberOf <https://edmo.seadatanet.org/report/422> ;schema:isMemberOf <https://edmo.seadatanet.org/report/449> ;schema:isMemberOf <https://edmo.seadatanet.org/report/432> ;schema:isMemberOf <https://edmo.seadatanet.org/report/2248> ;
+            schema:name "Lara Macheriotou";
+            schema:identifier  "0000-0002-5662-5689" ;
+        ] ;
+    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-211028>
+    a emobon:Event ;
+    dwc:eventDate "2021-10-28 08:02:56";
+    dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
+    dwc:decimalLatitude "51.433331" ; 
+    dwc:decimalLongitude "2.80833" ;
+    dwc:eventID "BPNS-So3-211028" ; 
+    schema:Contributor 
+        [schema:isMemberOf <https://edmo.seadatanet.org/report/422> ;schema:isMemberOf <https://edmo.seadatanet.org/report/449> ;schema:isMemberOf <https://edmo.seadatanet.org/report/432> ;schema:isMemberOf <https://edmo.seadatanet.org/report/2248> ;
+            schema:name "Lara Macheriotou";
+            schema:identifier  "0000-0002-5662-5689" ;
+        ] ;
+    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-220421>
+    a emobon:Event ;
+    dwc:eventDate "2022-04-20 10:57:42";
+    dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
+    dwc:decimalLatitude "51.433331" ; 
+    dwc:decimalLongitude "2.80833" ;
+    dwc:eventID "BPNS-So3-220421" ; 
+    schema:Contributor 
+        [schema:isMemberOf <https://edmo.seadatanet.org/report/422> ;schema:isMemberOf <https://edmo.seadatanet.org/report/449> ;schema:isMemberOf <https://edmo.seadatanet.org/report/432> ;schema:isMemberOf <https://edmo.seadatanet.org/report/2248> ;
+            schema:name "Annelien Rigaux";
+            schema:identifier  "" ;
+        ] ;
+    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS%20So3%20221027>
+    a emobon:Event ;
+    dwc:eventDate "";
+    dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
+    dwc:decimalLatitude "51.433331" ; 
+    dwc:decimalLongitude "2.80833" ;
+    dwc:eventID "BPNS So3 221027" ; 
+    schema:Contributor 
+        [schema:isMemberOf <https://edmo.seadatanet.org/report/422> ;schema:isMemberOf <https://edmo.seadatanet.org/report/449> ;schema:isMemberOf <https://edmo.seadatanet.org/report/432> ;schema:isMemberOf <https://edmo.seadatanet.org/report/2248> ;
+            schema:name "Rune Lagaisse";
+            schema:identifier  "0000-0001-9191-9140" ;
+        ] ;
+    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-220322>
+    a emobon:Event ;
+    dwc:eventDate "2022-03-22 17:44:43";
+    dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
+    dwc:decimalLatitude "51.433331" ; 
+    dwc:decimalLongitude "2.80833" ;
+    dwc:eventID "BPNS-So3-220322" ; 
+    schema:Contributor 
+        [schema:isMemberOf <https://edmo.seadatanet.org/report/422> ;schema:isMemberOf <https://edmo.seadatanet.org/report/449> ;schema:isMemberOf <https://edmo.seadatanet.org/report/432> ;schema:isMemberOf <https://edmo.seadatanet.org/report/2248> ;
+            schema:name "Rune Lagaisse";
+            schema:identifier  "0000-0001-9191-9140" ;
+        ] ;
+    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-211019>
+    a emobon:Event ;
+    dwc:eventDate "2021-10-28 08:02:56";
+    dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
+    dwc:decimalLatitude "51.433331" ; 
+    dwc:decimalLongitude "2.80833" ;
+    dwc:eventID "BPNS-So3-211019" ; 
+    schema:Contributor 
+        [schema:isMemberOf <https://edmo.seadatanet.org/report/422> ;schema:isMemberOf <https://edmo.seadatanet.org/report/449> ;schema:isMemberOf <https://edmo.seadatanet.org/report/432> ;schema:isMemberOf <https://edmo.seadatanet.org/report/2248> ;
+            schema:name "Sander Delacauw";
+            schema:identifier  "0000-0002-5400-2891" ;
+        ] ;
+    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-211014>
+    a emobon:Event ;
+    dwc:eventDate "2021-10-28 08:02:56";
+    dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
+    dwc:decimalLatitude "51.433331" ; 
+    dwc:decimalLongitude "2.80833" ;
+    dwc:eventID "BPNS-So3-211014" ; 
+    schema:Contributor 
+        [schema:isMemberOf <https://edmo.seadatanet.org/report/422> ;schema:isMemberOf <https://edmo.seadatanet.org/report/449> ;schema:isMemberOf <https://edmo.seadatanet.org/report/432> ;schema:isMemberOf <https://edmo.seadatanet.org/report/2248> ;
+            schema:name "Sander Delacauw";
+            schema:identifier  "0000-0002-5400-2891" ;
+        ] ;
+    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-220435>
+    a emobon:Event ;
+    dwc:eventDate "2022-04-20 10:57:42";
+    dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
+    dwc:decimalLatitude "51.433331" ; 
+    dwc:decimalLongitude "2.80833" ;
+    dwc:eventID "BPNS-So3-220435" ; 
+    schema:Contributor 
+        [schema:isMemberOf <https://edmo.seadatanet.org/report/422> ;schema:isMemberOf <https://edmo.seadatanet.org/report/449> ;schema:isMemberOf <https://edmo.seadatanet.org/report/432> ;schema:isMemberOf <https://edmo.seadatanet.org/report/2248> ;
+            schema:name "Annelien Rigaux";
+            schema:identifier  "" ;
+        ] ;
+    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS%20So3%20221212>
+    a emobon:Event ;
+    dwc:eventDate "";
+    dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
+    dwc:decimalLatitude "51.433331" ; 
+    dwc:decimalLongitude "2.80833" ;
+    dwc:eventID "BPNS So3 221212" ; 
+    schema:Contributor 
+        [schema:isMemberOf <https://edmo.seadatanet.org/report/422> ;schema:isMemberOf <https://edmo.seadatanet.org/report/449> ;schema:isMemberOf <https://edmo.seadatanet.org/report/432> ;schema:isMemberOf <https://edmo.seadatanet.org/report/2248> ;
+            schema:name "Rune Lagaisse";
+            schema:identifier  "0000-0001-9191-9140" ;
+        ] ;
+    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-220427>
+    a emobon:Event ;
+    dwc:eventDate "2022-04-20 10:57:42";
+    dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
+    dwc:decimalLatitude "51.433331" ; 
+    dwc:decimalLongitude "2.80833" ;
+    dwc:eventID "BPNS-So3-220427" ; 
+    schema:Contributor 
+        [schema:isMemberOf <https://edmo.seadatanet.org/report/422> ;schema:isMemberOf <https://edmo.seadatanet.org/report/449> ;schema:isMemberOf <https://edmo.seadatanet.org/report/432> ;schema:isMemberOf <https://edmo.seadatanet.org/report/2248> ;
+            schema:name "Annelien Rigaux";
+            schema:identifier  "" ;
+        ] ;
+    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-220601>
+    a emobon:Event ;
+    dwc:eventDate "2022-06-01 12:57:08";
+    dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
+    dwc:decimalLatitude "51.433331" ; 
+    dwc:decimalLongitude "2.80833" ;
+    dwc:eventID "BPNS-So3-220601" ; 
+    schema:Contributor 
+        [schema:isMemberOf <https://edmo.seadatanet.org/report/422> ;schema:isMemberOf <https://edmo.seadatanet.org/report/449> ;schema:isMemberOf <https://edmo.seadatanet.org/report/432> ;schema:isMemberOf <https://edmo.seadatanet.org/report/2248> ;
+            schema:name "Rune Lagaisse";
+            schema:identifier  "0000-0001-9191-9140" ;
+        ] ;
+    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-220601>
+    a emobon:Event ;
+    dwc:eventDate "";
+    dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
+    dwc:decimalLatitude "51.433331" ; 
+    dwc:decimalLongitude "2.80833" ;
+    dwc:eventID "BPNS-So3-220601" ; 
+    schema:Contributor 
+        [schema:isMemberOf <https://edmo.seadatanet.org/report/422> ;schema:isMemberOf <https://edmo.seadatanet.org/report/449> ;schema:isMemberOf <https://edmo.seadatanet.org/report/432> ;schema:isMemberOf <https://edmo.seadatanet.org/report/2248> ;
+            schema:name "Rune Lagaisse";
+            schema:identifier  "0000-0001-9191-9140" ;
+        ] ;
+    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-211027>
+    a emobon:Event ;
+    dwc:eventDate "2021-10-28 08:02:56";
+    dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
+    dwc:decimalLatitude "51.433331" ; 
+    dwc:decimalLongitude "2.80833" ;
+    dwc:eventID "BPNS-So3-211027" ; 
+    schema:Contributor 
+        [schema:isMemberOf <https://edmo.seadatanet.org/report/422> ;schema:isMemberOf <https://edmo.seadatanet.org/report/449> ;schema:isMemberOf <https://edmo.seadatanet.org/report/432> ;schema:isMemberOf <https://edmo.seadatanet.org/report/2248> ;
+            schema:name "Lara Macheriotou";
+            schema:identifier  "0000-0002-5662-5689" ;
+        ] ;
+    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-220430>
+    a emobon:Event ;
+    dwc:eventDate "2022-04-20 10:57:42";
+    dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
+    dwc:decimalLatitude "51.433331" ; 
+    dwc:decimalLongitude "2.80833" ;
+    dwc:eventID "BPNS-So3-220430" ; 
+    schema:Contributor 
+        [schema:isMemberOf <https://edmo.seadatanet.org/report/422> ;schema:isMemberOf <https://edmo.seadatanet.org/report/449> ;schema:isMemberOf <https://edmo.seadatanet.org/report/432> ;schema:isMemberOf <https://edmo.seadatanet.org/report/2248> ;
+            schema:name "Annelien Rigaux";
+            schema:identifier  "" ;
+        ] ;
+    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-220431>
+    a emobon:Event ;
+    dwc:eventDate "2022-04-20 10:57:42";
+    dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
+    dwc:decimalLatitude "51.433331" ; 
+    dwc:decimalLongitude "2.80833" ;
+    dwc:eventID "BPNS-So3-220431" ; 
+    schema:Contributor 
+        [schema:isMemberOf <https://edmo.seadatanet.org/report/422> ;schema:isMemberOf <https://edmo.seadatanet.org/report/449> ;schema:isMemberOf <https://edmo.seadatanet.org/report/432> ;schema:isMemberOf <https://edmo.seadatanet.org/report/2248> ;
+            schema:name "Annelien Rigaux";
+            schema:identifier  "" ;
+        ] ;
+    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-211016>
+    a emobon:Event ;
+    dwc:eventDate "2021-10-28 08:02:56";
+    dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
+    dwc:decimalLatitude "51.433331" ; 
+    dwc:decimalLongitude "2.80833" ;
+    dwc:eventID "BPNS-So3-211016" ; 
+    schema:Contributor 
+        [schema:isMemberOf <https://edmo.seadatanet.org/report/422> ;schema:isMemberOf <https://edmo.seadatanet.org/report/449> ;schema:isMemberOf <https://edmo.seadatanet.org/report/432> ;schema:isMemberOf <https://edmo.seadatanet.org/report/2248> ;
+            schema:name "Sander Delacauw";
+            schema:identifier  "0000-0002-5400-2891" ;
+        ] ;
+    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-220422>
+    a emobon:Event ;
+    dwc:eventDate "2022-04-20 10:57:42";
+    dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
+    dwc:decimalLatitude "51.433331" ; 
+    dwc:decimalLongitude "2.80833" ;
+    dwc:eventID "BPNS-So3-220422" ; 
+    schema:Contributor 
+        [schema:isMemberOf <https://edmo.seadatanet.org/report/422> ;schema:isMemberOf <https://edmo.seadatanet.org/report/449> ;schema:isMemberOf <https://edmo.seadatanet.org/report/432> ;schema:isMemberOf <https://edmo.seadatanet.org/report/2248> ;
+            schema:name "Annelien Rigaux";
+            schema:identifier  "" ;
+        ] ;
+    
+<https://data.emobon.embrc.eu/IDs/EMOBON-210701-330-SoSOP3-Meio-R1>
+     a emobon:SedimentSample ;   
+     dwc:MaterialSampleID "EMOBON-210701-330-SoSOP3-Meio-R1" ;
+     sosa:isResultOf <https://data.emobon.embrc.eu/IDsEMOBON_BE_20210701_330>;
+     emobon:sop "SoSOP3" ; 
+     sosa:hasResult a sosa:observerdProperty[ 
+           a emobon:sampleSize ;
+           dwc:sampleSizeValue "340" ; 
+           dwc:sampleSizeUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULIT/> ;
+     ] .
+<https://data.emobon.embrc.eu/IDs/EMOBON-210701-330-SoSOP3-Meio-R2>
+     a emobon:SedimentSample ;   
+     dwc:MaterialSampleID "EMOBON-210701-330-SoSOP3-Meio-R2" ;
+     sosa:isResultOf <https://data.emobon.embrc.eu/IDsEMOBON_BE_20210701_330>;
+     emobon:sop "SoSOP3" ; 
+     sosa:hasResult a sosa:observerdProperty[ 
+           a emobon:sampleSize ;
+           dwc:sampleSizeValue "470" ; 
+           dwc:sampleSizeUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULIT/> ;
+     ] .
+<https://data.emobon.embrc.eu/IDs/EMOBON-210701-330-SoSOP3-Meio-R3>
+     a emobon:SedimentSample ;   
+     dwc:MaterialSampleID "EMOBON-210701-330-SoSOP3-Meio-R3" ;
+     sosa:isResultOf <https://data.emobon.embrc.eu/IDsEMOBON_BE_20210701_330>;
+     emobon:sop "SoSOP3" ; 
+     sosa:hasResult a sosa:observerdProperty[ 
+           a emobon:sampleSize ;
+           dwc:sampleSizeValue "405" ; 
+           dwc:sampleSizeUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULIT/> ;
+     ] .
+<https://data.emobon.embrc.eu/IDs/EMOBON-210701-330-SoSOP3-Meio-R4>
+     a emobon:SedimentSample ;   
+     dwc:MaterialSampleID "EMOBON-210701-330-SoSOP3-Meio-R4" ;
+     sosa:isResultOf <https://data.emobon.embrc.eu/IDsEMOBON_BE_20210701_330>;
+     emobon:sop "SoSOP3" ; 
+     sosa:hasResult a sosa:observerdProperty[ 
+           a emobon:sampleSize ;
+           dwc:sampleSizeValue "300" ; 
+           dwc:sampleSizeUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULIT/> ;
+     ] .
+<https://data.emobon.embrc.eu/IDs/EMOBON-210726-330-SoSOP3-Micro-R1>
+     a emobon:SedimentSample ;   
+     dwc:MaterialSampleID "EMOBON-210726-330-SoSOP3-Micro-R1" ;
+     sosa:isResultOf <https://data.emobon.embrc.eu/IDsEMOBON_BE_20210726_330>;
+     emobon:sop "SoSOP3" ; 
+     sosa:hasResult a sosa:observerdProperty[ 
+           a emobon:sampleSize ;
+           dwc:sampleSizeValue "" ; 
+           dwc:sampleSizeUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULIT/> ;
+     ] .
+<https://data.emobon.embrc.eu/IDs/EMOBON-210726-330-SoSOP3-Micro-R2>
+     a emobon:SedimentSample ;   
+     dwc:MaterialSampleID "EMOBON-210726-330-SoSOP3-Micro-R2" ;
+     sosa:isResultOf <https://data.emobon.embrc.eu/IDsEMOBON_BE_20210726_330>;
+     emobon:sop "SoSOP3" ; 
+     sosa:hasResult a sosa:observerdProperty[ 
+           a emobon:sampleSize ;
+           dwc:sampleSizeValue "" ; 
+           dwc:sampleSizeUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULIT/> ;
+     ] .
+<https://data.emobon.embrc.eu/IDs/EMOBON-210726-330-SoSOP3-Micro-R3>
+     a emobon:SedimentSample ;   
+     dwc:MaterialSampleID "EMOBON-210726-330-SoSOP3-Micro-R3" ;
+     sosa:isResultOf <https://data.emobon.embrc.eu/IDsEMOBON_BE_20210726_330>;
+     emobon:sop "SoSOP3" ; 
+     sosa:hasResult a sosa:observerdProperty[ 
+           a emobon:sampleSize ;
+           dwc:sampleSizeValue "" ; 
+           dwc:sampleSizeUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULIT/> ;
+     ] .
+<https://data.emobon.embrc.eu/IDs/EMOBON-210726-330-SoSOP3-Micro-R4>
+     a emobon:SedimentSample ;   
+     dwc:MaterialSampleID "EMOBON-210726-330-SoSOP3-Micro-R4" ;
+     sosa:isResultOf <https://data.emobon.embrc.eu/IDsEMOBON_BE_20210726_330>;
+     emobon:sop "SoSOP3" ; 
+     sosa:hasResult a sosa:observerdProperty[ 
+           a emobon:sampleSize ;
+           dwc:sampleSizeValue "" ; 
+           dwc:sampleSizeUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULIT/> ;
+     ] .
+<https://data.emobon.embrc.eu/IDs/EMOBON-210726-330-SoSOP3-Micro-B1>
+     a emobon:SedimentSample ;   
+     dwc:MaterialSampleID "EMOBON-210726-330-SoSOP3-Micro-B1" ;
+     sosa:isResultOf <https://data.emobon.embrc.eu/IDsEMOBON_BE_20210726_330>;
+     emobon:sop "SoSOP3" ; 
+     sosa:hasResult a sosa:observerdProperty[ 
+           a emobon:sampleSize ;
+           dwc:sampleSizeValue "" ; 
+           dwc:sampleSizeUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULIT/> ;
+     ] .
+<https://data.emobon.embrc.eu/IDs/EMOBON-210726-330-SoSOP3-Micro-B2>
+     a emobon:SedimentSample ;   
+     dwc:MaterialSampleID "EMOBON-210726-330-SoSOP3-Micro-B2" ;
+     sosa:isResultOf <https://data.emobon.embrc.eu/IDsEMOBON_BE_20210726_330>;
+     emobon:sop "SoSOP3" ; 
+     sosa:hasResult a sosa:observerdProperty[ 
+           a emobon:sampleSize ;
+           dwc:sampleSizeValue "" ; 
+           dwc:sampleSizeUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULIT/> ;
+     ] .
+<https://data.emobon.embrc.eu/IDs/EMOBON-210825-330-SoSOP3-Micro-R1>
+     a emobon:SedimentSample ;   
+     dwc:MaterialSampleID "EMOBON-210825-330-SoSOP3-Micro-R1" ;
+     sosa:isResultOf <https://data.emobon.embrc.eu/IDsEMOBON_BE_20210825_330>;
+     emobon:sop "SoSOP3" ; 
+     sosa:hasResult a sosa:observerdProperty[ 
+           a emobon:sampleSize ;
+           dwc:sampleSizeValue "" ; 
+           dwc:sampleSizeUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULIT/> ;
+     ] .
+<https://data.emobon.embrc.eu/IDs/EMOBON-210825-330-SoSOP3-Micro-R2>
+     a emobon:SedimentSample ;   
+     dwc:MaterialSampleID "EMOBON-210825-330-SoSOP3-Micro-R2" ;
+     sosa:isResultOf <https://data.emobon.embrc.eu/IDsEMOBON_BE_20210825_330>;
+     emobon:sop "SoSOP3" ; 
+     sosa:hasResult a sosa:observerdProperty[ 
+           a emobon:sampleSize ;
+           dwc:sampleSizeValue "" ; 
+           dwc:sampleSizeUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULIT/> ;
+     ] .
+<https://data.emobon.embrc.eu/IDs/EMOBON-210825-330-SoSOP3-Micro-R3>
+     a emobon:SedimentSample ;   
+     dwc:MaterialSampleID "EMOBON-210825-330-SoSOP3-Micro-R3" ;
+     sosa:isResultOf <https://data.emobon.embrc.eu/IDsEMOBON_BE_20210825_330>;
+     emobon:sop "SoSOP3" ; 
+     sosa:hasResult a sosa:observerdProperty[ 
+           a emobon:sampleSize ;
+           dwc:sampleSizeValue "" ; 
+           dwc:sampleSizeUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULIT/> ;
+     ] .
+<https://data.emobon.embrc.eu/IDs/EMOBON-210825-330-SoSOP3-Micro-R4>
+     a emobon:SedimentSample ;   
+     dwc:MaterialSampleID "EMOBON-210825-330-SoSOP3-Micro-R4" ;
+     sosa:isResultOf <https://data.emobon.embrc.eu/IDsEMOBON_BE_20210825_330>;
+     emobon:sop "SoSOP3" ; 
+     sosa:hasResult a sosa:observerdProperty[ 
+           a emobon:sampleSize ;
+           dwc:sampleSizeValue "" ; 
+           dwc:sampleSizeUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULIT/> ;
+     ] .
+<https://data.emobon.embrc.eu/IDs/EMOBON-210825-330-SoSOP3-Micro-B1>
+     a emobon:SedimentSample ;   
+     dwc:MaterialSampleID "EMOBON-210825-330-SoSOP3-Micro-B1" ;
+     sosa:isResultOf <https://data.emobon.embrc.eu/IDsEMOBON_BE_20210825_330>;
+     emobon:sop "SoSOP3" ; 
+     sosa:hasResult a sosa:observerdProperty[ 
+           a emobon:sampleSize ;
+           dwc:sampleSizeValue "" ; 
+           dwc:sampleSizeUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULIT/> ;
+     ] .
+<https://data.emobon.embrc.eu/IDs/EMOBON-210825-330-SoSOP3-Micro-B2>
+     a emobon:SedimentSample ;   
+     dwc:MaterialSampleID "EMOBON-210825-330-SoSOP3-Micro-B2" ;
+     sosa:isResultOf <https://data.emobon.embrc.eu/IDsEMOBON_BE_20210825_330>;
+     emobon:sop "SoSOP3" ; 
+     sosa:hasResult a sosa:observerdProperty[ 
+           a emobon:sampleSize ;
+           dwc:sampleSizeValue "" ; 
+           dwc:sampleSizeUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULIT/> ;
+     ] .
+<https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-So3-Micro-R1>
+     a emobon:SedimentSample ;   
+     dwc:MaterialSampleID "EMOBON-211028-BPNS-So3-Micro-R1" ;
+     sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-211013>;
+     emobon:sop "SoSOP3" ; 
+     sosa:hasResult a sosa:observerdProperty[ 
+           a emobon:sampleSize ;
+           dwc:sampleSizeValue "" ; 
+           dwc:sampleSizeUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULIT/> ;
+     ] .
+<https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-So3-Micro-R2>
+     a emobon:SedimentSample ;   
+     dwc:MaterialSampleID "EMOBON-211028-BPNS-So3-Micro-R2" ;
+     sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-211014>;
+     emobon:sop "SoSOP3" ; 
+     sosa:hasResult a sosa:observerdProperty[ 
+           a emobon:sampleSize ;
+           dwc:sampleSizeValue "" ; 
+           dwc:sampleSizeUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULIT/> ;
+     ] .
+<https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-So3-Micro-R3>
+     a emobon:SedimentSample ;   
+     dwc:MaterialSampleID "EMOBON-211028-BPNS-So3-Micro-R3" ;
+     sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-211015>;
+     emobon:sop "SoSOP3" ; 
+     sosa:hasResult a sosa:observerdProperty[ 
+           a emobon:sampleSize ;
+           dwc:sampleSizeValue "" ; 
+           dwc:sampleSizeUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULIT/> ;
+     ] .
+<https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-So3-Micro-R4>
+     a emobon:SedimentSample ;   
+     dwc:MaterialSampleID "EMOBON-211028-BPNS-So3-Micro-R4" ;
+     sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-211016>;
+     emobon:sop "SoSOP3" ; 
+     sosa:hasResult a sosa:observerdProperty[ 
+           a emobon:sampleSize ;
+           dwc:sampleSizeValue "" ; 
+           dwc:sampleSizeUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULIT/> ;
+     ] .
+<https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-So3-Micro-B1>
+     a emobon:SedimentSample ;   
+     dwc:MaterialSampleID "EMOBON-211028-BPNS-So3-Micro-B1" ;
+     sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-211017>;
+     emobon:sop "SoSOP3" ; 
+     sosa:hasResult a sosa:observerdProperty[ 
+           a emobon:sampleSize ;
+           dwc:sampleSizeValue "" ; 
+           dwc:sampleSizeUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULIT/> ;
+     ] .
+<https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-So3-Micro-B2>
+     a emobon:SedimentSample ;   
+     dwc:MaterialSampleID "EMOBON-211028-BPNS-So3-Micro-B2" ;
+     sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-211018>;
+     emobon:sop "SoSOP3" ; 
+     sosa:hasResult a sosa:observerdProperty[ 
+           a emobon:sampleSize ;
+           dwc:sampleSizeValue "" ; 
+           dwc:sampleSizeUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULIT/> ;
+     ] .
+<https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-So3-Macro-R1>
+     a emobon:SedimentSample ;   
+     dwc:MaterialSampleID "EMOBON-211028-BPNS-So3-Macro-R1" ;
+     sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-211019>;
+     emobon:sop "SoSOP3" ; 
+     sosa:hasResult a sosa:observerdProperty[ 
+           a emobon:sampleSize ;
+           dwc:sampleSizeValue "" ; 
+           dwc:sampleSizeUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULIT/> ;
+     ] .
+<https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-So3-Macro-R2>
+     a emobon:SedimentSample ;   
+     dwc:MaterialSampleID "EMOBON-211028-BPNS-So3-Macro-R2" ;
+     sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-211020>;
+     emobon:sop "SoSOP3" ; 
+     sosa:hasResult a sosa:observerdProperty[ 
+           a emobon:sampleSize ;
+           dwc:sampleSizeValue "" ; 
+           dwc:sampleSizeUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULIT/> ;
+     ] .
+<https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-So3-Macro-R3>
+     a emobon:SedimentSample ;   
+     dwc:MaterialSampleID "EMOBON-211028-BPNS-So3-Macro-R3" ;
+     sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-211021>;
+     emobon:sop "SoSOP3" ; 
+     sosa:hasResult a sosa:observerdProperty[ 
+           a emobon:sampleSize ;
+           dwc:sampleSizeValue "" ; 
+           dwc:sampleSizeUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULIT/> ;
+     ] .
+<https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-So3-Macro-R4>
+     a emobon:SedimentSample ;   
+     dwc:MaterialSampleID "EMOBON-211028-BPNS-So3-Macro-R4" ;
+     sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-211022>;
+     emobon:sop "SoSOP3" ; 
+     sosa:hasResult a sosa:observerdProperty[ 
+           a emobon:sampleSize ;
+           dwc:sampleSizeValue "" ; 
+           dwc:sampleSizeUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULIT/> ;
+     ] .
+<https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-So3-Macro-B>
+     a emobon:SedimentSample ;   
+     dwc:MaterialSampleID "EMOBON-211028-BPNS-So3-Macro-B" ;
+     sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-211023>;
+     emobon:sop "SoSOP3" ; 
+     sosa:hasResult a sosa:observerdProperty[ 
+           a emobon:sampleSize ;
+           dwc:sampleSizeValue "" ; 
+           dwc:sampleSizeUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULIT/> ;
+     ] .
+<https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-SoSOP3-Meio-R1>
+     a emobon:SedimentSample ;   
+     dwc:MaterialSampleID "EMOBON-211028-BPNS-SoSOP3-Meio-R1" ;
+     sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-211024>;
+     emobon:sop "SoSOP3" ; 
+     sosa:hasResult a sosa:observerdProperty[ 
+           a emobon:sampleSize ;
+           dwc:sampleSizeValue "170" ; 
+           dwc:sampleSizeUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULIT/> ;
+     ] .
+<https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-SoSOP3-Meio-R2>
+     a emobon:SedimentSample ;   
+     dwc:MaterialSampleID "EMOBON-211028-BPNS-SoSOP3-Meio-R2" ;
+     sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-211025>;
+     emobon:sop "SoSOP3" ; 
+     sosa:hasResult a sosa:observerdProperty[ 
+           a emobon:sampleSize ;
+           dwc:sampleSizeValue "272" ; 
+           dwc:sampleSizeUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULIT/> ;
+     ] .
+<https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-SoSOP3-Meio-R3>
+     a emobon:SedimentSample ;   
+     dwc:MaterialSampleID "EMOBON-211028-BPNS-SoSOP3-Meio-R3" ;
+     sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-211026>;
+     emobon:sop "SoSOP3" ; 
+     sosa:hasResult a sosa:observerdProperty[ 
+           a emobon:sampleSize ;
+           dwc:sampleSizeValue "334" ; 
+           dwc:sampleSizeUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULIT/> ;
+     ] .
+<https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-SoSOP3-Meio-R4>
+     a emobon:SedimentSample ;   
+     dwc:MaterialSampleID "EMOBON-211028-BPNS-SoSOP3-Meio-R4" ;
+     sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-211027>;
+     emobon:sop "SoSOP3" ; 
+     sosa:hasResult a sosa:observerdProperty[ 
+           a emobon:sampleSize ;
+           dwc:sampleSizeValue "228" ; 
+           dwc:sampleSizeUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULIT/> ;
+     ] .
+<https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-SoSOP3-Meio-B>
+     a emobon:SedimentSample ;   
+     dwc:MaterialSampleID "EMOBON-211028-BPNS-SoSOP3-Meio-B" ;
+     sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-211028>;
+     emobon:sop "SoSOP3" ; 
+     sosa:hasResult a sosa:observerdProperty[ 
+           a emobon:sampleSize ;
+           dwc:sampleSizeValue "" ; 
+           dwc:sampleSizeUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULIT/> ;
+     ] .
+<https://data.emobon.embrc.eu/IDs/EMOBON-211223-BPNS-So3-Micro-R1>
+     a emobon:SedimentSample ;   
+     dwc:MaterialSampleID "EMOBON-211223-BPNS-So3-Micro-R1" ;
+     sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-211223>;
+     emobon:sop "SoSOP3" ; 
+     sosa:hasResult a sosa:observerdProperty[ 
+           a emobon:sampleSize ;
+           dwc:sampleSizeValue "" ; 
+           dwc:sampleSizeUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULIT/> ;
+     ] .
+<https://data.emobon.embrc.eu/IDs/EMOBON-211223-BPNS-So3-Micro-R2%0A>
+     a emobon:SedimentSample ;   
+     dwc:MaterialSampleID "EMOBON-211223-BPNS-So3-Micro-R2
+" ;
+     sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-211223>;
+     emobon:sop "SoSOP3" ; 
+     sosa:hasResult a sosa:observerdProperty[ 
+           a emobon:sampleSize ;
+           dwc:sampleSizeValue "" ; 
+           dwc:sampleSizeUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULIT/> ;
+     ] .
+<https://data.emobon.embrc.eu/IDs/EMOBON-211223-BPNS-So3-Micro-R3>
+     a emobon:SedimentSample ;   
+     dwc:MaterialSampleID "EMOBON-211223-BPNS-So3-Micro-R3" ;
+     sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-211223>;
+     emobon:sop "SoSOP3" ; 
+     sosa:hasResult a sosa:observerdProperty[ 
+           a emobon:sampleSize ;
+           dwc:sampleSizeValue "" ; 
+           dwc:sampleSizeUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULIT/> ;
+     ] .
+<https://data.emobon.embrc.eu/IDs/EMOBON-211223-BPNS-So3-Micro-R4>
+     a emobon:SedimentSample ;   
+     dwc:MaterialSampleID "EMOBON-211223-BPNS-So3-Micro-R4" ;
+     sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-211223>;
+     emobon:sop "SoSOP3" ; 
+     sosa:hasResult a sosa:observerdProperty[ 
+           a emobon:sampleSize ;
+           dwc:sampleSizeValue "" ; 
+           dwc:sampleSizeUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULIT/> ;
+     ] .
+<https://data.emobon.embrc.eu/IDs/EMOBON-211223-BPNS-So3-Micro-B1>
+     a emobon:SedimentSample ;   
+     dwc:MaterialSampleID "EMOBON-211223-BPNS-So3-Micro-B1" ;
+     sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-211223>;
+     emobon:sop "SoSOP3" ; 
+     sosa:hasResult a sosa:observerdProperty[ 
+           a emobon:sampleSize ;
+           dwc:sampleSizeValue "" ; 
+           dwc:sampleSizeUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULIT/> ;
+     ] .
+<https://data.emobon.embrc.eu/IDs/EMOBON-211223-BPNS-So3-Micro-B2>
+     a emobon:SedimentSample ;   
+     dwc:MaterialSampleID "EMOBON-211223-BPNS-So3-Micro-B2" ;
+     sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-211223>;
+     emobon:sop "SoSOP3" ; 
+     sosa:hasResult a sosa:observerdProperty[ 
+           a emobon:sampleSize ;
+           dwc:sampleSizeValue "" ; 
+           dwc:sampleSizeUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULIT/> ;
+     ] .
+<https://data.emobon.embrc.eu/IDs/EMOBON-220322-BPNS-So3-Micro-R1>
+     a emobon:SedimentSample ;   
+     dwc:MaterialSampleID "EMOBON-220322-BPNS-So3-Micro-R1" ;
+     sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-220322>;
+     emobon:sop "SoSOP3" ; 
+     sosa:hasResult a sosa:observerdProperty[ 
+           a emobon:sampleSize ;
+           dwc:sampleSizeValue "" ; 
+           dwc:sampleSizeUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULIT/> ;
+     ] .
+<https://data.emobon.embrc.eu/IDs/EMOBON-220322-BPNS-So3-Micro-R2>
+     a emobon:SedimentSample ;   
+     dwc:MaterialSampleID "EMOBON-220322-BPNS-So3-Micro-R2" ;
+     sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-220322>;
+     emobon:sop "SoSOP3" ; 
+     sosa:hasResult a sosa:observerdProperty[ 
+           a emobon:sampleSize ;
+           dwc:sampleSizeValue "" ; 
+           dwc:sampleSizeUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULIT/> ;
+     ] .
+<https://data.emobon.embrc.eu/IDs/EMOBON-220322-BPNS-So3-Micro-R3>
+     a emobon:SedimentSample ;   
+     dwc:MaterialSampleID "EMOBON-220322-BPNS-So3-Micro-R3" ;
+     sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-220322>;
+     emobon:sop "SoSOP3" ; 
+     sosa:hasResult a sosa:observerdProperty[ 
+           a emobon:sampleSize ;
+           dwc:sampleSizeValue "" ; 
+           dwc:sampleSizeUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULIT/> ;
+     ] .
+<https://data.emobon.embrc.eu/IDs/EMOBON-220322-BPNS-So3-Micro-R4>
+     a emobon:SedimentSample ;   
+     dwc:MaterialSampleID "EMOBON-220322-BPNS-So3-Micro-R4" ;
+     sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-220322>;
+     emobon:sop "SoSOP3" ; 
+     sosa:hasResult a sosa:observerdProperty[ 
+           a emobon:sampleSize ;
+           dwc:sampleSizeValue "" ; 
+           dwc:sampleSizeUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULIT/> ;
+     ] .
+<https://data.emobon.embrc.eu/IDs/EMOBON-220322-BPNS-So3-Micro-B1>
+     a emobon:SedimentSample ;   
+     dwc:MaterialSampleID "EMOBON-220322-BPNS-So3-Micro-B1" ;
+     sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-220322>;
+     emobon:sop "SoSOP3" ; 
+     sosa:hasResult a sosa:observerdProperty[ 
+           a emobon:sampleSize ;
+           dwc:sampleSizeValue "" ; 
+           dwc:sampleSizeUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULIT/> ;
+     ] .
+<https://data.emobon.embrc.eu/IDs/EMOBON-220322-BPNS-So3-Micro-B2>
+     a emobon:SedimentSample ;   
+     dwc:MaterialSampleID "EMOBON-220322-BPNS-So3-Micro-B2" ;
+     sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-220322>;
+     emobon:sop "SoSOP3" ; 
+     sosa:hasResult a sosa:observerdProperty[ 
+           a emobon:sampleSize ;
+           dwc:sampleSizeValue "" ; 
+           dwc:sampleSizeUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULIT/> ;
+     ] .
+<https://data.emobon.embrc.eu/IDs/EMOBON-220420-BPNS-So3-Micro-R1>
+     a emobon:SedimentSample ;   
+     dwc:MaterialSampleID "EMOBON-220420-BPNS-So3-Micro-R1" ;
+     sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-220420>;
+     emobon:sop "SoSOP3" ; 
+     sosa:hasResult a sosa:observerdProperty[ 
+           a emobon:sampleSize ;
+           dwc:sampleSizeValue "" ; 
+           dwc:sampleSizeUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULIT/> ;
+     ] .
+<https://data.emobon.embrc.eu/IDs/EMOBON-220420-BPNS-So3-Micro-R2>
+     a emobon:SedimentSample ;   
+     dwc:MaterialSampleID "EMOBON-220420-BPNS-So3-Micro-R2" ;
+     sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-220421>;
+     emobon:sop "SoSOP3" ; 
+     sosa:hasResult a sosa:observerdProperty[ 
+           a emobon:sampleSize ;
+           dwc:sampleSizeValue "" ; 
+           dwc:sampleSizeUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULIT/> ;
+     ] .
+<https://data.emobon.embrc.eu/IDs/EMOBON-220420-BPNS-So3-Micro-R3>
+     a emobon:SedimentSample ;   
+     dwc:MaterialSampleID "EMOBON-220420-BPNS-So3-Micro-R3" ;
+     sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-220422>;
+     emobon:sop "SoSOP3" ; 
+     sosa:hasResult a sosa:observerdProperty[ 
+           a emobon:sampleSize ;
+           dwc:sampleSizeValue "" ; 
+           dwc:sampleSizeUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULIT/> ;
+     ] .
+<https://data.emobon.embrc.eu/IDs/EMOBON-220420-BPNS-So3-Micro-R4>
+     a emobon:SedimentSample ;   
+     dwc:MaterialSampleID "EMOBON-220420-BPNS-So3-Micro-R4" ;
+     sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-220423>;
+     emobon:sop "SoSOP3" ; 
+     sosa:hasResult a sosa:observerdProperty[ 
+           a emobon:sampleSize ;
+           dwc:sampleSizeValue "" ; 
+           dwc:sampleSizeUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULIT/> ;
+     ] .
+<https://data.emobon.embrc.eu/IDs/EMOBON-220420-BPNS-So3-Micro-B1>
+     a emobon:SedimentSample ;   
+     dwc:MaterialSampleID "EMOBON-220420-BPNS-So3-Micro-B1" ;
+     sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-220424>;
+     emobon:sop "SoSOP3" ; 
+     sosa:hasResult a sosa:observerdProperty[ 
+           a emobon:sampleSize ;
+           dwc:sampleSizeValue "" ; 
+           dwc:sampleSizeUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULIT/> ;
+     ] .
+<https://data.emobon.embrc.eu/IDs/EMOBON-220420-BPNS-So3-Micro-B2>
+     a emobon:SedimentSample ;   
+     dwc:MaterialSampleID "EMOBON-220420-BPNS-So3-Micro-B2" ;
+     sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-220425>;
+     emobon:sop "SoSOP3" ; 
+     sosa:hasResult a sosa:observerdProperty[ 
+           a emobon:sampleSize ;
+           dwc:sampleSizeValue "" ; 
+           dwc:sampleSizeUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULIT/> ;
+     ] .
+<https://data.emobon.embrc.eu/IDs/EMOBON-220420-BPNS-So3-Macro-R1>
+     a emobon:SedimentSample ;   
+     dwc:MaterialSampleID "EMOBON-220420-BPNS-So3-Macro-R1" ;
+     sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-220426>;
+     emobon:sop "SoSOP3" ; 
+     sosa:hasResult a sosa:observerdProperty[ 
+           a emobon:sampleSize ;
+           dwc:sampleSizeValue "" ; 
+           dwc:sampleSizeUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULIT/> ;
+     ] .
+<https://data.emobon.embrc.eu/IDs/EMOBON-220420-BPNS-So3-Macro-R2>
+     a emobon:SedimentSample ;   
+     dwc:MaterialSampleID "EMOBON-220420-BPNS-So3-Macro-R2" ;
+     sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-220427>;
+     emobon:sop "SoSOP3" ; 
+     sosa:hasResult a sosa:observerdProperty[ 
+           a emobon:sampleSize ;
+           dwc:sampleSizeValue "" ; 
+           dwc:sampleSizeUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULIT/> ;
+     ] .
+<https://data.emobon.embrc.eu/IDs/EMOBON-220420-BPNS-So3-Macro-R3>
+     a emobon:SedimentSample ;   
+     dwc:MaterialSampleID "EMOBON-220420-BPNS-So3-Macro-R3" ;
+     sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-220428>;
+     emobon:sop "SoSOP3" ; 
+     sosa:hasResult a sosa:observerdProperty[ 
+           a emobon:sampleSize ;
+           dwc:sampleSizeValue "" ; 
+           dwc:sampleSizeUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULIT/> ;
+     ] .
+<https://data.emobon.embrc.eu/IDs/EMOBON-220420-BPNS-So3-Macro-R4>
+     a emobon:SedimentSample ;   
+     dwc:MaterialSampleID "EMOBON-220420-BPNS-So3-Macro-R4" ;
+     sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-220429>;
+     emobon:sop "SoSOP3" ; 
+     sosa:hasResult a sosa:observerdProperty[ 
+           a emobon:sampleSize ;
+           dwc:sampleSizeValue "" ; 
+           dwc:sampleSizeUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULIT/> ;
+     ] .
+<https://data.emobon.embrc.eu/IDs/EMOBON-220420-BPNS-So3-Macro-B>
+     a emobon:SedimentSample ;   
+     dwc:MaterialSampleID "EMOBON-220420-BPNS-So3-Macro-B" ;
+     sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-220430>;
+     emobon:sop "SoSOP3" ; 
+     sosa:hasResult a sosa:observerdProperty[ 
+           a emobon:sampleSize ;
+           dwc:sampleSizeValue "" ; 
+           dwc:sampleSizeUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULIT/> ;
+     ] .
+<https://data.emobon.embrc.eu/IDs/EMOBON-220420-BPNS-SoSOP3-Meio-R1>
+     a emobon:SedimentSample ;   
+     dwc:MaterialSampleID "EMOBON-220420-BPNS-SoSOP3-Meio-R1" ;
+     sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-220431>;
+     emobon:sop "SoSOP3" ; 
+     sosa:hasResult a sosa:observerdProperty[ 
+           a emobon:sampleSize ;
+           dwc:sampleSizeValue "639" ; 
+           dwc:sampleSizeUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULIT/> ;
+     ] .
+<https://data.emobon.embrc.eu/IDs/EMOBON-220420-BPNS-SoSOP3-Meio-R2>
+     a emobon:SedimentSample ;   
+     dwc:MaterialSampleID "EMOBON-220420-BPNS-SoSOP3-Meio-R2" ;
+     sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-220432>;
+     emobon:sop "SoSOP3" ; 
+     sosa:hasResult a sosa:observerdProperty[ 
+           a emobon:sampleSize ;
+           dwc:sampleSizeValue "628" ; 
+           dwc:sampleSizeUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULIT/> ;
+     ] .
+<https://data.emobon.embrc.eu/IDs/EMOBON-220420-BPNS-SoSOP3-Meio-R3>
+     a emobon:SedimentSample ;   
+     dwc:MaterialSampleID "EMOBON-220420-BPNS-SoSOP3-Meio-R3" ;
+     sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-220433>;
+     emobon:sop "SoSOP3" ; 
+     sosa:hasResult a sosa:observerdProperty[ 
+           a emobon:sampleSize ;
+           dwc:sampleSizeValue "599" ; 
+           dwc:sampleSizeUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULIT/> ;
+     ] .
+<https://data.emobon.embrc.eu/IDs/EMOBON-220420-BPNS-SoSOP3-Meio-R4>
+     a emobon:SedimentSample ;   
+     dwc:MaterialSampleID "EMOBON-220420-BPNS-SoSOP3-Meio-R4" ;
+     sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-220434>;
+     emobon:sop "SoSOP3" ; 
+     sosa:hasResult a sosa:observerdProperty[ 
+           a emobon:sampleSize ;
+           dwc:sampleSizeValue "650" ; 
+           dwc:sampleSizeUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULIT/> ;
+     ] .
+<https://data.emobon.embrc.eu/IDs/EMOBON-220420-BPNS-SoSOP3-Meio-B>
+     a emobon:SedimentSample ;   
+     dwc:MaterialSampleID "EMOBON-220420-BPNS-SoSOP3-Meio-B" ;
+     sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-220435>;
+     emobon:sop "SoSOP3" ; 
+     sosa:hasResult a sosa:observerdProperty[ 
+           a emobon:sampleSize ;
+           dwc:sampleSizeValue "" ; 
+           dwc:sampleSizeUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULIT/> ;
+     ] .
+<https://data.emobon.embrc.eu/IDs/EMOBON-220601-BPNS-So3-Micro-R1>
+     a emobon:SedimentSample ;   
+     dwc:MaterialSampleID "EMOBON-220601-BPNS-So3-Micro-R1" ;
+     sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-220601>;
+     emobon:sop "SoSOP3" ; 
+     sosa:hasResult a sosa:observerdProperty[ 
+           a emobon:sampleSize ;
+           dwc:sampleSizeValue "" ; 
+           dwc:sampleSizeUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULIT/> ;
+     ] .
+<https://data.emobon.embrc.eu/IDs/EMOBON-220601-BPNS-So3-Micro-R2>
+     a emobon:SedimentSample ;   
+     dwc:MaterialSampleID "EMOBON-220601-BPNS-So3-Micro-R2" ;
+     sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-220601>;
+     emobon:sop "SoSOP3" ; 
+     sosa:hasResult a sosa:observerdProperty[ 
+           a emobon:sampleSize ;
+           dwc:sampleSizeValue "" ; 
+           dwc:sampleSizeUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULIT/> ;
+     ] .
+<https://data.emobon.embrc.eu/IDs/EMOBON-220601-BPNS-So3-Micro-R3>
+     a emobon:SedimentSample ;   
+     dwc:MaterialSampleID "EMOBON-220601-BPNS-So3-Micro-R3" ;
+     sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-220601>;
+     emobon:sop "SoSOP3" ; 
+     sosa:hasResult a sosa:observerdProperty[ 
+           a emobon:sampleSize ;
+           dwc:sampleSizeValue "" ; 
+           dwc:sampleSizeUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULIT/> ;
+     ] .
+<https://data.emobon.embrc.eu/IDs/EMOBON-220601-BPNS-So3-Micro-R4>
+     a emobon:SedimentSample ;   
+     dwc:MaterialSampleID "EMOBON-220601-BPNS-So3-Micro-R4" ;
+     sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-220601>;
+     emobon:sop "SoSOP3" ; 
+     sosa:hasResult a sosa:observerdProperty[ 
+           a emobon:sampleSize ;
+           dwc:sampleSizeValue "" ; 
+           dwc:sampleSizeUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULIT/> ;
+     ] .
+<https://data.emobon.embrc.eu/IDs/EMOBON-220601-BPNS-So3-Micro-B1>
+     a emobon:SedimentSample ;   
+     dwc:MaterialSampleID "EMOBON-220601-BPNS-So3-Micro-B1" ;
+     sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-220601>;
+     emobon:sop "SoSOP3" ; 
+     sosa:hasResult a sosa:observerdProperty[ 
+           a emobon:sampleSize ;
+           dwc:sampleSizeValue "" ; 
+           dwc:sampleSizeUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULIT/> ;
+     ] .
+<https://data.emobon.embrc.eu/IDs/EMOBON-220601-BPNS-So3-Micro-B2>
+     a emobon:SedimentSample ;   
+     dwc:MaterialSampleID "EMOBON-220601-BPNS-So3-Micro-B2" ;
+     sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-220601>;
+     emobon:sop "SoSOP3" ; 
+     sosa:hasResult a sosa:observerdProperty[ 
+           a emobon:sampleSize ;
+           dwc:sampleSizeValue "" ; 
+           dwc:sampleSizeUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULIT/> ;
+     ] .
+<https://data.emobon.embrc.eu/IDs/EMOBON-220601-BPNS-SoSOP3-Meio-R1>
+     a emobon:SedimentSample ;   
+     dwc:MaterialSampleID "EMOBON-220601-BPNS-SoSOP3-Meio-R1" ;
+     sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-220601>;
+     emobon:sop "SoSOP3" ; 
+     sosa:hasResult a sosa:observerdProperty[ 
+           a emobon:sampleSize ;
+           dwc:sampleSizeValue "303" ; 
+           dwc:sampleSizeUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULIT/> ;
+     ] .
+<https://data.emobon.embrc.eu/IDs/EMOBON-220601-BPNS-SoSOP3-Meio-R2>
+     a emobon:SedimentSample ;   
+     dwc:MaterialSampleID "EMOBON-220601-BPNS-SoSOP3-Meio-R2" ;
+     sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-220601>;
+     emobon:sop "SoSOP3" ; 
+     sosa:hasResult a sosa:observerdProperty[ 
+           a emobon:sampleSize ;
+           dwc:sampleSizeValue "249" ; 
+           dwc:sampleSizeUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULIT/> ;
+     ] .
+<https://data.emobon.embrc.eu/IDs/EMOBON-220601-BPNS-SoSOP3-Meio-R3>
+     a emobon:SedimentSample ;   
+     dwc:MaterialSampleID "EMOBON-220601-BPNS-SoSOP3-Meio-R3" ;
+     sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-220601>;
+     emobon:sop "SoSOP3" ; 
+     sosa:hasResult a sosa:observerdProperty[ 
+           a emobon:sampleSize ;
+           dwc:sampleSizeValue "283" ; 
+           dwc:sampleSizeUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULIT/> ;
+     ] .
+<https://data.emobon.embrc.eu/IDs/EMOBON-220601-BPNS-SoSOP3-Meio-R4>
+     a emobon:SedimentSample ;   
+     dwc:MaterialSampleID "EMOBON-220601-BPNS-SoSOP3-Meio-R4" ;
+     sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-220601>;
+     emobon:sop "SoSOP3" ; 
+     sosa:hasResult a sosa:observerdProperty[ 
+           a emobon:sampleSize ;
+           dwc:sampleSizeValue "329" ; 
+           dwc:sampleSizeUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULIT/> ;
+     ] .
+<https://data.emobon.embrc.eu/IDs/EMOBON-220601-BPNS-SoSOP3-Meio-B>
+     a emobon:SedimentSample ;   
+     dwc:MaterialSampleID "EMOBON-220601-BPNS-SoSOP3-Meio-B" ;
+     sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-220601>;
+     emobon:sop "SoSOP3" ; 
+     sosa:hasResult a sosa:observerdProperty[ 
+           a emobon:sampleSize ;
+           dwc:sampleSizeValue "" ; 
+           dwc:sampleSizeUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULIT/> ;
+     ] .
+<https://data.emobon.embrc.eu/IDs/EMOBON-220819-BPNS-So3-Micro-R1>
+     a emobon:SedimentSample ;   
+     dwc:MaterialSampleID "EMOBON-220819-BPNS-So3-Micro-R1" ;
+     sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-220601>;
+     emobon:sop "SoSOP3" ; 
+     sosa:hasResult a sosa:observerdProperty[ 
+           a emobon:sampleSize ;
+           dwc:sampleSizeValue "" ; 
+           dwc:sampleSizeUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULIT/> ;
+     ] .
+<https://data.emobon.embrc.eu/IDs/EMOBON-220819-BPNS-So3-Micro-R2>
+     a emobon:SedimentSample ;   
+     dwc:MaterialSampleID "EMOBON-220819-BPNS-So3-Micro-R2" ;
+     sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-220601>;
+     emobon:sop "SoSOP3" ; 
+     sosa:hasResult a sosa:observerdProperty[ 
+           a emobon:sampleSize ;
+           dwc:sampleSizeValue "" ; 
+           dwc:sampleSizeUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULIT/> ;
+     ] .
+<https://data.emobon.embrc.eu/IDs/EMOBON-220819-BPNS-So3-Micro-R3>
+     a emobon:SedimentSample ;   
+     dwc:MaterialSampleID "EMOBON-220819-BPNS-So3-Micro-R3" ;
+     sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-220601>;
+     emobon:sop "SoSOP3" ; 
+     sosa:hasResult a sosa:observerdProperty[ 
+           a emobon:sampleSize ;
+           dwc:sampleSizeValue "" ; 
+           dwc:sampleSizeUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULIT/> ;
+     ] .
+<https://data.emobon.embrc.eu/IDs/EMOBON-220819-BPNS-So3-Micro-R4>
+     a emobon:SedimentSample ;   
+     dwc:MaterialSampleID "EMOBON-220819-BPNS-So3-Micro-R4" ;
+     sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-220601>;
+     emobon:sop "SoSOP3" ; 
+     sosa:hasResult a sosa:observerdProperty[ 
+           a emobon:sampleSize ;
+           dwc:sampleSizeValue "" ; 
+           dwc:sampleSizeUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULIT/> ;
+     ] .
+<https://data.emobon.embrc.eu/IDs/EMOBON-220819-BPNS-So3-Micro-B1>
+     a emobon:SedimentSample ;   
+     dwc:MaterialSampleID "EMOBON-220819-BPNS-So3-Micro-B1" ;
+     sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-220601>;
+     emobon:sop "SoSOP3" ; 
+     sosa:hasResult a sosa:observerdProperty[ 
+           a emobon:sampleSize ;
+           dwc:sampleSizeValue "" ; 
+           dwc:sampleSizeUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULIT/> ;
+     ] .
+<https://data.emobon.embrc.eu/IDs/EMOBON-220819-BPNS-So3-Micro-B2>
+     a emobon:SedimentSample ;   
+     dwc:MaterialSampleID "EMOBON-220819-BPNS-So3-Micro-B2" ;
+     sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-220601>;
+     emobon:sop "SoSOP3" ; 
+     sosa:hasResult a sosa:observerdProperty[ 
+           a emobon:sampleSize ;
+           dwc:sampleSizeValue "" ; 
+           dwc:sampleSizeUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULIT/> ;
+     ] .
+<https://data.emobon.embrc.eu/IDs/EMOBON-221027-BPNS-So3-Micro-R1>
+     a emobon:SedimentSample ;   
+     dwc:MaterialSampleID "EMOBON-221027-BPNS-So3-Micro-R1" ;
+     sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS%20So3%20221027>;
+     emobon:sop "SoSOP3" ; 
+     sosa:hasResult a sosa:observerdProperty[ 
+           a emobon:sampleSize ;
+           dwc:sampleSizeValue "" ; 
+           dwc:sampleSizeUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULIT/> ;
+     ] .
+<https://data.emobon.embrc.eu/IDs/EMOBON-221027-BPNS-So3-Micro-R2>
+     a emobon:SedimentSample ;   
+     dwc:MaterialSampleID "EMOBON-221027-BPNS-So3-Micro-R2" ;
+     sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS%20So3%20221027>;
+     emobon:sop "SoSOP3" ; 
+     sosa:hasResult a sosa:observerdProperty[ 
+           a emobon:sampleSize ;
+           dwc:sampleSizeValue "" ; 
+           dwc:sampleSizeUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULIT/> ;
+     ] .
+<https://data.emobon.embrc.eu/IDs/EMOBON-221027-BPNS-So3-Micro-R3>
+     a emobon:SedimentSample ;   
+     dwc:MaterialSampleID "EMOBON-221027-BPNS-So3-Micro-R3" ;
+     sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS%20So3%20221027>;
+     emobon:sop "SoSOP3" ; 
+     sosa:hasResult a sosa:observerdProperty[ 
+           a emobon:sampleSize ;
+           dwc:sampleSizeValue "" ; 
+           dwc:sampleSizeUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULIT/> ;
+     ] .
+<https://data.emobon.embrc.eu/IDs/EMOBON-221027-BPNS-So3-Micro-R4>
+     a emobon:SedimentSample ;   
+     dwc:MaterialSampleID "EMOBON-221027-BPNS-So3-Micro-R4" ;
+     sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS%20So3%20221027>;
+     emobon:sop "SoSOP3" ; 
+     sosa:hasResult a sosa:observerdProperty[ 
+           a emobon:sampleSize ;
+           dwc:sampleSizeValue "" ; 
+           dwc:sampleSizeUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULIT/> ;
+     ] .
+<https://data.emobon.embrc.eu/IDs/EMOBON-221027-BPNS-So3-Micro-B1>
+     a emobon:SedimentSample ;   
+     dwc:MaterialSampleID "EMOBON-221027-BPNS-So3-Micro-B1" ;
+     sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS%20So3%20221027>;
+     emobon:sop "SoSOP3" ; 
+     sosa:hasResult a sosa:observerdProperty[ 
+           a emobon:sampleSize ;
+           dwc:sampleSizeValue "" ; 
+           dwc:sampleSizeUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULIT/> ;
+     ] .
+<https://data.emobon.embrc.eu/IDs/EMOBON-221027-BPNS-So3-Micro-B2>
+     a emobon:SedimentSample ;   
+     dwc:MaterialSampleID "EMOBON-221027-BPNS-So3-Micro-B2" ;
+     sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS%20So3%20221027>;
+     emobon:sop "SoSOP3" ; 
+     sosa:hasResult a sosa:observerdProperty[ 
+           a emobon:sampleSize ;
+           dwc:sampleSizeValue "" ; 
+           dwc:sampleSizeUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULIT/> ;
+     ] .
+<https://data.emobon.embrc.eu/IDs/EMOBON-221027-BPNS-So3-Macro-R1>
+     a emobon:SedimentSample ;   
+     dwc:MaterialSampleID "EMOBON-221027-BPNS-So3-Macro-R1" ;
+     sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS%20So3%20221027>;
+     emobon:sop "SoSOP3" ; 
+     sosa:hasResult a sosa:observerdProperty[ 
+           a emobon:sampleSize ;
+           dwc:sampleSizeValue "" ; 
+           dwc:sampleSizeUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULIT/> ;
+     ] .
+<https://data.emobon.embrc.eu/IDs/EMOBON-221027-BPNS-So3-Macro-R2>
+     a emobon:SedimentSample ;   
+     dwc:MaterialSampleID "EMOBON-221027-BPNS-So3-Macro-R2" ;
+     sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS%20So3%20221027>;
+     emobon:sop "SoSOP3" ; 
+     sosa:hasResult a sosa:observerdProperty[ 
+           a emobon:sampleSize ;
+           dwc:sampleSizeValue "" ; 
+           dwc:sampleSizeUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULIT/> ;
+     ] .
+<https://data.emobon.embrc.eu/IDs/EMOBON-221027-BPNS-So3-Macro-R3>
+     a emobon:SedimentSample ;   
+     dwc:MaterialSampleID "EMOBON-221027-BPNS-So3-Macro-R3" ;
+     sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS%20So3%20221027>;
+     emobon:sop "SoSOP3" ; 
+     sosa:hasResult a sosa:observerdProperty[ 
+           a emobon:sampleSize ;
+           dwc:sampleSizeValue "" ; 
+           dwc:sampleSizeUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULIT/> ;
+     ] .
+<https://data.emobon.embrc.eu/IDs/EMOBON-221027-BPNS-So3-Macro-R4>
+     a emobon:SedimentSample ;   
+     dwc:MaterialSampleID "EMOBON-221027-BPNS-So3-Macro-R4" ;
+     sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS%20So3%20221027>;
+     emobon:sop "SoSOP3" ; 
+     sosa:hasResult a sosa:observerdProperty[ 
+           a emobon:sampleSize ;
+           dwc:sampleSizeValue "" ; 
+           dwc:sampleSizeUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULIT/> ;
+     ] .
+<https://data.emobon.embrc.eu/IDs/EMOBON-221027-BPNS-So3-Macro-B>
+     a emobon:SedimentSample ;   
+     dwc:MaterialSampleID "EMOBON-221027-BPNS-So3-Macro-B" ;
+     sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS%20So3%20221027>;
+     emobon:sop "SoSOP3" ; 
+     sosa:hasResult a sosa:observerdProperty[ 
+           a emobon:sampleSize ;
+           dwc:sampleSizeValue "" ; 
+           dwc:sampleSizeUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULIT/> ;
+     ] .
+<https://data.emobon.embrc.eu/IDs/EMOBON-221027-BPNS-SoSOP3-Meio-R1>
+     a emobon:SedimentSample ;   
+     dwc:MaterialSampleID "EMOBON-221027-BPNS-SoSOP3-Meio-R1" ;
+     sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS%20So3%20221027>;
+     emobon:sop "SoSOP3" ; 
+     sosa:hasResult a sosa:observerdProperty[ 
+           a emobon:sampleSize ;
+           dwc:sampleSizeValue "" ; 
+           dwc:sampleSizeUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULIT/> ;
+     ] .
+<https://data.emobon.embrc.eu/IDs/EMOBON-221027-BPNS-SoSOP3-Meio-R2>
+     a emobon:SedimentSample ;   
+     dwc:MaterialSampleID "EMOBON-221027-BPNS-SoSOP3-Meio-R2" ;
+     sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS%20So3%20221027>;
+     emobon:sop "SoSOP3" ; 
+     sosa:hasResult a sosa:observerdProperty[ 
+           a emobon:sampleSize ;
+           dwc:sampleSizeValue "" ; 
+           dwc:sampleSizeUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULIT/> ;
+     ] .
+<https://data.emobon.embrc.eu/IDs/EMOBON-221027-BPNS-SoSOP3-Meio-R3>
+     a emobon:SedimentSample ;   
+     dwc:MaterialSampleID "EMOBON-221027-BPNS-SoSOP3-Meio-R3" ;
+     sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS%20So3%20221027>;
+     emobon:sop "SoSOP3" ; 
+     sosa:hasResult a sosa:observerdProperty[ 
+           a emobon:sampleSize ;
+           dwc:sampleSizeValue "" ; 
+           dwc:sampleSizeUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULIT/> ;
+     ] .
+<https://data.emobon.embrc.eu/IDs/EMOBON-221027-BPNS-SoSOP3-Meio-R4>
+     a emobon:SedimentSample ;   
+     dwc:MaterialSampleID "EMOBON-221027-BPNS-SoSOP3-Meio-R4" ;
+     sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS%20So3%20221027>;
+     emobon:sop "SoSOP3" ; 
+     sosa:hasResult a sosa:observerdProperty[ 
+           a emobon:sampleSize ;
+           dwc:sampleSizeValue "" ; 
+           dwc:sampleSizeUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULIT/> ;
+     ] .
+<https://data.emobon.embrc.eu/IDs/EMOBON-221027-BPNS-SoSOP3-Meio-B>
+     a emobon:SedimentSample ;   
+     dwc:MaterialSampleID "EMOBON-221027-BPNS-SoSOP3-Meio-B" ;
+     sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS%20So3%20221027>;
+     emobon:sop "SoSOP3" ; 
+     sosa:hasResult a sosa:observerdProperty[ 
+           a emobon:sampleSize ;
+           dwc:sampleSizeValue "" ; 
+           dwc:sampleSizeUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULIT/> ;
+     ] .
+<https://data.emobon.embrc.eu/IDs/EMOBON-221212-BPNS-So3-Micro-R1>
+     a emobon:SedimentSample ;   
+     dwc:MaterialSampleID "EMOBON-221212-BPNS-So3-Micro-R1" ;
+     sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS%20So3%20221212>;
+     emobon:sop "SoSOP3" ; 
+     sosa:hasResult a sosa:observerdProperty[ 
+           a emobon:sampleSize ;
+           dwc:sampleSizeValue "" ; 
+           dwc:sampleSizeUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULIT/> ;
+     ] .
+<https://data.emobon.embrc.eu/IDs/EMOBON-221212-BPNS-So3-Micro-R2>
+     a emobon:SedimentSample ;   
+     dwc:MaterialSampleID "EMOBON-221212-BPNS-So3-Micro-R2" ;
+     sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS%20So3%20221212>;
+     emobon:sop "SoSOP3" ; 
+     sosa:hasResult a sosa:observerdProperty[ 
+           a emobon:sampleSize ;
+           dwc:sampleSizeValue "" ; 
+           dwc:sampleSizeUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULIT/> ;
+     ] .
+<https://data.emobon.embrc.eu/IDs/EMOBON-221212-BPNS-So3-Micro-R3>
+     a emobon:SedimentSample ;   
+     dwc:MaterialSampleID "EMOBON-221212-BPNS-So3-Micro-R3" ;
+     sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS%20So3%20221212>;
+     emobon:sop "SoSOP3" ; 
+     sosa:hasResult a sosa:observerdProperty[ 
+           a emobon:sampleSize ;
+           dwc:sampleSizeValue "" ; 
+           dwc:sampleSizeUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULIT/> ;
+     ] .
+<https://data.emobon.embrc.eu/IDs/EMOBON-221212-BPNS-So3-Micro-R4>
+     a emobon:SedimentSample ;   
+     dwc:MaterialSampleID "EMOBON-221212-BPNS-So3-Micro-R4" ;
+     sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS%20So3%20221212>;
+     emobon:sop "SoSOP3" ; 
+     sosa:hasResult a sosa:observerdProperty[ 
+           a emobon:sampleSize ;
+           dwc:sampleSizeValue "" ; 
+           dwc:sampleSizeUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULIT/> ;
+     ] .
+<https://data.emobon.embrc.eu/IDs/EMOBON-221212-BPNS-So3-Micro-B1>
+     a emobon:SedimentSample ;   
+     dwc:MaterialSampleID "EMOBON-221212-BPNS-So3-Micro-B1" ;
+     sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS%20So3%20221212>;
+     emobon:sop "SoSOP3" ; 
+     sosa:hasResult a sosa:observerdProperty[ 
+           a emobon:sampleSize ;
+           dwc:sampleSizeValue "" ; 
+           dwc:sampleSizeUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULIT/> ;
+     ] .
+<https://data.emobon.embrc.eu/IDs/EMOBON-221212-BPNS-So3-Micro-B2>
+     a emobon:SedimentSample ;   
+     dwc:MaterialSampleID "EMOBON-221212-BPNS-So3-Micro-B2" ;
+     sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS%20So3%20221212>;
+     emobon:sop "SoSOP3" ; 
+     sosa:hasResult a sosa:observerdProperty[ 
+           a emobon:sampleSize ;
+           dwc:sampleSizeValue "" ; 
+           dwc:sampleSizeUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULIT/> ;
+     ] .<https://data.emobon.embrc.eu/IDs/EMOBON-210701-330-SoSOP3-Meio-R1_depth>
+    a emobon:EnvironmentalMeasurement 
+    [ 
+        dwc:measurementValue '23.09'^^xsd:double;
+        sosa:observedProperty  <http://vocab.nerc.ac.uk/collection/P02/current/AHGT/>;
+        dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULAA/>;
+        a xsd:float ;   
+    ],
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDsEMOBON_BE_20210701_330>, <https://data.emobon.embrc.eu/IDs/EMOBON-210701-330-SoSOP3-Meio-R1> .
+    
+<https://data.emobon.embrc.eu/IDs/EMOBON-210701-330-SoSOP3-Meio-R1_size_frac_low>
+    a emobon:EnvironmentalMeasurement 
+    [ 
+        dwc:measurementValue '0.32'^^xsd:double;
+        sosa:observedProperty  <http://vocab.nerc.ac.uk/collection/P06/current/UMIC/>;
+        dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/UMIC/>;
+        a xsd:float ;   
+    ],
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDsEMOBON_BE_20210701_330>, <https://data.emobon.embrc.eu/IDs/EMOBON-210701-330-SoSOP3-Meio-R1> .
+    
+<https://data.emobon.embrc.eu/IDs/EMOBON-210701-330-SoSOP3-Meio-R2_depth>
+    a emobon:EnvironmentalMeasurement 
+    [ 
+        dwc:measurementValue '23.09'^^xsd:double;
+        sosa:observedProperty  <http://vocab.nerc.ac.uk/collection/P02/current/AHGT/>;
+        dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULAA/>;
+        a xsd:float ;   
+    ],
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDsEMOBON_BE_20210701_330>, <https://data.emobon.embrc.eu/IDs/EMOBON-210701-330-SoSOP3-Meio-R2> .
+    
+<https://data.emobon.embrc.eu/IDs/EMOBON-210701-330-SoSOP3-Meio-R2_size_frac_low>
+    a emobon:EnvironmentalMeasurement 
+    [ 
+        dwc:measurementValue '0.32'^^xsd:double;
+        sosa:observedProperty  <http://vocab.nerc.ac.uk/collection/P06/current/UMIC/>;
+        dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/UMIC/>;
+        a xsd:float ;   
+    ],
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDsEMOBON_BE_20210701_330>, <https://data.emobon.embrc.eu/IDs/EMOBON-210701-330-SoSOP3-Meio-R2> .
+    
+<https://data.emobon.embrc.eu/IDs/EMOBON-210701-330-SoSOP3-Meio-R3_depth>
+    a emobon:EnvironmentalMeasurement 
+    [ 
+        dwc:measurementValue '23.09'^^xsd:double;
+        sosa:observedProperty  <http://vocab.nerc.ac.uk/collection/P02/current/AHGT/>;
+        dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULAA/>;
+        a xsd:float ;   
+    ],
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDsEMOBON_BE_20210701_330>, <https://data.emobon.embrc.eu/IDs/EMOBON-210701-330-SoSOP3-Meio-R3> .
+    
+<https://data.emobon.embrc.eu/IDs/EMOBON-210701-330-SoSOP3-Meio-R3_size_frac_low>
+    a emobon:EnvironmentalMeasurement 
+    [ 
+        dwc:measurementValue '0.32'^^xsd:double;
+        sosa:observedProperty  <http://vocab.nerc.ac.uk/collection/P06/current/UMIC/>;
+        dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/UMIC/>;
+        a xsd:float ;   
+    ],
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDsEMOBON_BE_20210701_330>, <https://data.emobon.embrc.eu/IDs/EMOBON-210701-330-SoSOP3-Meio-R3> .
+    
+<https://data.emobon.embrc.eu/IDs/EMOBON-210701-330-SoSOP3-Meio-R4_depth>
+    a emobon:EnvironmentalMeasurement 
+    [ 
+        dwc:measurementValue '23.09'^^xsd:double;
+        sosa:observedProperty  <http://vocab.nerc.ac.uk/collection/P02/current/AHGT/>;
+        dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULAA/>;
+        a xsd:float ;   
+    ],
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDsEMOBON_BE_20210701_330>, <https://data.emobon.embrc.eu/IDs/EMOBON-210701-330-SoSOP3-Meio-R4> .
+    
+<https://data.emobon.embrc.eu/IDs/EMOBON-210701-330-SoSOP3-Meio-R4_size_frac_low>
+    a emobon:EnvironmentalMeasurement 
+    [ 
+        dwc:measurementValue '0.32'^^xsd:double;
+        sosa:observedProperty  <http://vocab.nerc.ac.uk/collection/P06/current/UMIC/>;
+        dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/UMIC/>;
+        a xsd:float ;   
+    ],
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDsEMOBON_BE_20210701_330>, <https://data.emobon.embrc.eu/IDs/EMOBON-210701-330-SoSOP3-Meio-R4> .
+    
+<https://data.emobon.embrc.eu/IDs/EMOBON-210726-330-SoSOP3-Micro-R1_depth>
+    a emobon:EnvironmentalMeasurement 
+    [ 
+        dwc:measurementValue '22.94'^^xsd:double;
+        sosa:observedProperty  <http://vocab.nerc.ac.uk/collection/P02/current/AHGT/>;
+        dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULAA/>;
+        a xsd:float ;   
+    ],
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDsEMOBON_BE_20210726_330>, <https://data.emobon.embrc.eu/IDs/EMOBON-210726-330-SoSOP3-Micro-R1> .
+    
+<https://data.emobon.embrc.eu/IDs/EMOBON-210726-330-SoSOP3-Micro-R2_depth>
+    a emobon:EnvironmentalMeasurement 
+    [ 
+        dwc:measurementValue '22.94'^^xsd:double;
+        sosa:observedProperty  <http://vocab.nerc.ac.uk/collection/P02/current/AHGT/>;
+        dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULAA/>;
+        a xsd:float ;   
+    ],
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDsEMOBON_BE_20210726_330>, <https://data.emobon.embrc.eu/IDs/EMOBON-210726-330-SoSOP3-Micro-R2> .
+    
+<https://data.emobon.embrc.eu/IDs/EMOBON-210726-330-SoSOP3-Micro-R3_depth>
+    a emobon:EnvironmentalMeasurement 
+    [ 
+        dwc:measurementValue '22.94'^^xsd:double;
+        sosa:observedProperty  <http://vocab.nerc.ac.uk/collection/P02/current/AHGT/>;
+        dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULAA/>;
+        a xsd:float ;   
+    ],
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDsEMOBON_BE_20210726_330>, <https://data.emobon.embrc.eu/IDs/EMOBON-210726-330-SoSOP3-Micro-R3> .
+    
+<https://data.emobon.embrc.eu/IDs/EMOBON-210726-330-SoSOP3-Micro-R4_depth>
+    a emobon:EnvironmentalMeasurement 
+    [ 
+        dwc:measurementValue '22.94'^^xsd:double;
+        sosa:observedProperty  <http://vocab.nerc.ac.uk/collection/P02/current/AHGT/>;
+        dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULAA/>;
+        a xsd:float ;   
+    ],
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDsEMOBON_BE_20210726_330>, <https://data.emobon.embrc.eu/IDs/EMOBON-210726-330-SoSOP3-Micro-R4> .
+    
+<https://data.emobon.embrc.eu/IDs/EMOBON-210726-330-SoSOP3-Micro-B1_depth>
+    a emobon:EnvironmentalMeasurement 
+    [ 
+        dwc:measurementValue '22.94'^^xsd:double;
+        sosa:observedProperty  <http://vocab.nerc.ac.uk/collection/P02/current/AHGT/>;
+        dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULAA/>;
+        a xsd:float ;   
+    ],
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDsEMOBON_BE_20210726_330>, <https://data.emobon.embrc.eu/IDs/EMOBON-210726-330-SoSOP3-Micro-B1> .
+    
+<https://data.emobon.embrc.eu/IDs/EMOBON-210726-330-SoSOP3-Micro-B2_depth>
+    a emobon:EnvironmentalMeasurement 
+    [ 
+        dwc:measurementValue '22.94'^^xsd:double;
+        sosa:observedProperty  <http://vocab.nerc.ac.uk/collection/P02/current/AHGT/>;
+        dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULAA/>;
+        a xsd:float ;   
+    ],
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDsEMOBON_BE_20210726_330>, <https://data.emobon.embrc.eu/IDs/EMOBON-210726-330-SoSOP3-Micro-B2> .
+    
+<https://data.emobon.embrc.eu/IDs/EMOBON-210825-330-SoSOP3-Micro-R1_depth>
+    a emobon:EnvironmentalMeasurement 
+    [ 
+        dwc:measurementValue '20.54'^^xsd:double;
+        sosa:observedProperty  <http://vocab.nerc.ac.uk/collection/P02/current/AHGT/>;
+        dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULAA/>;
+        a xsd:float ;   
+    ],
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDsEMOBON_BE_20210825_330>, <https://data.emobon.embrc.eu/IDs/EMOBON-210825-330-SoSOP3-Micro-R1> .
+    
+<https://data.emobon.embrc.eu/IDs/EMOBON-210825-330-SoSOP3-Micro-R2_depth>
+    a emobon:EnvironmentalMeasurement 
+    [ 
+        dwc:measurementValue '20.54'^^xsd:double;
+        sosa:observedProperty  <http://vocab.nerc.ac.uk/collection/P02/current/AHGT/>;
+        dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULAA/>;
+        a xsd:float ;   
+    ],
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDsEMOBON_BE_20210825_330>, <https://data.emobon.embrc.eu/IDs/EMOBON-210825-330-SoSOP3-Micro-R2> .
+    
+<https://data.emobon.embrc.eu/IDs/EMOBON-210825-330-SoSOP3-Micro-R3_depth>
+    a emobon:EnvironmentalMeasurement 
+    [ 
+        dwc:measurementValue '20.54'^^xsd:double;
+        sosa:observedProperty  <http://vocab.nerc.ac.uk/collection/P02/current/AHGT/>;
+        dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULAA/>;
+        a xsd:float ;   
+    ],
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDsEMOBON_BE_20210825_330>, <https://data.emobon.embrc.eu/IDs/EMOBON-210825-330-SoSOP3-Micro-R3> .
+    
+<https://data.emobon.embrc.eu/IDs/EMOBON-210825-330-SoSOP3-Micro-R4_depth>
+    a emobon:EnvironmentalMeasurement 
+    [ 
+        dwc:measurementValue '20.54'^^xsd:double;
+        sosa:observedProperty  <http://vocab.nerc.ac.uk/collection/P02/current/AHGT/>;
+        dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULAA/>;
+        a xsd:float ;   
+    ],
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDsEMOBON_BE_20210825_330>, <https://data.emobon.embrc.eu/IDs/EMOBON-210825-330-SoSOP3-Micro-R4> .
+    
+<https://data.emobon.embrc.eu/IDs/EMOBON-210825-330-SoSOP3-Micro-B1_depth>
+    a emobon:EnvironmentalMeasurement 
+    [ 
+        dwc:measurementValue '20.54'^^xsd:double;
+        sosa:observedProperty  <http://vocab.nerc.ac.uk/collection/P02/current/AHGT/>;
+        dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULAA/>;
+        a xsd:float ;   
+    ],
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDsEMOBON_BE_20210825_330>, <https://data.emobon.embrc.eu/IDs/EMOBON-210825-330-SoSOP3-Micro-B1> .
+    
+<https://data.emobon.embrc.eu/IDs/EMOBON-210825-330-SoSOP3-Micro-B2_depth>
+    a emobon:EnvironmentalMeasurement 
+    [ 
+        dwc:measurementValue '20.54'^^xsd:double;
+        sosa:observedProperty  <http://vocab.nerc.ac.uk/collection/P02/current/AHGT/>;
+        dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULAA/>;
+        a xsd:float ;   
+    ],
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDsEMOBON_BE_20210825_330>, <https://data.emobon.embrc.eu/IDs/EMOBON-210825-330-SoSOP3-Micro-B2> .
+    
+<https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-So3-Micro-R1_depth>
+    a emobon:EnvironmentalMeasurement 
+    [ 
+        dwc:measurementValue '18.66'^^xsd:double;
+        sosa:observedProperty  <http://vocab.nerc.ac.uk/collection/P02/current/AHGT/>;
+        dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULAA/>;
+        a xsd:float ;   
+    ],
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-211013>, <https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-So3-Micro-R1> .
+    
+<https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-So3-Micro-R2_depth>
+    a emobon:EnvironmentalMeasurement 
+    [ 
+        dwc:measurementValue '18.66'^^xsd:double;
+        sosa:observedProperty  <http://vocab.nerc.ac.uk/collection/P02/current/AHGT/>;
+        dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULAA/>;
+        a xsd:float ;   
+    ],
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-211014>, <https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-So3-Micro-R2> .
+    
+<https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-So3-Micro-R3_depth>
+    a emobon:EnvironmentalMeasurement 
+    [ 
+        dwc:measurementValue '18.66'^^xsd:double;
+        sosa:observedProperty  <http://vocab.nerc.ac.uk/collection/P02/current/AHGT/>;
+        dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULAA/>;
+        a xsd:float ;   
+    ],
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-211015>, <https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-So3-Micro-R3> .
+    
+<https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-So3-Micro-R4_depth>
+    a emobon:EnvironmentalMeasurement 
+    [ 
+        dwc:measurementValue '18.66'^^xsd:double;
+        sosa:observedProperty  <http://vocab.nerc.ac.uk/collection/P02/current/AHGT/>;
+        dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULAA/>;
+        a xsd:float ;   
+    ],
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-211016>, <https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-So3-Micro-R4> .
+    
+<https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-So3-Micro-B1_depth>
+    a emobon:EnvironmentalMeasurement 
+    [ 
+        dwc:measurementValue '18.66'^^xsd:double;
+        sosa:observedProperty  <http://vocab.nerc.ac.uk/collection/P02/current/AHGT/>;
+        dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULAA/>;
+        a xsd:float ;   
+    ],
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-211017>, <https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-So3-Micro-B1> .
+    
+<https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-So3-Micro-B2_depth>
+    a emobon:EnvironmentalMeasurement 
+    [ 
+        dwc:measurementValue '18.66'^^xsd:double;
+        sosa:observedProperty  <http://vocab.nerc.ac.uk/collection/P02/current/AHGT/>;
+        dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULAA/>;
+        a xsd:float ;   
+    ],
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-211018>, <https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-So3-Micro-B2> .
+    
+<https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-So3-Macro-R1_depth>
+    a emobon:EnvironmentalMeasurement 
+    [ 
+        dwc:measurementValue '19.42'^^xsd:double;
+        sosa:observedProperty  <http://vocab.nerc.ac.uk/collection/P02/current/AHGT/>;
+        dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULAA/>;
+        a xsd:float ;   
+    ],
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-211019>, <https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-So3-Macro-R1> .
+    
+<https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-So3-Macro-R2_depth>
+    a emobon:EnvironmentalMeasurement 
+    [ 
+        dwc:measurementValue '19.42'^^xsd:double;
+        sosa:observedProperty  <http://vocab.nerc.ac.uk/collection/P02/current/AHGT/>;
+        dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULAA/>;
+        a xsd:float ;   
+    ],
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-211020>, <https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-So3-Macro-R2> .
+    
+<https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-So3-Macro-R3_depth>
+    a emobon:EnvironmentalMeasurement 
+    [ 
+        dwc:measurementValue '19.42'^^xsd:double;
+        sosa:observedProperty  <http://vocab.nerc.ac.uk/collection/P02/current/AHGT/>;
+        dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULAA/>;
+        a xsd:float ;   
+    ],
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-211021>, <https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-So3-Macro-R3> .
+    
+<https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-So3-Macro-R4_depth>
+    a emobon:EnvironmentalMeasurement 
+    [ 
+        dwc:measurementValue '19.42'^^xsd:double;
+        sosa:observedProperty  <http://vocab.nerc.ac.uk/collection/P02/current/AHGT/>;
+        dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULAA/>;
+        a xsd:float ;   
+    ],
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-211022>, <https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-So3-Macro-R4> .
+    
+<https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-So3-Macro-B_depth>
+    a emobon:EnvironmentalMeasurement 
+    [ 
+        dwc:measurementValue '19.42'^^xsd:double;
+        sosa:observedProperty  <http://vocab.nerc.ac.uk/collection/P02/current/AHGT/>;
+        dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULAA/>;
+        a xsd:float ;   
+    ],
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-211023>, <https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-So3-Macro-B> .
+    
+<https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-SoSOP3-Meio-R1_depth>
+    a emobon:EnvironmentalMeasurement 
+    [ 
+        dwc:measurementValue '19.42'^^xsd:double;
+        sosa:observedProperty  <http://vocab.nerc.ac.uk/collection/P02/current/AHGT/>;
+        dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULAA/>;
+        a xsd:float ;   
+    ],
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-211024>, <https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-SoSOP3-Meio-R1> .
+    
+<https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-SoSOP3-Meio-R1_size_frac_low>
+    a emobon:EnvironmentalMeasurement 
+    [ 
+        dwc:measurementValue '0.32'^^xsd:double;
+        sosa:observedProperty  <http://vocab.nerc.ac.uk/collection/P06/current/UMIC/>;
+        dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/UMIC/>;
+        a xsd:float ;   
+    ],
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-211024>, <https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-SoSOP3-Meio-R1> .
+    
+<https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-SoSOP3-Meio-R2_depth>
+    a emobon:EnvironmentalMeasurement 
+    [ 
+        dwc:measurementValue '19.42'^^xsd:double;
+        sosa:observedProperty  <http://vocab.nerc.ac.uk/collection/P02/current/AHGT/>;
+        dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULAA/>;
+        a xsd:float ;   
+    ],
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-211025>, <https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-SoSOP3-Meio-R2> .
+    
+<https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-SoSOP3-Meio-R2_size_frac_low>
+    a emobon:EnvironmentalMeasurement 
+    [ 
+        dwc:measurementValue '0.32'^^xsd:double;
+        sosa:observedProperty  <http://vocab.nerc.ac.uk/collection/P06/current/UMIC/>;
+        dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/UMIC/>;
+        a xsd:float ;   
+    ],
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-211025>, <https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-SoSOP3-Meio-R2> .
+    
+<https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-SoSOP3-Meio-R3_depth>
+    a emobon:EnvironmentalMeasurement 
+    [ 
+        dwc:measurementValue '19.42'^^xsd:double;
+        sosa:observedProperty  <http://vocab.nerc.ac.uk/collection/P02/current/AHGT/>;
+        dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULAA/>;
+        a xsd:float ;   
+    ],
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-211026>, <https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-SoSOP3-Meio-R3> .
+    
+<https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-SoSOP3-Meio-R3_size_frac_low>
+    a emobon:EnvironmentalMeasurement 
+    [ 
+        dwc:measurementValue '0.32'^^xsd:double;
+        sosa:observedProperty  <http://vocab.nerc.ac.uk/collection/P06/current/UMIC/>;
+        dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/UMIC/>;
+        a xsd:float ;   
+    ],
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-211026>, <https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-SoSOP3-Meio-R3> .
+    
+<https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-SoSOP3-Meio-R4_depth>
+    a emobon:EnvironmentalMeasurement 
+    [ 
+        dwc:measurementValue '19.42'^^xsd:double;
+        sosa:observedProperty  <http://vocab.nerc.ac.uk/collection/P02/current/AHGT/>;
+        dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULAA/>;
+        a xsd:float ;   
+    ],
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-211027>, <https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-SoSOP3-Meio-R4> .
+    
+<https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-SoSOP3-Meio-R4_size_frac_low>
+    a emobon:EnvironmentalMeasurement 
+    [ 
+        dwc:measurementValue '0.32'^^xsd:double;
+        sosa:observedProperty  <http://vocab.nerc.ac.uk/collection/P06/current/UMIC/>;
+        dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/UMIC/>;
+        a xsd:float ;   
+    ],
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-211027>, <https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-SoSOP3-Meio-R4> .
+    
+<https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-SoSOP3-Meio-B_depth>
+    a emobon:EnvironmentalMeasurement 
+    [ 
+        dwc:measurementValue '19.42'^^xsd:double;
+        sosa:observedProperty  <http://vocab.nerc.ac.uk/collection/P02/current/AHGT/>;
+        dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULAA/>;
+        a xsd:float ;   
+    ],
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-211028>, <https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-SoSOP3-Meio-B> .
+    
+<https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-SoSOP3-Meio-B_size_frac_low>
+    a emobon:EnvironmentalMeasurement 
+    [ 
+        dwc:measurementValue '0.32'^^xsd:double;
+        sosa:observedProperty  <http://vocab.nerc.ac.uk/collection/P06/current/UMIC/>;
+        dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/UMIC/>;
+        a xsd:float ;   
+    ],
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-211028>, <https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-SoSOP3-Meio-B> .
+    
+<https://data.emobon.embrc.eu/IDs/EMOBON-211223-BPNS-So3-Micro-R1_depth>
+    a emobon:EnvironmentalMeasurement 
+    [ 
+        dwc:measurementValue '21.2'^^xsd:double;
+        sosa:observedProperty  <http://vocab.nerc.ac.uk/collection/P02/current/AHGT/>;
+        dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULAA/>;
+        a xsd:float ;   
+    ],
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-211223>, <https://data.emobon.embrc.eu/IDs/EMOBON-211223-BPNS-So3-Micro-R1> .
+    
+<https://data.emobon.embrc.eu/IDs/EMOBON-211223-BPNS-So3-Micro-R2
+_depth>
+    a emobon:EnvironmentalMeasurement 
+    [ 
+        dwc:measurementValue '21.2'^^xsd:double;
+        sosa:observedProperty  <http://vocab.nerc.ac.uk/collection/P02/current/AHGT/>;
+        dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULAA/>;
+        a xsd:float ;   
+    ],
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-211223>, <https://data.emobon.embrc.eu/IDs/EMOBON-211223-BPNS-So3-Micro-R2%0A> .
+    
+<https://data.emobon.embrc.eu/IDs/EMOBON-211223-BPNS-So3-Micro-R3_depth>
+    a emobon:EnvironmentalMeasurement 
+    [ 
+        dwc:measurementValue '21.2'^^xsd:double;
+        sosa:observedProperty  <http://vocab.nerc.ac.uk/collection/P02/current/AHGT/>;
+        dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULAA/>;
+        a xsd:float ;   
+    ],
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-211223>, <https://data.emobon.embrc.eu/IDs/EMOBON-211223-BPNS-So3-Micro-R3> .
+    
+<https://data.emobon.embrc.eu/IDs/EMOBON-211223-BPNS-So3-Micro-R4_depth>
+    a emobon:EnvironmentalMeasurement 
+    [ 
+        dwc:measurementValue '21.2'^^xsd:double;
+        sosa:observedProperty  <http://vocab.nerc.ac.uk/collection/P02/current/AHGT/>;
+        dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULAA/>;
+        a xsd:float ;   
+    ],
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-211223>, <https://data.emobon.embrc.eu/IDs/EMOBON-211223-BPNS-So3-Micro-R4> .
+    
+<https://data.emobon.embrc.eu/IDs/EMOBON-211223-BPNS-So3-Micro-B1_depth>
+    a emobon:EnvironmentalMeasurement 
+    [ 
+        dwc:measurementValue '21.2'^^xsd:double;
+        sosa:observedProperty  <http://vocab.nerc.ac.uk/collection/P02/current/AHGT/>;
+        dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULAA/>;
+        a xsd:float ;   
+    ],
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-211223>, <https://data.emobon.embrc.eu/IDs/EMOBON-211223-BPNS-So3-Micro-B1> .
+    
+<https://data.emobon.embrc.eu/IDs/EMOBON-211223-BPNS-So3-Micro-B2_depth>
+    a emobon:EnvironmentalMeasurement 
+    [ 
+        dwc:measurementValue '21.2'^^xsd:double;
+        sosa:observedProperty  <http://vocab.nerc.ac.uk/collection/P02/current/AHGT/>;
+        dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULAA/>;
+        a xsd:float ;   
+    ],
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-211223>, <https://data.emobon.embrc.eu/IDs/EMOBON-211223-BPNS-So3-Micro-B2> .
+    
+<https://data.emobon.embrc.eu/IDs/EMOBON-220420-BPNS-SoSOP3-Meio-R1_size_frac_low>
+    a emobon:EnvironmentalMeasurement 
+    [ 
+        dwc:measurementValue '0.32'^^xsd:double;
+        sosa:observedProperty  <http://vocab.nerc.ac.uk/collection/P06/current/UMIC/>;
+        dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/UMIC/>;
+        a xsd:float ;   
+    ],
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-220431>, <https://data.emobon.embrc.eu/IDs/EMOBON-220420-BPNS-SoSOP3-Meio-R1> .
+    
+<https://data.emobon.embrc.eu/IDs/EMOBON-220420-BPNS-SoSOP3-Meio-R2_size_frac_low>
+    a emobon:EnvironmentalMeasurement 
+    [ 
+        dwc:measurementValue '0.32'^^xsd:double;
+        sosa:observedProperty  <http://vocab.nerc.ac.uk/collection/P06/current/UMIC/>;
+        dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/UMIC/>;
+        a xsd:float ;   
+    ],
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-220432>, <https://data.emobon.embrc.eu/IDs/EMOBON-220420-BPNS-SoSOP3-Meio-R2> .
+    
+<https://data.emobon.embrc.eu/IDs/EMOBON-220420-BPNS-SoSOP3-Meio-R3_size_frac_low>
+    a emobon:EnvironmentalMeasurement 
+    [ 
+        dwc:measurementValue '0.32'^^xsd:double;
+        sosa:observedProperty  <http://vocab.nerc.ac.uk/collection/P06/current/UMIC/>;
+        dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/UMIC/>;
+        a xsd:float ;   
+    ],
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-220433>, <https://data.emobon.embrc.eu/IDs/EMOBON-220420-BPNS-SoSOP3-Meio-R3> .
+    
+<https://data.emobon.embrc.eu/IDs/EMOBON-220420-BPNS-SoSOP3-Meio-R4_size_frac_low>
+    a emobon:EnvironmentalMeasurement 
+    [ 
+        dwc:measurementValue '0.32'^^xsd:double;
+        sosa:observedProperty  <http://vocab.nerc.ac.uk/collection/P06/current/UMIC/>;
+        dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/UMIC/>;
+        a xsd:float ;   
+    ],
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-220434>, <https://data.emobon.embrc.eu/IDs/EMOBON-220420-BPNS-SoSOP3-Meio-R4> .
+    
+<https://data.emobon.embrc.eu/IDs/EMOBON-220420-BPNS-SoSOP3-Meio-B_size_frac_low>
+    a emobon:EnvironmentalMeasurement 
+    [ 
+        dwc:measurementValue '0.32'^^xsd:double;
+        sosa:observedProperty  <http://vocab.nerc.ac.uk/collection/P06/current/UMIC/>;
+        dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/UMIC/>;
+        a xsd:float ;   
+    ],
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-220435>, <https://data.emobon.embrc.eu/IDs/EMOBON-220420-BPNS-SoSOP3-Meio-B> .
+    
+<https://data.emobon.embrc.eu/IDs/EMOBON-220601-BPNS-So3-Micro-R1_depth>
+    a emobon:EnvironmentalMeasurement 
+    [ 
+        dwc:measurementValue '20.3'^^xsd:double;
+        sosa:observedProperty  <http://vocab.nerc.ac.uk/collection/P02/current/AHGT/>;
+        dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULAA/>;
+        a xsd:float ;   
+    ],
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-220601>, <https://data.emobon.embrc.eu/IDs/EMOBON-220601-BPNS-So3-Micro-R1> .
+    
+<https://data.emobon.embrc.eu/IDs/EMOBON-220601-BPNS-So3-Micro-R2_depth>
+    a emobon:EnvironmentalMeasurement 
+    [ 
+        dwc:measurementValue '20.3'^^xsd:double;
+        sosa:observedProperty  <http://vocab.nerc.ac.uk/collection/P02/current/AHGT/>;
+        dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULAA/>;
+        a xsd:float ;   
+    ],
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-220601>, <https://data.emobon.embrc.eu/IDs/EMOBON-220601-BPNS-So3-Micro-R2> .
+    
+<https://data.emobon.embrc.eu/IDs/EMOBON-220601-BPNS-So3-Micro-R3_depth>
+    a emobon:EnvironmentalMeasurement 
+    [ 
+        dwc:measurementValue '20.3'^^xsd:double;
+        sosa:observedProperty  <http://vocab.nerc.ac.uk/collection/P02/current/AHGT/>;
+        dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULAA/>;
+        a xsd:float ;   
+    ],
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-220601>, <https://data.emobon.embrc.eu/IDs/EMOBON-220601-BPNS-So3-Micro-R3> .
+    
+<https://data.emobon.embrc.eu/IDs/EMOBON-220601-BPNS-So3-Micro-R4_depth>
+    a emobon:EnvironmentalMeasurement 
+    [ 
+        dwc:measurementValue '20.3'^^xsd:double;
+        sosa:observedProperty  <http://vocab.nerc.ac.uk/collection/P02/current/AHGT/>;
+        dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULAA/>;
+        a xsd:float ;   
+    ],
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-220601>, <https://data.emobon.embrc.eu/IDs/EMOBON-220601-BPNS-So3-Micro-R4> .
+    
+<https://data.emobon.embrc.eu/IDs/EMOBON-220601-BPNS-So3-Micro-B1_depth>
+    a emobon:EnvironmentalMeasurement 
+    [ 
+        dwc:measurementValue '20.3'^^xsd:double;
+        sosa:observedProperty  <http://vocab.nerc.ac.uk/collection/P02/current/AHGT/>;
+        dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULAA/>;
+        a xsd:float ;   
+    ],
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-220601>, <https://data.emobon.embrc.eu/IDs/EMOBON-220601-BPNS-So3-Micro-B1> .
+    
+<https://data.emobon.embrc.eu/IDs/EMOBON-220601-BPNS-So3-Micro-B2_depth>
+    a emobon:EnvironmentalMeasurement 
+    [ 
+        dwc:measurementValue '20.3'^^xsd:double;
+        sosa:observedProperty  <http://vocab.nerc.ac.uk/collection/P02/current/AHGT/>;
+        dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULAA/>;
+        a xsd:float ;   
+    ],
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-220601>, <https://data.emobon.embrc.eu/IDs/EMOBON-220601-BPNS-So3-Micro-B2> .
+    
+<https://data.emobon.embrc.eu/IDs/EMOBON-220601-BPNS-SoSOP3-Meio-R1_depth>
+    a emobon:EnvironmentalMeasurement 
+    [ 
+        dwc:measurementValue '20.3'^^xsd:double;
+        sosa:observedProperty  <http://vocab.nerc.ac.uk/collection/P02/current/AHGT/>;
+        dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULAA/>;
+        a xsd:float ;   
+    ],
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-220601>, <https://data.emobon.embrc.eu/IDs/EMOBON-220601-BPNS-SoSOP3-Meio-R1> .
+    
+<https://data.emobon.embrc.eu/IDs/EMOBON-220601-BPNS-SoSOP3-Meio-R1_size_frac_low>
+    a emobon:EnvironmentalMeasurement 
+    [ 
+        dwc:measurementValue '0.32'^^xsd:double;
+        sosa:observedProperty  <http://vocab.nerc.ac.uk/collection/P06/current/UMIC/>;
+        dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/UMIC/>;
+        a xsd:float ;   
+    ],
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-220601>, <https://data.emobon.embrc.eu/IDs/EMOBON-220601-BPNS-SoSOP3-Meio-R1> .
+    
+<https://data.emobon.embrc.eu/IDs/EMOBON-220601-BPNS-SoSOP3-Meio-R2_depth>
+    a emobon:EnvironmentalMeasurement 
+    [ 
+        dwc:measurementValue '20.3'^^xsd:double;
+        sosa:observedProperty  <http://vocab.nerc.ac.uk/collection/P02/current/AHGT/>;
+        dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULAA/>;
+        a xsd:float ;   
+    ],
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-220601>, <https://data.emobon.embrc.eu/IDs/EMOBON-220601-BPNS-SoSOP3-Meio-R2> .
+    
+<https://data.emobon.embrc.eu/IDs/EMOBON-220601-BPNS-SoSOP3-Meio-R2_size_frac_low>
+    a emobon:EnvironmentalMeasurement 
+    [ 
+        dwc:measurementValue '0.32'^^xsd:double;
+        sosa:observedProperty  <http://vocab.nerc.ac.uk/collection/P06/current/UMIC/>;
+        dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/UMIC/>;
+        a xsd:float ;   
+    ],
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-220601>, <https://data.emobon.embrc.eu/IDs/EMOBON-220601-BPNS-SoSOP3-Meio-R2> .
+    
+<https://data.emobon.embrc.eu/IDs/EMOBON-220601-BPNS-SoSOP3-Meio-R3_depth>
+    a emobon:EnvironmentalMeasurement 
+    [ 
+        dwc:measurementValue '20.3'^^xsd:double;
+        sosa:observedProperty  <http://vocab.nerc.ac.uk/collection/P02/current/AHGT/>;
+        dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULAA/>;
+        a xsd:float ;   
+    ],
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-220601>, <https://data.emobon.embrc.eu/IDs/EMOBON-220601-BPNS-SoSOP3-Meio-R3> .
+    
+<https://data.emobon.embrc.eu/IDs/EMOBON-220601-BPNS-SoSOP3-Meio-R3_size_frac_low>
+    a emobon:EnvironmentalMeasurement 
+    [ 
+        dwc:measurementValue '0.32'^^xsd:double;
+        sosa:observedProperty  <http://vocab.nerc.ac.uk/collection/P06/current/UMIC/>;
+        dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/UMIC/>;
+        a xsd:float ;   
+    ],
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-220601>, <https://data.emobon.embrc.eu/IDs/EMOBON-220601-BPNS-SoSOP3-Meio-R3> .
+    
+<https://data.emobon.embrc.eu/IDs/EMOBON-220601-BPNS-SoSOP3-Meio-R4_depth>
+    a emobon:EnvironmentalMeasurement 
+    [ 
+        dwc:measurementValue '20.3'^^xsd:double;
+        sosa:observedProperty  <http://vocab.nerc.ac.uk/collection/P02/current/AHGT/>;
+        dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULAA/>;
+        a xsd:float ;   
+    ],
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-220601>, <https://data.emobon.embrc.eu/IDs/EMOBON-220601-BPNS-SoSOP3-Meio-R4> .
+    
+<https://data.emobon.embrc.eu/IDs/EMOBON-220601-BPNS-SoSOP3-Meio-R4_size_frac_low>
+    a emobon:EnvironmentalMeasurement 
+    [ 
+        dwc:measurementValue '0.32'^^xsd:double;
+        sosa:observedProperty  <http://vocab.nerc.ac.uk/collection/P06/current/UMIC/>;
+        dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/UMIC/>;
+        a xsd:float ;   
+    ],
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-220601>, <https://data.emobon.embrc.eu/IDs/EMOBON-220601-BPNS-SoSOP3-Meio-R4> .
+    
+<https://data.emobon.embrc.eu/IDs/EMOBON-220601-BPNS-SoSOP3-Meio-B_depth>
+    a emobon:EnvironmentalMeasurement 
+    [ 
+        dwc:measurementValue '20.3'^^xsd:double;
+        sosa:observedProperty  <http://vocab.nerc.ac.uk/collection/P02/current/AHGT/>;
+        dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULAA/>;
+        a xsd:float ;   
+    ],
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-220601>, <https://data.emobon.embrc.eu/IDs/EMOBON-220601-BPNS-SoSOP3-Meio-B> .
+    
+<https://data.emobon.embrc.eu/IDs/EMOBON-220601-BPNS-SoSOP3-Meio-B_size_frac_low>
+    a emobon:EnvironmentalMeasurement 
+    [ 
+        dwc:measurementValue '0.32'^^xsd:double;
+        sosa:observedProperty  <http://vocab.nerc.ac.uk/collection/P06/current/UMIC/>;
+        dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/UMIC/>;
+        a xsd:float ;   
+    ],
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-220601>, <https://data.emobon.embrc.eu/IDs/EMOBON-220601-BPNS-SoSOP3-Meio-B> .
+    
+<https://data.emobon.embrc.eu/IDs/EMOBON-220819-BPNS-So3-Micro-R1_depth>
+    a emobon:EnvironmentalMeasurement 
+    [ 
+        dwc:measurementValue '19.9'^^xsd:double;
+        sosa:observedProperty  <http://vocab.nerc.ac.uk/collection/P02/current/AHGT/>;
+        dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULAA/>;
+        a xsd:float ;   
+    ],
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-220601>, <https://data.emobon.embrc.eu/IDs/EMOBON-220819-BPNS-So3-Micro-R1> .
+    
+<https://data.emobon.embrc.eu/IDs/EMOBON-220819-BPNS-So3-Micro-R2_depth>
+    a emobon:EnvironmentalMeasurement 
+    [ 
+        dwc:measurementValue '19.9'^^xsd:double;
+        sosa:observedProperty  <http://vocab.nerc.ac.uk/collection/P02/current/AHGT/>;
+        dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULAA/>;
+        a xsd:float ;   
+    ],
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-220601>, <https://data.emobon.embrc.eu/IDs/EMOBON-220819-BPNS-So3-Micro-R2> .
+    
+<https://data.emobon.embrc.eu/IDs/EMOBON-220819-BPNS-So3-Micro-R3_depth>
+    a emobon:EnvironmentalMeasurement 
+    [ 
+        dwc:measurementValue '19.9'^^xsd:double;
+        sosa:observedProperty  <http://vocab.nerc.ac.uk/collection/P02/current/AHGT/>;
+        dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULAA/>;
+        a xsd:float ;   
+    ],
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-220601>, <https://data.emobon.embrc.eu/IDs/EMOBON-220819-BPNS-So3-Micro-R3> .
+    
+<https://data.emobon.embrc.eu/IDs/EMOBON-220819-BPNS-So3-Micro-R4_depth>
+    a emobon:EnvironmentalMeasurement 
+    [ 
+        dwc:measurementValue '19.9'^^xsd:double;
+        sosa:observedProperty  <http://vocab.nerc.ac.uk/collection/P02/current/AHGT/>;
+        dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULAA/>;
+        a xsd:float ;   
+    ],
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-220601>, <https://data.emobon.embrc.eu/IDs/EMOBON-220819-BPNS-So3-Micro-R4> .
+    
+<https://data.emobon.embrc.eu/IDs/EMOBON-220819-BPNS-So3-Micro-B1_depth>
+    a emobon:EnvironmentalMeasurement 
+    [ 
+        dwc:measurementValue '19.9'^^xsd:double;
+        sosa:observedProperty  <http://vocab.nerc.ac.uk/collection/P02/current/AHGT/>;
+        dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULAA/>;
+        a xsd:float ;   
+    ],
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-220601>, <https://data.emobon.embrc.eu/IDs/EMOBON-220819-BPNS-So3-Micro-B1> .
+    
+<https://data.emobon.embrc.eu/IDs/EMOBON-220819-BPNS-So3-Micro-B2_depth>
+    a emobon:EnvironmentalMeasurement 
+    [ 
+        dwc:measurementValue '19.9'^^xsd:double;
+        sosa:observedProperty  <http://vocab.nerc.ac.uk/collection/P02/current/AHGT/>;
+        dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULAA/>;
+        a xsd:float ;   
+    ],
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-220601>, <https://data.emobon.embrc.eu/IDs/EMOBON-220819-BPNS-So3-Micro-B2> .
+    
+<https://data.emobon.embrc.eu/IDs/EMOBON-221027-BPNS-SoSOP3-Meio-R1_size_frac_low>
+    a emobon:EnvironmentalMeasurement 
+    [ 
+        dwc:measurementValue '0.32'^^xsd:double;
+        sosa:observedProperty  <http://vocab.nerc.ac.uk/collection/P06/current/UMIC/>;
+        dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/UMIC/>;
+        a xsd:float ;   
+    ],
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS%20So3%20221027>, <https://data.emobon.embrc.eu/IDs/EMOBON-221027-BPNS-SoSOP3-Meio-R1> .
+    
+<https://data.emobon.embrc.eu/IDs/EMOBON-221027-BPNS-SoSOP3-Meio-R2_size_frac_low>
+    a emobon:EnvironmentalMeasurement 
+    [ 
+        dwc:measurementValue '0.32'^^xsd:double;
+        sosa:observedProperty  <http://vocab.nerc.ac.uk/collection/P06/current/UMIC/>;
+        dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/UMIC/>;
+        a xsd:float ;   
+    ],
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS%20So3%20221027>, <https://data.emobon.embrc.eu/IDs/EMOBON-221027-BPNS-SoSOP3-Meio-R2> .
+    
+<https://data.emobon.embrc.eu/IDs/EMOBON-221027-BPNS-SoSOP3-Meio-R3_size_frac_low>
+    a emobon:EnvironmentalMeasurement 
+    [ 
+        dwc:measurementValue '0.32'^^xsd:double;
+        sosa:observedProperty  <http://vocab.nerc.ac.uk/collection/P06/current/UMIC/>;
+        dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/UMIC/>;
+        a xsd:float ;   
+    ],
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS%20So3%20221027>, <https://data.emobon.embrc.eu/IDs/EMOBON-221027-BPNS-SoSOP3-Meio-R3> .
+    
+<https://data.emobon.embrc.eu/IDs/EMOBON-221027-BPNS-SoSOP3-Meio-R4_size_frac_low>
+    a emobon:EnvironmentalMeasurement 
+    [ 
+        dwc:measurementValue '0.32'^^xsd:double;
+        sosa:observedProperty  <http://vocab.nerc.ac.uk/collection/P06/current/UMIC/>;
+        dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/UMIC/>;
+        a xsd:float ;   
+    ],
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS%20So3%20221027>, <https://data.emobon.embrc.eu/IDs/EMOBON-221027-BPNS-SoSOP3-Meio-R4> .
+    
+<https://data.emobon.embrc.eu/IDs/EMOBON-221027-BPNS-SoSOP3-Meio-B_size_frac_low>
+    a emobon:EnvironmentalMeasurement 
+    [ 
+        dwc:measurementValue '0.32'^^xsd:double;
+        sosa:observedProperty  <http://vocab.nerc.ac.uk/collection/P06/current/UMIC/>;
+        dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/UMIC/>;
+        a xsd:float ;   
+    ],
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS%20So3%20221027>, <https://data.emobon.embrc.eu/IDs/EMOBON-221027-BPNS-SoSOP3-Meio-B> .
+    

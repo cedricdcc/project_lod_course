@@ -1,0 +1,11 @@
+{# v2 material sample #}
+<{{uritexpand("https://data.emobon.embrc.eu/IDs/{source_mat_id}", _)}}>
+     a emobon:SedimentSample ;   
+     dwc:MaterialSampleID "{{_['source_mat_id']}}" ;
+     sosa:isResultOf <{{uritexpand("https://data.emobon.embrc.eu/IDs{sampling_event}", _)}}>;
+     emobon:sop "{{_['samp_mat_process']}}" ; 
+     sosa:hasResult a sosa:observerdProperty[ 
+           a emobon:sampleSize ;
+           dwc:sampleSizeValue "{{_['samp_size']}}" ; 
+           dwc:sampleSizeUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULIT/> ;
+     ] .

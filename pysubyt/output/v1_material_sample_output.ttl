@@ -1,4 +1,3 @@
-    # the material sample
     <https://data.emobon.embrc.eu/id/materialsample/EMOBON-210701-330-SoSOP3-Meio-R1>
         a emobon:SedimentSample;
         sosa:isResultOf <https://data.emobon.embrc.eu/id/materialsample/EMOBON_BE_20210701_330>;
@@ -67,8 +66,7 @@
             dbg:datatype "'xsd:string'^^xsd:string";
             dwc:measurementValue 'EMOBON-210701-330-SoSOP3-Meio-R1'^^xsd:string;
         ];
-        dwc:MaterialSampleID "EMOBON-210701-330-SoSOP3-Meio-R1".    # the material sample
-    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-210701-330-SoSOP3-Meio-R2>
+        dwc:MaterialSampleID "EMOBON-210701-330-SoSOP3-Meio-R1".    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-210701-330-SoSOP3-Meio-R2>
         a emobon:SedimentSample;
         sosa:isResultOf <https://data.emobon.embrc.eu/id/materialsample/EMOBON_BE_20210701_330>;
         sosa:hasResult a emobon:EnvironmentalMeasurement
@@ -136,8 +134,7 @@
             dbg:datatype "'xsd:string'^^xsd:string";
             dwc:measurementValue 'EMOBON-210701-330-SoSOP3-Meio-R2'^^xsd:string;
         ];
-        dwc:MaterialSampleID "EMOBON-210701-330-SoSOP3-Meio-R2".    # the material sample
-    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-210701-330-SoSOP3-Meio-R3>
+        dwc:MaterialSampleID "EMOBON-210701-330-SoSOP3-Meio-R2".    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-210701-330-SoSOP3-Meio-R3>
         a emobon:SedimentSample;
         sosa:isResultOf <https://data.emobon.embrc.eu/id/materialsample/EMOBON_BE_20210701_330>;
         sosa:hasResult a emobon:EnvironmentalMeasurement
@@ -205,8 +202,7 @@
             dbg:datatype "'xsd:string'^^xsd:string";
             dwc:measurementValue 'EMOBON-210701-330-SoSOP3-Meio-R3'^^xsd:string;
         ];
-        dwc:MaterialSampleID "EMOBON-210701-330-SoSOP3-Meio-R3".    # the material sample
-    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-210701-330-SoSOP3-Meio-R4>
+        dwc:MaterialSampleID "EMOBON-210701-330-SoSOP3-Meio-R3".    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-210701-330-SoSOP3-Meio-R4>
         a emobon:SedimentSample;
         sosa:isResultOf <https://data.emobon.embrc.eu/id/materialsample/EMOBON_BE_20210701_330>;
         sosa:hasResult a emobon:EnvironmentalMeasurement
@@ -274,8 +270,7 @@
             dbg:datatype "'xsd:string'^^xsd:string";
             dwc:measurementValue 'EMOBON-210701-330-SoSOP3-Meio-R4'^^xsd:string;
         ];
-        dwc:MaterialSampleID "EMOBON-210701-330-SoSOP3-Meio-R4".    # the material sample
-    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-210726-330-SoSOP3-Micro-R1>
+        dwc:MaterialSampleID "EMOBON-210701-330-SoSOP3-Meio-R4".    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-210726-330-SoSOP3-Micro-R1>
         a emobon:SedimentSample;
         sosa:isResultOf <https://data.emobon.embrc.eu/id/materialsample/EMOBON_BE_20210726_330>;
         sosa:hasResult a emobon:EnvironmentalMeasurement
@@ -322,8 +317,7 @@
             dbg:datatype "'xsd:string'^^xsd:string";
             dwc:measurementValue 'EMOBON-210726-330-SoSOP3-Micro-R1'^^xsd:string;
         ];
-        dwc:MaterialSampleID "EMOBON-210726-330-SoSOP3-Micro-R1".    # the material sample
-    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-210726-330-SoSOP3-Micro-R2>
+        dwc:MaterialSampleID "EMOBON-210726-330-SoSOP3-Micro-R1".    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-210726-330-SoSOP3-Micro-R2>
         a emobon:SedimentSample;
         sosa:isResultOf <https://data.emobon.embrc.eu/id/materialsample/EMOBON_BE_20210726_330>;
         sosa:hasResult a emobon:EnvironmentalMeasurement
@@ -370,8 +364,7 @@
             dbg:datatype "'xsd:string'^^xsd:string";
             dwc:measurementValue 'EMOBON-210726-330-SoSOP3-Micro-R2'^^xsd:string;
         ];
-        dwc:MaterialSampleID "EMOBON-210726-330-SoSOP3-Micro-R2".    # the material sample
-    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-210726-330-SoSOP3-Micro-R3>
+        dwc:MaterialSampleID "EMOBON-210726-330-SoSOP3-Micro-R2".    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-210726-330-SoSOP3-Micro-R3>
         a emobon:SedimentSample;
         sosa:isResultOf <https://data.emobon.embrc.eu/id/materialsample/EMOBON_BE_20210726_330>;
         sosa:hasResult a emobon:EnvironmentalMeasurement
@@ -418,8 +411,7 @@
             dbg:datatype "'xsd:string'^^xsd:string";
             dwc:measurementValue 'EMOBON-210726-330-SoSOP3-Micro-R3'^^xsd:string;
         ];
-        dwc:MaterialSampleID "EMOBON-210726-330-SoSOP3-Micro-R3".    # the material sample
-    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-210726-330-SoSOP3-Micro-R4>
+        dwc:MaterialSampleID "EMOBON-210726-330-SoSOP3-Micro-R3".    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-210726-330-SoSOP3-Micro-R4>
         a emobon:SedimentSample;
         sosa:isResultOf <https://data.emobon.embrc.eu/id/materialsample/EMOBON_BE_20210726_330>;
         sosa:hasResult a emobon:EnvironmentalMeasurement
@@ -466,8 +458,7 @@
             dbg:datatype "'xsd:string'^^xsd:string";
             dwc:measurementValue 'EMOBON-210726-330-SoSOP3-Micro-R4'^^xsd:string;
         ];
-        dwc:MaterialSampleID "EMOBON-210726-330-SoSOP3-Micro-R4".    # the material sample
-    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-210726-330-SoSOP3-Micro-B1>
+        dwc:MaterialSampleID "EMOBON-210726-330-SoSOP3-Micro-R4".    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-210726-330-SoSOP3-Micro-B1>
         a emobon:SedimentSample;
         sosa:isResultOf <https://data.emobon.embrc.eu/id/materialsample/EMOBON_BE_20210726_330>;
         sosa:hasResult a emobon:EnvironmentalMeasurement
@@ -514,8 +505,7 @@
             dbg:datatype "'xsd:string'^^xsd:string";
             dwc:measurementValue 'EMOBON-210726-330-SoSOP3-Micro-B1'^^xsd:string;
         ];
-        dwc:MaterialSampleID "EMOBON-210726-330-SoSOP3-Micro-B1".    # the material sample
-    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-210726-330-SoSOP3-Micro-B2>
+        dwc:MaterialSampleID "EMOBON-210726-330-SoSOP3-Micro-B1".    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-210726-330-SoSOP3-Micro-B2>
         a emobon:SedimentSample;
         sosa:isResultOf <https://data.emobon.embrc.eu/id/materialsample/EMOBON_BE_20210726_330>;
         sosa:hasResult a emobon:EnvironmentalMeasurement
@@ -562,8 +552,7 @@
             dbg:datatype "'xsd:string'^^xsd:string";
             dwc:measurementValue 'EMOBON-210726-330-SoSOP3-Micro-B2'^^xsd:string;
         ];
-        dwc:MaterialSampleID "EMOBON-210726-330-SoSOP3-Micro-B2".    # the material sample
-    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-210825-330-SoSOP3-Micro-R1>
+        dwc:MaterialSampleID "EMOBON-210726-330-SoSOP3-Micro-B2".    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-210825-330-SoSOP3-Micro-R1>
         a emobon:SedimentSample;
         sosa:isResultOf <https://data.emobon.embrc.eu/id/materialsample/EMOBON_BE_20210825_330>;
         sosa:hasResult a emobon:EnvironmentalMeasurement
@@ -622,8 +611,7 @@
             dbg:datatype "'xsd:string'^^xsd:string";
             dwc:measurementValue 'EMOBON-210825-330-SoSOP3-Micro-R1'^^xsd:string;
         ];
-        dwc:MaterialSampleID "EMOBON-210825-330-SoSOP3-Micro-R1".    # the material sample
-    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-210825-330-SoSOP3-Micro-R2>
+        dwc:MaterialSampleID "EMOBON-210825-330-SoSOP3-Micro-R1".    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-210825-330-SoSOP3-Micro-R2>
         a emobon:SedimentSample;
         sosa:isResultOf <https://data.emobon.embrc.eu/id/materialsample/EMOBON_BE_20210825_330>;
         sosa:hasResult a emobon:EnvironmentalMeasurement
@@ -676,8 +664,7 @@
             dbg:datatype "'xsd:string'^^xsd:string";
             dwc:measurementValue 'EMOBON-210825-330-SoSOP3-Micro-R2'^^xsd:string;
         ];
-        dwc:MaterialSampleID "EMOBON-210825-330-SoSOP3-Micro-R2".    # the material sample
-    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-210825-330-SoSOP3-Micro-R3>
+        dwc:MaterialSampleID "EMOBON-210825-330-SoSOP3-Micro-R2".    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-210825-330-SoSOP3-Micro-R3>
         a emobon:SedimentSample;
         sosa:isResultOf <https://data.emobon.embrc.eu/id/materialsample/EMOBON_BE_20210825_330>;
         sosa:hasResult a emobon:EnvironmentalMeasurement
@@ -730,8 +717,7 @@
             dbg:datatype "'xsd:string'^^xsd:string";
             dwc:measurementValue 'EMOBON-210825-330-SoSOP3-Micro-R3'^^xsd:string;
         ];
-        dwc:MaterialSampleID "EMOBON-210825-330-SoSOP3-Micro-R3".    # the material sample
-    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-210825-330-SoSOP3-Micro-R4>
+        dwc:MaterialSampleID "EMOBON-210825-330-SoSOP3-Micro-R3".    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-210825-330-SoSOP3-Micro-R4>
         a emobon:SedimentSample;
         sosa:isResultOf <https://data.emobon.embrc.eu/id/materialsample/EMOBON_BE_20210825_330>;
         sosa:hasResult a emobon:EnvironmentalMeasurement
@@ -784,8 +770,7 @@
             dbg:datatype "'xsd:string'^^xsd:string";
             dwc:measurementValue 'EMOBON-210825-330-SoSOP3-Micro-R4'^^xsd:string;
         ];
-        dwc:MaterialSampleID "EMOBON-210825-330-SoSOP3-Micro-R4".    # the material sample
-    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-210825-330-SoSOP3-Micro-B1>
+        dwc:MaterialSampleID "EMOBON-210825-330-SoSOP3-Micro-R4".    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-210825-330-SoSOP3-Micro-B1>
         a emobon:SedimentSample;
         sosa:isResultOf <https://data.emobon.embrc.eu/id/materialsample/EMOBON_BE_20210825_330>;
         sosa:hasResult a emobon:EnvironmentalMeasurement
@@ -838,8 +823,7 @@
             dbg:datatype "'xsd:string'^^xsd:string";
             dwc:measurementValue 'EMOBON-210825-330-SoSOP3-Micro-B1'^^xsd:string;
         ];
-        dwc:MaterialSampleID "EMOBON-210825-330-SoSOP3-Micro-B1".    # the material sample
-    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-210825-330-SoSOP3-Micro-B2>
+        dwc:MaterialSampleID "EMOBON-210825-330-SoSOP3-Micro-B1".    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-210825-330-SoSOP3-Micro-B2>
         a emobon:SedimentSample;
         sosa:isResultOf <https://data.emobon.embrc.eu/id/materialsample/EMOBON_BE_20210825_330>;
         sosa:hasResult a emobon:EnvironmentalMeasurement
@@ -892,8 +876,7 @@
             dbg:datatype "'xsd:string'^^xsd:string";
             dwc:measurementValue 'EMOBON-210825-330-SoSOP3-Micro-B2'^^xsd:string;
         ];
-        dwc:MaterialSampleID "EMOBON-210825-330-SoSOP3-Micro-B2".    # the material sample
-    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-211028-BPNS-So3-Micro-R1>
+        dwc:MaterialSampleID "EMOBON-210825-330-SoSOP3-Micro-B2".    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-211028-BPNS-So3-Micro-R1>
         a emobon:SedimentSample;
         sosa:isResultOf <https://data.emobon.embrc.eu/id/materialsample/BPNS-So3-211013>;
         sosa:hasResult a emobon:EnvironmentalMeasurement
@@ -946,8 +929,7 @@
             dbg:datatype "'xsd:string'^^xsd:string";
             dwc:measurementValue 'EMOBON-211028-BPNS-So3-Micro-R1'^^xsd:string;
         ];
-        dwc:MaterialSampleID "EMOBON-211028-BPNS-So3-Micro-R1".    # the material sample
-    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-211028-BPNS-So3-Micro-R2>
+        dwc:MaterialSampleID "EMOBON-211028-BPNS-So3-Micro-R1".    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-211028-BPNS-So3-Micro-R2>
         a emobon:SedimentSample;
         sosa:isResultOf <https://data.emobon.embrc.eu/id/materialsample/BPNS-So3-211014>;
         sosa:hasResult a emobon:EnvironmentalMeasurement
@@ -1000,8 +982,7 @@
             dbg:datatype "'xsd:string'^^xsd:string";
             dwc:measurementValue 'EMOBON-211028-BPNS-So3-Micro-R2'^^xsd:string;
         ];
-        dwc:MaterialSampleID "EMOBON-211028-BPNS-So3-Micro-R2".    # the material sample
-    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-211028-BPNS-So3-Micro-R3>
+        dwc:MaterialSampleID "EMOBON-211028-BPNS-So3-Micro-R2".    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-211028-BPNS-So3-Micro-R3>
         a emobon:SedimentSample;
         sosa:isResultOf <https://data.emobon.embrc.eu/id/materialsample/BPNS-So3-211015>;
         sosa:hasResult a emobon:EnvironmentalMeasurement
@@ -1054,8 +1035,7 @@
             dbg:datatype "'xsd:string'^^xsd:string";
             dwc:measurementValue 'EMOBON-211028-BPNS-So3-Micro-R3'^^xsd:string;
         ];
-        dwc:MaterialSampleID "EMOBON-211028-BPNS-So3-Micro-R3".    # the material sample
-    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-211028-BPNS-So3-Micro-R4>
+        dwc:MaterialSampleID "EMOBON-211028-BPNS-So3-Micro-R3".    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-211028-BPNS-So3-Micro-R4>
         a emobon:SedimentSample;
         sosa:isResultOf <https://data.emobon.embrc.eu/id/materialsample/BPNS-So3-211016>;
         sosa:hasResult a emobon:EnvironmentalMeasurement
@@ -1108,8 +1088,7 @@
             dbg:datatype "'xsd:string'^^xsd:string";
             dwc:measurementValue 'EMOBON-211028-BPNS-So3-Micro-R4'^^xsd:string;
         ];
-        dwc:MaterialSampleID "EMOBON-211028-BPNS-So3-Micro-R4".    # the material sample
-    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-211028-BPNS-So3-Micro-B1>
+        dwc:MaterialSampleID "EMOBON-211028-BPNS-So3-Micro-R4".    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-211028-BPNS-So3-Micro-B1>
         a emobon:SedimentSample;
         sosa:isResultOf <https://data.emobon.embrc.eu/id/materialsample/BPNS-So3-211017>;
         sosa:hasResult a emobon:EnvironmentalMeasurement
@@ -1162,8 +1141,7 @@
             dbg:datatype "'xsd:string'^^xsd:string";
             dwc:measurementValue 'EMOBON-211028-BPNS-So3-Micro-B1'^^xsd:string;
         ];
-        dwc:MaterialSampleID "EMOBON-211028-BPNS-So3-Micro-B1".    # the material sample
-    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-211028-BPNS-So3-Micro-B2>
+        dwc:MaterialSampleID "EMOBON-211028-BPNS-So3-Micro-B1".    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-211028-BPNS-So3-Micro-B2>
         a emobon:SedimentSample;
         sosa:isResultOf <https://data.emobon.embrc.eu/id/materialsample/BPNS-So3-211018>;
         sosa:hasResult a emobon:EnvironmentalMeasurement
@@ -1216,8 +1194,7 @@
             dbg:datatype "'xsd:string'^^xsd:string";
             dwc:measurementValue 'EMOBON-211028-BPNS-So3-Micro-B2'^^xsd:string;
         ];
-        dwc:MaterialSampleID "EMOBON-211028-BPNS-So3-Micro-B2".    # the material sample
-    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-211028-BPNS-So3-Macro-R1>
+        dwc:MaterialSampleID "EMOBON-211028-BPNS-So3-Micro-B2".    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-211028-BPNS-So3-Macro-R1>
         a emobon:SedimentSample;
         sosa:isResultOf <https://data.emobon.embrc.eu/id/materialsample/BPNS-So3-211019>;
         sosa:hasResult a emobon:EnvironmentalMeasurement
@@ -1270,8 +1247,7 @@
             dbg:datatype "'xsd:string'^^xsd:string";
             dwc:measurementValue 'EMOBON-211028-BPNS-So3-Macro-R1'^^xsd:string;
         ];
-        dwc:MaterialSampleID "EMOBON-211028-BPNS-So3-Macro-R1".    # the material sample
-    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-211028-BPNS-So3-Macro-R2>
+        dwc:MaterialSampleID "EMOBON-211028-BPNS-So3-Macro-R1".    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-211028-BPNS-So3-Macro-R2>
         a emobon:SedimentSample;
         sosa:isResultOf <https://data.emobon.embrc.eu/id/materialsample/BPNS-So3-211020>;
         sosa:hasResult a emobon:EnvironmentalMeasurement
@@ -1324,8 +1300,7 @@
             dbg:datatype "'xsd:string'^^xsd:string";
             dwc:measurementValue 'EMOBON-211028-BPNS-So3-Macro-R2'^^xsd:string;
         ];
-        dwc:MaterialSampleID "EMOBON-211028-BPNS-So3-Macro-R2".    # the material sample
-    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-211028-BPNS-So3-Macro-R3>
+        dwc:MaterialSampleID "EMOBON-211028-BPNS-So3-Macro-R2".    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-211028-BPNS-So3-Macro-R3>
         a emobon:SedimentSample;
         sosa:isResultOf <https://data.emobon.embrc.eu/id/materialsample/BPNS-So3-211021>;
         sosa:hasResult a emobon:EnvironmentalMeasurement
@@ -1378,8 +1353,7 @@
             dbg:datatype "'xsd:string'^^xsd:string";
             dwc:measurementValue 'EMOBON-211028-BPNS-So3-Macro-R3'^^xsd:string;
         ];
-        dwc:MaterialSampleID "EMOBON-211028-BPNS-So3-Macro-R3".    # the material sample
-    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-211028-BPNS-So3-Macro-R4>
+        dwc:MaterialSampleID "EMOBON-211028-BPNS-So3-Macro-R3".    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-211028-BPNS-So3-Macro-R4>
         a emobon:SedimentSample;
         sosa:isResultOf <https://data.emobon.embrc.eu/id/materialsample/BPNS-So3-211022>;
         sosa:hasResult a emobon:EnvironmentalMeasurement
@@ -1432,8 +1406,7 @@
             dbg:datatype "'xsd:string'^^xsd:string";
             dwc:measurementValue 'EMOBON-211028-BPNS-So3-Macro-R4'^^xsd:string;
         ];
-        dwc:MaterialSampleID "EMOBON-211028-BPNS-So3-Macro-R4".    # the material sample
-    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-211028-BPNS-So3-Macro-B>
+        dwc:MaterialSampleID "EMOBON-211028-BPNS-So3-Macro-R4".    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-211028-BPNS-So3-Macro-B>
         a emobon:SedimentSample;
         sosa:isResultOf <https://data.emobon.embrc.eu/id/materialsample/BPNS-So3-211023>;
         sosa:hasResult a emobon:EnvironmentalMeasurement
@@ -1486,8 +1459,7 @@
             dbg:datatype "'xsd:string'^^xsd:string";
             dwc:measurementValue 'EMOBON-211028-BPNS-So3-Macro-B'^^xsd:string;
         ];
-        dwc:MaterialSampleID "EMOBON-211028-BPNS-So3-Macro-B".    # the material sample
-    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-211028-BPNS-SoSOP3-Meio-R1>
+        dwc:MaterialSampleID "EMOBON-211028-BPNS-So3-Macro-B".    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-211028-BPNS-SoSOP3-Meio-R1>
         a emobon:SedimentSample;
         sosa:isResultOf <https://data.emobon.embrc.eu/id/materialsample/BPNS-So3-211024>;
         sosa:hasResult a emobon:EnvironmentalMeasurement
@@ -1555,8 +1527,7 @@
             dbg:datatype "'xsd:string'^^xsd:string";
             dwc:measurementValue 'EMOBON-211028-BPNS-SoSOP3-Meio-R1'^^xsd:string;
         ];
-        dwc:MaterialSampleID "EMOBON-211028-BPNS-SoSOP3-Meio-R1".    # the material sample
-    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-211028-BPNS-SoSOP3-Meio-R2>
+        dwc:MaterialSampleID "EMOBON-211028-BPNS-SoSOP3-Meio-R1".    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-211028-BPNS-SoSOP3-Meio-R2>
         a emobon:SedimentSample;
         sosa:isResultOf <https://data.emobon.embrc.eu/id/materialsample/BPNS-So3-211025>;
         sosa:hasResult a emobon:EnvironmentalMeasurement
@@ -1624,8 +1595,7 @@
             dbg:datatype "'xsd:string'^^xsd:string";
             dwc:measurementValue 'EMOBON-211028-BPNS-SoSOP3-Meio-R2'^^xsd:string;
         ];
-        dwc:MaterialSampleID "EMOBON-211028-BPNS-SoSOP3-Meio-R2".    # the material sample
-    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-211028-BPNS-SoSOP3-Meio-R3>
+        dwc:MaterialSampleID "EMOBON-211028-BPNS-SoSOP3-Meio-R2".    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-211028-BPNS-SoSOP3-Meio-R3>
         a emobon:SedimentSample;
         sosa:isResultOf <https://data.emobon.embrc.eu/id/materialsample/BPNS-So3-211026>;
         sosa:hasResult a emobon:EnvironmentalMeasurement
@@ -1693,8 +1663,7 @@
             dbg:datatype "'xsd:string'^^xsd:string";
             dwc:measurementValue 'EMOBON-211028-BPNS-SoSOP3-Meio-R3'^^xsd:string;
         ];
-        dwc:MaterialSampleID "EMOBON-211028-BPNS-SoSOP3-Meio-R3".    # the material sample
-    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-211028-BPNS-SoSOP3-Meio-R4>
+        dwc:MaterialSampleID "EMOBON-211028-BPNS-SoSOP3-Meio-R3".    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-211028-BPNS-SoSOP3-Meio-R4>
         a emobon:SedimentSample;
         sosa:isResultOf <https://data.emobon.embrc.eu/id/materialsample/BPNS-So3-211027>;
         sosa:hasResult a emobon:EnvironmentalMeasurement
@@ -1762,8 +1731,7 @@
             dbg:datatype "'xsd:string'^^xsd:string";
             dwc:measurementValue 'EMOBON-211028-BPNS-SoSOP3-Meio-R4'^^xsd:string;
         ];
-        dwc:MaterialSampleID "EMOBON-211028-BPNS-SoSOP3-Meio-R4".    # the material sample
-    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-211028-BPNS-SoSOP3-Meio-B>
+        dwc:MaterialSampleID "EMOBON-211028-BPNS-SoSOP3-Meio-R4".    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-211028-BPNS-SoSOP3-Meio-B>
         a emobon:SedimentSample;
         sosa:isResultOf <https://data.emobon.embrc.eu/id/materialsample/BPNS-So3-211028>;
         sosa:hasResult a emobon:EnvironmentalMeasurement
@@ -1824,8 +1792,7 @@
             dbg:datatype "'xsd:string'^^xsd:string";
             dwc:measurementValue 'EMOBON-211028-BPNS-SoSOP3-Meio-B'^^xsd:string;
         ];
-        dwc:MaterialSampleID "EMOBON-211028-BPNS-SoSOP3-Meio-B".    # the material sample
-    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-211223-BPNS-So3-Micro-R1>
+        dwc:MaterialSampleID "EMOBON-211028-BPNS-SoSOP3-Meio-B".    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-211223-BPNS-So3-Micro-R1>
         a emobon:SedimentSample;
         sosa:isResultOf <https://data.emobon.embrc.eu/id/materialsample/BPNS-So3-211223>;
         sosa:hasResult a emobon:EnvironmentalMeasurement
@@ -1884,8 +1851,7 @@
             dbg:datatype "'xsd:string'^^xsd:string";
             dwc:measurementValue 'EMOBON-211223-BPNS-So3-Micro-R1'^^xsd:string;
         ];
-        dwc:MaterialSampleID "EMOBON-211223-BPNS-So3-Micro-R1".    # the material sample
-    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-211223-BPNS-So3-Micro-R2%0A>
+        dwc:MaterialSampleID "EMOBON-211223-BPNS-So3-Micro-R1".    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-211223-BPNS-So3-Micro-R2%0A>
         a emobon:SedimentSample;
         sosa:isResultOf <https://data.emobon.embrc.eu/id/materialsample/BPNS-So3-211223>;
         sosa:hasResult a emobon:EnvironmentalMeasurement
@@ -1946,8 +1912,7 @@
 '''^^xsd:string;
         ];
         dwc:MaterialSampleID "EMOBON-211223-BPNS-So3-Micro-R2
-".    # the material sample
-    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-211223-BPNS-So3-Micro-R3>
+".    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-211223-BPNS-So3-Micro-R3>
         a emobon:SedimentSample;
         sosa:isResultOf <https://data.emobon.embrc.eu/id/materialsample/BPNS-So3-211223>;
         sosa:hasResult a emobon:EnvironmentalMeasurement
@@ -2006,8 +1971,7 @@
             dbg:datatype "'xsd:string'^^xsd:string";
             dwc:measurementValue 'EMOBON-211223-BPNS-So3-Micro-R3'^^xsd:string;
         ];
-        dwc:MaterialSampleID "EMOBON-211223-BPNS-So3-Micro-R3".    # the material sample
-    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-211223-BPNS-So3-Micro-R4>
+        dwc:MaterialSampleID "EMOBON-211223-BPNS-So3-Micro-R3".    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-211223-BPNS-So3-Micro-R4>
         a emobon:SedimentSample;
         sosa:isResultOf <https://data.emobon.embrc.eu/id/materialsample/BPNS-So3-211223>;
         sosa:hasResult a emobon:EnvironmentalMeasurement
@@ -2066,8 +2030,7 @@
             dbg:datatype "'xsd:string'^^xsd:string";
             dwc:measurementValue 'EMOBON-211223-BPNS-So3-Micro-R4'^^xsd:string;
         ];
-        dwc:MaterialSampleID "EMOBON-211223-BPNS-So3-Micro-R4".    # the material sample
-    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-211223-BPNS-So3-Micro-B1>
+        dwc:MaterialSampleID "EMOBON-211223-BPNS-So3-Micro-R4".    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-211223-BPNS-So3-Micro-B1>
         a emobon:SedimentSample;
         sosa:isResultOf <https://data.emobon.embrc.eu/id/materialsample/BPNS-So3-211223>;
         sosa:hasResult a emobon:EnvironmentalMeasurement
@@ -2126,8 +2089,7 @@
             dbg:datatype "'xsd:string'^^xsd:string";
             dwc:measurementValue 'EMOBON-211223-BPNS-So3-Micro-B1'^^xsd:string;
         ];
-        dwc:MaterialSampleID "EMOBON-211223-BPNS-So3-Micro-B1".    # the material sample
-    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-211223-BPNS-So3-Micro-B2>
+        dwc:MaterialSampleID "EMOBON-211223-BPNS-So3-Micro-B1".    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-211223-BPNS-So3-Micro-B2>
         a emobon:SedimentSample;
         sosa:isResultOf <https://data.emobon.embrc.eu/id/materialsample/BPNS-So3-211223>;
         sosa:hasResult a emobon:EnvironmentalMeasurement
@@ -2186,8 +2148,7 @@
             dbg:datatype "'xsd:string'^^xsd:string";
             dwc:measurementValue 'EMOBON-211223-BPNS-So3-Micro-B2'^^xsd:string;
         ];
-        dwc:MaterialSampleID "EMOBON-211223-BPNS-So3-Micro-B2".    # the material sample
-    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-220322-BPNS-So3-Micro-R1>
+        dwc:MaterialSampleID "EMOBON-211223-BPNS-So3-Micro-B2".    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-220322-BPNS-So3-Micro-R1>
         a emobon:SedimentSample;
         sosa:isResultOf <https://data.emobon.embrc.eu/id/materialsample/BPNS-So3-220322>;
         sosa:hasResult a emobon:EnvironmentalMeasurement
@@ -2226,8 +2187,7 @@
             dbg:datatype "'xsd:string'^^xsd:string";
             dwc:measurementValue 'EMOBON-220322-BPNS-So3-Micro-R1'^^xsd:string;
         ];
-        dwc:MaterialSampleID "EMOBON-220322-BPNS-So3-Micro-R1".    # the material sample
-    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-220322-BPNS-So3-Micro-R2>
+        dwc:MaterialSampleID "EMOBON-220322-BPNS-So3-Micro-R1".    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-220322-BPNS-So3-Micro-R2>
         a emobon:SedimentSample;
         sosa:isResultOf <https://data.emobon.embrc.eu/id/materialsample/BPNS-So3-220322>;
         sosa:hasResult a emobon:EnvironmentalMeasurement
@@ -2266,8 +2226,7 @@
             dbg:datatype "'xsd:string'^^xsd:string";
             dwc:measurementValue 'EMOBON-220322-BPNS-So3-Micro-R2'^^xsd:string;
         ];
-        dwc:MaterialSampleID "EMOBON-220322-BPNS-So3-Micro-R2".    # the material sample
-    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-220322-BPNS-So3-Micro-R3>
+        dwc:MaterialSampleID "EMOBON-220322-BPNS-So3-Micro-R2".    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-220322-BPNS-So3-Micro-R3>
         a emobon:SedimentSample;
         sosa:isResultOf <https://data.emobon.embrc.eu/id/materialsample/BPNS-So3-220322>;
         sosa:hasResult a emobon:EnvironmentalMeasurement
@@ -2306,8 +2265,7 @@
             dbg:datatype "'xsd:string'^^xsd:string";
             dwc:measurementValue 'EMOBON-220322-BPNS-So3-Micro-R3'^^xsd:string;
         ];
-        dwc:MaterialSampleID "EMOBON-220322-BPNS-So3-Micro-R3".    # the material sample
-    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-220322-BPNS-So3-Micro-R4>
+        dwc:MaterialSampleID "EMOBON-220322-BPNS-So3-Micro-R3".    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-220322-BPNS-So3-Micro-R4>
         a emobon:SedimentSample;
         sosa:isResultOf <https://data.emobon.embrc.eu/id/materialsample/BPNS-So3-220322>;
         sosa:hasResult a emobon:EnvironmentalMeasurement
@@ -2352,8 +2310,7 @@
             dbg:datatype "'xsd:string'^^xsd:string";
             dwc:measurementValue 'EMOBON-220322-BPNS-So3-Micro-R4'^^xsd:string;
         ];
-        dwc:MaterialSampleID "EMOBON-220322-BPNS-So3-Micro-R4".    # the material sample
-    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-220322-BPNS-So3-Micro-B1>
+        dwc:MaterialSampleID "EMOBON-220322-BPNS-So3-Micro-R4".    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-220322-BPNS-So3-Micro-B1>
         a emobon:SedimentSample;
         sosa:isResultOf <https://data.emobon.embrc.eu/id/materialsample/BPNS-So3-220322>;
         sosa:hasResult a emobon:EnvironmentalMeasurement
@@ -2392,8 +2349,7 @@
             dbg:datatype "'xsd:string'^^xsd:string";
             dwc:measurementValue 'EMOBON-220322-BPNS-So3-Micro-B1'^^xsd:string;
         ];
-        dwc:MaterialSampleID "EMOBON-220322-BPNS-So3-Micro-B1".    # the material sample
-    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-220322-BPNS-So3-Micro-B2>
+        dwc:MaterialSampleID "EMOBON-220322-BPNS-So3-Micro-B1".    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-220322-BPNS-So3-Micro-B2>
         a emobon:SedimentSample;
         sosa:isResultOf <https://data.emobon.embrc.eu/id/materialsample/BPNS-So3-220322>;
         sosa:hasResult a emobon:EnvironmentalMeasurement
@@ -2432,8 +2388,7 @@
             dbg:datatype "'xsd:string'^^xsd:string";
             dwc:measurementValue 'EMOBON-220322-BPNS-So3-Micro-B2'^^xsd:string;
         ];
-        dwc:MaterialSampleID "EMOBON-220322-BPNS-So3-Micro-B2".    # the material sample
-    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-220420-BPNS-So3-Micro-R1>
+        dwc:MaterialSampleID "EMOBON-220322-BPNS-So3-Micro-B2".    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-220420-BPNS-So3-Micro-R1>
         a emobon:SedimentSample;
         sosa:isResultOf <https://data.emobon.embrc.eu/id/materialsample/BPNS-So3-220420>;
         sosa:hasResult a emobon:EnvironmentalMeasurement
@@ -2472,8 +2427,7 @@
             dbg:datatype "'xsd:string'^^xsd:string";
             dwc:measurementValue 'EMOBON-220420-BPNS-So3-Micro-R1'^^xsd:string;
         ];
-        dwc:MaterialSampleID "EMOBON-220420-BPNS-So3-Micro-R1".    # the material sample
-    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-220420-BPNS-So3-Micro-R2>
+        dwc:MaterialSampleID "EMOBON-220420-BPNS-So3-Micro-R1".    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-220420-BPNS-So3-Micro-R2>
         a emobon:SedimentSample;
         sosa:isResultOf <https://data.emobon.embrc.eu/id/materialsample/BPNS-So3-220421>;
         sosa:hasResult a emobon:EnvironmentalMeasurement
@@ -2512,8 +2466,7 @@
             dbg:datatype "'xsd:string'^^xsd:string";
             dwc:measurementValue 'EMOBON-220420-BPNS-So3-Micro-R2'^^xsd:string;
         ];
-        dwc:MaterialSampleID "EMOBON-220420-BPNS-So3-Micro-R2".    # the material sample
-    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-220420-BPNS-So3-Micro-R3>
+        dwc:MaterialSampleID "EMOBON-220420-BPNS-So3-Micro-R2".    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-220420-BPNS-So3-Micro-R3>
         a emobon:SedimentSample;
         sosa:isResultOf <https://data.emobon.embrc.eu/id/materialsample/BPNS-So3-220422>;
         sosa:hasResult a emobon:EnvironmentalMeasurement
@@ -2552,8 +2505,7 @@
             dbg:datatype "'xsd:string'^^xsd:string";
             dwc:measurementValue 'EMOBON-220420-BPNS-So3-Micro-R3'^^xsd:string;
         ];
-        dwc:MaterialSampleID "EMOBON-220420-BPNS-So3-Micro-R3".    # the material sample
-    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-220420-BPNS-So3-Micro-R4>
+        dwc:MaterialSampleID "EMOBON-220420-BPNS-So3-Micro-R3".    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-220420-BPNS-So3-Micro-R4>
         a emobon:SedimentSample;
         sosa:isResultOf <https://data.emobon.embrc.eu/id/materialsample/BPNS-So3-220423>;
         sosa:hasResult a emobon:EnvironmentalMeasurement
@@ -2592,8 +2544,7 @@
             dbg:datatype "'xsd:string'^^xsd:string";
             dwc:measurementValue 'EMOBON-220420-BPNS-So3-Micro-R4'^^xsd:string;
         ];
-        dwc:MaterialSampleID "EMOBON-220420-BPNS-So3-Micro-R4".    # the material sample
-    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-220420-BPNS-So3-Micro-B1>
+        dwc:MaterialSampleID "EMOBON-220420-BPNS-So3-Micro-R4".    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-220420-BPNS-So3-Micro-B1>
         a emobon:SedimentSample;
         sosa:isResultOf <https://data.emobon.embrc.eu/id/materialsample/BPNS-So3-220424>;
         sosa:hasResult a emobon:EnvironmentalMeasurement
@@ -2632,8 +2583,7 @@
             dbg:datatype "'xsd:string'^^xsd:string";
             dwc:measurementValue 'EMOBON-220420-BPNS-So3-Micro-B1'^^xsd:string;
         ];
-        dwc:MaterialSampleID "EMOBON-220420-BPNS-So3-Micro-B1".    # the material sample
-    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-220420-BPNS-So3-Micro-B2>
+        dwc:MaterialSampleID "EMOBON-220420-BPNS-So3-Micro-B1".    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-220420-BPNS-So3-Micro-B2>
         a emobon:SedimentSample;
         sosa:isResultOf <https://data.emobon.embrc.eu/id/materialsample/BPNS-So3-220425>;
         sosa:hasResult a emobon:EnvironmentalMeasurement
@@ -2672,8 +2622,7 @@
             dbg:datatype "'xsd:string'^^xsd:string";
             dwc:measurementValue 'EMOBON-220420-BPNS-So3-Micro-B2'^^xsd:string;
         ];
-        dwc:MaterialSampleID "EMOBON-220420-BPNS-So3-Micro-B2".    # the material sample
-    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-220420-BPNS-So3-Macro-R1>
+        dwc:MaterialSampleID "EMOBON-220420-BPNS-So3-Micro-B2".    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-220420-BPNS-So3-Macro-R1>
         a emobon:SedimentSample;
         sosa:isResultOf <https://data.emobon.embrc.eu/id/materialsample/BPNS-So3-220426>;
         sosa:hasResult a emobon:EnvironmentalMeasurement
@@ -2712,8 +2661,7 @@
             dbg:datatype "'xsd:string'^^xsd:string";
             dwc:measurementValue 'EMOBON-220420-BPNS-So3-Macro-R1'^^xsd:string;
         ];
-        dwc:MaterialSampleID "EMOBON-220420-BPNS-So3-Macro-R1".    # the material sample
-    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-220420-BPNS-So3-Macro-R2>
+        dwc:MaterialSampleID "EMOBON-220420-BPNS-So3-Macro-R1".    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-220420-BPNS-So3-Macro-R2>
         a emobon:SedimentSample;
         sosa:isResultOf <https://data.emobon.embrc.eu/id/materialsample/BPNS-So3-220427>;
         sosa:hasResult a emobon:EnvironmentalMeasurement
@@ -2752,8 +2700,7 @@
             dbg:datatype "'xsd:string'^^xsd:string";
             dwc:measurementValue 'EMOBON-220420-BPNS-So3-Macro-R2'^^xsd:string;
         ];
-        dwc:MaterialSampleID "EMOBON-220420-BPNS-So3-Macro-R2".    # the material sample
-    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-220420-BPNS-So3-Macro-R3>
+        dwc:MaterialSampleID "EMOBON-220420-BPNS-So3-Macro-R2".    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-220420-BPNS-So3-Macro-R3>
         a emobon:SedimentSample;
         sosa:isResultOf <https://data.emobon.embrc.eu/id/materialsample/BPNS-So3-220428>;
         sosa:hasResult a emobon:EnvironmentalMeasurement
@@ -2792,8 +2739,7 @@
             dbg:datatype "'xsd:string'^^xsd:string";
             dwc:measurementValue 'EMOBON-220420-BPNS-So3-Macro-R3'^^xsd:string;
         ];
-        dwc:MaterialSampleID "EMOBON-220420-BPNS-So3-Macro-R3".    # the material sample
-    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-220420-BPNS-So3-Macro-R4>
+        dwc:MaterialSampleID "EMOBON-220420-BPNS-So3-Macro-R3".    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-220420-BPNS-So3-Macro-R4>
         a emobon:SedimentSample;
         sosa:isResultOf <https://data.emobon.embrc.eu/id/materialsample/BPNS-So3-220429>;
         sosa:hasResult a emobon:EnvironmentalMeasurement
@@ -2832,8 +2778,7 @@
             dbg:datatype "'xsd:string'^^xsd:string";
             dwc:measurementValue 'EMOBON-220420-BPNS-So3-Macro-R4'^^xsd:string;
         ];
-        dwc:MaterialSampleID "EMOBON-220420-BPNS-So3-Macro-R4".    # the material sample
-    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-220420-BPNS-So3-Macro-B>
+        dwc:MaterialSampleID "EMOBON-220420-BPNS-So3-Macro-R4".    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-220420-BPNS-So3-Macro-B>
         a emobon:SedimentSample;
         sosa:isResultOf <https://data.emobon.embrc.eu/id/materialsample/BPNS-So3-220430>;
         sosa:hasResult a emobon:EnvironmentalMeasurement
@@ -2872,8 +2817,7 @@
             dbg:datatype "'xsd:string'^^xsd:string";
             dwc:measurementValue 'EMOBON-220420-BPNS-So3-Macro-B'^^xsd:string;
         ];
-        dwc:MaterialSampleID "EMOBON-220420-BPNS-So3-Macro-B".    # the material sample
-    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-220420-BPNS-SoSOP3-Meio-R1>
+        dwc:MaterialSampleID "EMOBON-220420-BPNS-So3-Macro-B".    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-220420-BPNS-SoSOP3-Meio-R1>
         a emobon:SedimentSample;
         sosa:isResultOf <https://data.emobon.embrc.eu/id/materialsample/BPNS-So3-220431>;
         sosa:hasResult a emobon:EnvironmentalMeasurement
@@ -2933,8 +2877,7 @@
             dbg:datatype "'xsd:string'^^xsd:string";
             dwc:measurementValue 'EMOBON-220420-BPNS-SoSOP3-Meio-R1'^^xsd:string;
         ];
-        dwc:MaterialSampleID "EMOBON-220420-BPNS-SoSOP3-Meio-R1".    # the material sample
-    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-220420-BPNS-SoSOP3-Meio-R2>
+        dwc:MaterialSampleID "EMOBON-220420-BPNS-SoSOP3-Meio-R1".    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-220420-BPNS-SoSOP3-Meio-R2>
         a emobon:SedimentSample;
         sosa:isResultOf <https://data.emobon.embrc.eu/id/materialsample/BPNS-So3-220432>;
         sosa:hasResult a emobon:EnvironmentalMeasurement
@@ -2994,8 +2937,7 @@
             dbg:datatype "'xsd:string'^^xsd:string";
             dwc:measurementValue 'EMOBON-220420-BPNS-SoSOP3-Meio-R2'^^xsd:string;
         ];
-        dwc:MaterialSampleID "EMOBON-220420-BPNS-SoSOP3-Meio-R2".    # the material sample
-    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-220420-BPNS-SoSOP3-Meio-R3>
+        dwc:MaterialSampleID "EMOBON-220420-BPNS-SoSOP3-Meio-R2".    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-220420-BPNS-SoSOP3-Meio-R3>
         a emobon:SedimentSample;
         sosa:isResultOf <https://data.emobon.embrc.eu/id/materialsample/BPNS-So3-220433>;
         sosa:hasResult a emobon:EnvironmentalMeasurement
@@ -3055,8 +2997,7 @@
             dbg:datatype "'xsd:string'^^xsd:string";
             dwc:measurementValue 'EMOBON-220420-BPNS-SoSOP3-Meio-R3'^^xsd:string;
         ];
-        dwc:MaterialSampleID "EMOBON-220420-BPNS-SoSOP3-Meio-R3".    # the material sample
-    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-220420-BPNS-SoSOP3-Meio-R4>
+        dwc:MaterialSampleID "EMOBON-220420-BPNS-SoSOP3-Meio-R3".    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-220420-BPNS-SoSOP3-Meio-R4>
         a emobon:SedimentSample;
         sosa:isResultOf <https://data.emobon.embrc.eu/id/materialsample/BPNS-So3-220434>;
         sosa:hasResult a emobon:EnvironmentalMeasurement
@@ -3116,8 +3057,7 @@
             dbg:datatype "'xsd:string'^^xsd:string";
             dwc:measurementValue 'EMOBON-220420-BPNS-SoSOP3-Meio-R4'^^xsd:string;
         ];
-        dwc:MaterialSampleID "EMOBON-220420-BPNS-SoSOP3-Meio-R4".    # the material sample
-    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-220420-BPNS-SoSOP3-Meio-B>
+        dwc:MaterialSampleID "EMOBON-220420-BPNS-SoSOP3-Meio-R4".    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-220420-BPNS-SoSOP3-Meio-B>
         a emobon:SedimentSample;
         sosa:isResultOf <https://data.emobon.embrc.eu/id/materialsample/BPNS-So3-220435>;
         sosa:hasResult a emobon:EnvironmentalMeasurement
@@ -3170,8 +3110,7 @@
             dbg:datatype "'xsd:string'^^xsd:string";
             dwc:measurementValue 'EMOBON-220420-BPNS-SoSOP3-Meio-B'^^xsd:string;
         ];
-        dwc:MaterialSampleID "EMOBON-220420-BPNS-SoSOP3-Meio-B".    # the material sample
-    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-220601-BPNS-So3-Micro-R1>
+        dwc:MaterialSampleID "EMOBON-220420-BPNS-SoSOP3-Meio-B".    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-220601-BPNS-So3-Micro-R1>
         a emobon:SedimentSample;
         sosa:isResultOf <https://data.emobon.embrc.eu/id/materialsample/BPNS-So3-220601>;
         sosa:hasResult a emobon:EnvironmentalMeasurement
@@ -3218,8 +3157,7 @@
             dbg:datatype "'xsd:string'^^xsd:string";
             dwc:measurementValue 'EMOBON-220601-BPNS-So3-Micro-R1'^^xsd:string;
         ];
-        dwc:MaterialSampleID "EMOBON-220601-BPNS-So3-Micro-R1".    # the material sample
-    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-220601-BPNS-So3-Micro-R2>
+        dwc:MaterialSampleID "EMOBON-220601-BPNS-So3-Micro-R1".    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-220601-BPNS-So3-Micro-R2>
         a emobon:SedimentSample;
         sosa:isResultOf <https://data.emobon.embrc.eu/id/materialsample/BPNS-So3-220601>;
         sosa:hasResult a emobon:EnvironmentalMeasurement
@@ -3266,8 +3204,7 @@
             dbg:datatype "'xsd:string'^^xsd:string";
             dwc:measurementValue 'EMOBON-220601-BPNS-So3-Micro-R2'^^xsd:string;
         ];
-        dwc:MaterialSampleID "EMOBON-220601-BPNS-So3-Micro-R2".    # the material sample
-    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-220601-BPNS-So3-Micro-R3>
+        dwc:MaterialSampleID "EMOBON-220601-BPNS-So3-Micro-R2".    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-220601-BPNS-So3-Micro-R3>
         a emobon:SedimentSample;
         sosa:isResultOf <https://data.emobon.embrc.eu/id/materialsample/BPNS-So3-220601>;
         sosa:hasResult a emobon:EnvironmentalMeasurement
@@ -3314,8 +3251,7 @@
             dbg:datatype "'xsd:string'^^xsd:string";
             dwc:measurementValue 'EMOBON-220601-BPNS-So3-Micro-R3'^^xsd:string;
         ];
-        dwc:MaterialSampleID "EMOBON-220601-BPNS-So3-Micro-R3".    # the material sample
-    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-220601-BPNS-So3-Micro-R4>
+        dwc:MaterialSampleID "EMOBON-220601-BPNS-So3-Micro-R3".    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-220601-BPNS-So3-Micro-R4>
         a emobon:SedimentSample;
         sosa:isResultOf <https://data.emobon.embrc.eu/id/materialsample/BPNS-So3-220601>;
         sosa:hasResult a emobon:EnvironmentalMeasurement
@@ -3362,8 +3298,7 @@
             dbg:datatype "'xsd:string'^^xsd:string";
             dwc:measurementValue 'EMOBON-220601-BPNS-So3-Micro-R4'^^xsd:string;
         ];
-        dwc:MaterialSampleID "EMOBON-220601-BPNS-So3-Micro-R4".    # the material sample
-    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-220601-BPNS-So3-Micro-B1>
+        dwc:MaterialSampleID "EMOBON-220601-BPNS-So3-Micro-R4".    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-220601-BPNS-So3-Micro-B1>
         a emobon:SedimentSample;
         sosa:isResultOf <https://data.emobon.embrc.eu/id/materialsample/BPNS-So3-220601>;
         sosa:hasResult a emobon:EnvironmentalMeasurement
@@ -3410,8 +3345,7 @@
             dbg:datatype "'xsd:string'^^xsd:string";
             dwc:measurementValue 'EMOBON-220601-BPNS-So3-Micro-B1'^^xsd:string;
         ];
-        dwc:MaterialSampleID "EMOBON-220601-BPNS-So3-Micro-B1".    # the material sample
-    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-220601-BPNS-So3-Micro-B2>
+        dwc:MaterialSampleID "EMOBON-220601-BPNS-So3-Micro-B1".    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-220601-BPNS-So3-Micro-B2>
         a emobon:SedimentSample;
         sosa:isResultOf <https://data.emobon.embrc.eu/id/materialsample/BPNS-So3-220601>;
         sosa:hasResult a emobon:EnvironmentalMeasurement
@@ -3458,8 +3392,7 @@
             dbg:datatype "'xsd:string'^^xsd:string";
             dwc:measurementValue 'EMOBON-220601-BPNS-So3-Micro-B2'^^xsd:string;
         ];
-        dwc:MaterialSampleID "EMOBON-220601-BPNS-So3-Micro-B2".    # the material sample
-    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-220601-BPNS-SoSOP3-Meio-R1>
+        dwc:MaterialSampleID "EMOBON-220601-BPNS-So3-Micro-B2".    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-220601-BPNS-SoSOP3-Meio-R1>
         a emobon:SedimentSample;
         sosa:isResultOf <https://data.emobon.embrc.eu/id/materialsample/BPNS-So3-220601>;
         sosa:hasResult a emobon:EnvironmentalMeasurement
@@ -3521,8 +3454,7 @@
             dbg:datatype "'xsd:string'^^xsd:string";
             dwc:measurementValue 'EMOBON-220601-BPNS-SoSOP3-Meio-R1'^^xsd:string;
         ];
-        dwc:MaterialSampleID "EMOBON-220601-BPNS-SoSOP3-Meio-R1".    # the material sample
-    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-220601-BPNS-SoSOP3-Meio-R2>
+        dwc:MaterialSampleID "EMOBON-220601-BPNS-SoSOP3-Meio-R1".    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-220601-BPNS-SoSOP3-Meio-R2>
         a emobon:SedimentSample;
         sosa:isResultOf <https://data.emobon.embrc.eu/id/materialsample/BPNS-So3-220601>;
         sosa:hasResult a emobon:EnvironmentalMeasurement
@@ -3584,8 +3516,7 @@
             dbg:datatype "'xsd:string'^^xsd:string";
             dwc:measurementValue 'EMOBON-220601-BPNS-SoSOP3-Meio-R2'^^xsd:string;
         ];
-        dwc:MaterialSampleID "EMOBON-220601-BPNS-SoSOP3-Meio-R2".    # the material sample
-    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-220601-BPNS-SoSOP3-Meio-R3>
+        dwc:MaterialSampleID "EMOBON-220601-BPNS-SoSOP3-Meio-R2".    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-220601-BPNS-SoSOP3-Meio-R3>
         a emobon:SedimentSample;
         sosa:isResultOf <https://data.emobon.embrc.eu/id/materialsample/BPNS-So3-220601>;
         sosa:hasResult a emobon:EnvironmentalMeasurement
@@ -3647,8 +3578,7 @@
             dbg:datatype "'xsd:string'^^xsd:string";
             dwc:measurementValue 'EMOBON-220601-BPNS-SoSOP3-Meio-R3'^^xsd:string;
         ];
-        dwc:MaterialSampleID "EMOBON-220601-BPNS-SoSOP3-Meio-R3".    # the material sample
-    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-220601-BPNS-SoSOP3-Meio-R4>
+        dwc:MaterialSampleID "EMOBON-220601-BPNS-SoSOP3-Meio-R3".    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-220601-BPNS-SoSOP3-Meio-R4>
         a emobon:SedimentSample;
         sosa:isResultOf <https://data.emobon.embrc.eu/id/materialsample/BPNS-So3-220601>;
         sosa:hasResult a emobon:EnvironmentalMeasurement
@@ -3710,8 +3640,7 @@
             dbg:datatype "'xsd:string'^^xsd:string";
             dwc:measurementValue 'EMOBON-220601-BPNS-SoSOP3-Meio-R4'^^xsd:string;
         ];
-        dwc:MaterialSampleID "EMOBON-220601-BPNS-SoSOP3-Meio-R4".    # the material sample
-    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-220601-BPNS-SoSOP3-Meio-B>
+        dwc:MaterialSampleID "EMOBON-220601-BPNS-SoSOP3-Meio-R4".    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-220601-BPNS-SoSOP3-Meio-B>
         a emobon:SedimentSample;
         sosa:isResultOf <https://data.emobon.embrc.eu/id/materialsample/BPNS-So3-220601>;
         sosa:hasResult a emobon:EnvironmentalMeasurement
@@ -3766,8 +3695,7 @@
             dbg:datatype "'xsd:string'^^xsd:string";
             dwc:measurementValue 'EMOBON-220601-BPNS-SoSOP3-Meio-B'^^xsd:string;
         ];
-        dwc:MaterialSampleID "EMOBON-220601-BPNS-SoSOP3-Meio-B".    # the material sample
-    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-220819-BPNS-So3-Micro-R1>
+        dwc:MaterialSampleID "EMOBON-220601-BPNS-SoSOP3-Meio-B".    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-220819-BPNS-So3-Micro-R1>
         a emobon:SedimentSample;
         sosa:isResultOf <https://data.emobon.embrc.eu/id/materialsample/BPNS-So3-220601>;
         sosa:hasResult a emobon:EnvironmentalMeasurement
@@ -3814,8 +3742,7 @@
             dbg:datatype "'xsd:string'^^xsd:string";
             dwc:measurementValue 'EMOBON-220819-BPNS-So3-Micro-R1'^^xsd:string;
         ];
-        dwc:MaterialSampleID "EMOBON-220819-BPNS-So3-Micro-R1".    # the material sample
-    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-220819-BPNS-So3-Micro-R2>
+        dwc:MaterialSampleID "EMOBON-220819-BPNS-So3-Micro-R1".    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-220819-BPNS-So3-Micro-R2>
         a emobon:SedimentSample;
         sosa:isResultOf <https://data.emobon.embrc.eu/id/materialsample/BPNS-So3-220601>;
         sosa:hasResult a emobon:EnvironmentalMeasurement
@@ -3862,8 +3789,7 @@
             dbg:datatype "'xsd:string'^^xsd:string";
             dwc:measurementValue 'EMOBON-220819-BPNS-So3-Micro-R2'^^xsd:string;
         ];
-        dwc:MaterialSampleID "EMOBON-220819-BPNS-So3-Micro-R2".    # the material sample
-    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-220819-BPNS-So3-Micro-R3>
+        dwc:MaterialSampleID "EMOBON-220819-BPNS-So3-Micro-R2".    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-220819-BPNS-So3-Micro-R3>
         a emobon:SedimentSample;
         sosa:isResultOf <https://data.emobon.embrc.eu/id/materialsample/BPNS-So3-220601>;
         sosa:hasResult a emobon:EnvironmentalMeasurement
@@ -3910,8 +3836,7 @@
             dbg:datatype "'xsd:string'^^xsd:string";
             dwc:measurementValue 'EMOBON-220819-BPNS-So3-Micro-R3'^^xsd:string;
         ];
-        dwc:MaterialSampleID "EMOBON-220819-BPNS-So3-Micro-R3".    # the material sample
-    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-220819-BPNS-So3-Micro-R4>
+        dwc:MaterialSampleID "EMOBON-220819-BPNS-So3-Micro-R3".    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-220819-BPNS-So3-Micro-R4>
         a emobon:SedimentSample;
         sosa:isResultOf <https://data.emobon.embrc.eu/id/materialsample/BPNS-So3-220601>;
         sosa:hasResult a emobon:EnvironmentalMeasurement
@@ -3958,8 +3883,7 @@
             dbg:datatype "'xsd:string'^^xsd:string";
             dwc:measurementValue 'EMOBON-220819-BPNS-So3-Micro-R4'^^xsd:string;
         ];
-        dwc:MaterialSampleID "EMOBON-220819-BPNS-So3-Micro-R4".    # the material sample
-    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-220819-BPNS-So3-Micro-B1>
+        dwc:MaterialSampleID "EMOBON-220819-BPNS-So3-Micro-R4".    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-220819-BPNS-So3-Micro-B1>
         a emobon:SedimentSample;
         sosa:isResultOf <https://data.emobon.embrc.eu/id/materialsample/BPNS-So3-220601>;
         sosa:hasResult a emobon:EnvironmentalMeasurement
@@ -4006,8 +3930,7 @@
             dbg:datatype "'xsd:string'^^xsd:string";
             dwc:measurementValue 'EMOBON-220819-BPNS-So3-Micro-B1'^^xsd:string;
         ];
-        dwc:MaterialSampleID "EMOBON-220819-BPNS-So3-Micro-B1".    # the material sample
-    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-220819-BPNS-So3-Micro-B2>
+        dwc:MaterialSampleID "EMOBON-220819-BPNS-So3-Micro-B1".    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-220819-BPNS-So3-Micro-B2>
         a emobon:SedimentSample;
         sosa:isResultOf <https://data.emobon.embrc.eu/id/materialsample/BPNS-So3-220601>;
         sosa:hasResult a emobon:EnvironmentalMeasurement
@@ -4054,8 +3977,7 @@
             dbg:datatype "'xsd:string'^^xsd:string";
             dwc:measurementValue 'EMOBON-220819-BPNS-So3-Micro-B2'^^xsd:string;
         ];
-        dwc:MaterialSampleID "EMOBON-220819-BPNS-So3-Micro-B2".    # the material sample
-    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-221027-BPNS-So3-Micro-R1>
+        dwc:MaterialSampleID "EMOBON-220819-BPNS-So3-Micro-B2".    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-221027-BPNS-So3-Micro-R1>
         a emobon:SedimentSample;
         sosa:isResultOf <https://data.emobon.embrc.eu/id/materialsample/BPNS%20So3%20221027>;
         sosa:hasResult a emobon:EnvironmentalMeasurement
@@ -4082,8 +4004,7 @@
             dbg:datatype "'xsd:string'^^xsd:string";
             dwc:measurementValue 'EMOBON-221027-BPNS-So3-Micro-R1'^^xsd:string;
         ];
-        dwc:MaterialSampleID "EMOBON-221027-BPNS-So3-Micro-R1".    # the material sample
-    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-221027-BPNS-So3-Micro-R2>
+        dwc:MaterialSampleID "EMOBON-221027-BPNS-So3-Micro-R1".    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-221027-BPNS-So3-Micro-R2>
         a emobon:SedimentSample;
         sosa:isResultOf <https://data.emobon.embrc.eu/id/materialsample/BPNS%20So3%20221027>;
         sosa:hasResult a emobon:EnvironmentalMeasurement
@@ -4110,8 +4031,7 @@
             dbg:datatype "'xsd:string'^^xsd:string";
             dwc:measurementValue 'EMOBON-221027-BPNS-So3-Micro-R2'^^xsd:string;
         ];
-        dwc:MaterialSampleID "EMOBON-221027-BPNS-So3-Micro-R2".    # the material sample
-    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-221027-BPNS-So3-Micro-R3>
+        dwc:MaterialSampleID "EMOBON-221027-BPNS-So3-Micro-R2".    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-221027-BPNS-So3-Micro-R3>
         a emobon:SedimentSample;
         sosa:isResultOf <https://data.emobon.embrc.eu/id/materialsample/BPNS%20So3%20221027>;
         sosa:hasResult a emobon:EnvironmentalMeasurement
@@ -4138,8 +4058,7 @@
             dbg:datatype "'xsd:string'^^xsd:string";
             dwc:measurementValue 'EMOBON-221027-BPNS-So3-Micro-R3'^^xsd:string;
         ];
-        dwc:MaterialSampleID "EMOBON-221027-BPNS-So3-Micro-R3".    # the material sample
-    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-221027-BPNS-So3-Micro-R4>
+        dwc:MaterialSampleID "EMOBON-221027-BPNS-So3-Micro-R3".    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-221027-BPNS-So3-Micro-R4>
         a emobon:SedimentSample;
         sosa:isResultOf <https://data.emobon.embrc.eu/id/materialsample/BPNS%20So3%20221027>;
         sosa:hasResult a emobon:EnvironmentalMeasurement
@@ -4166,8 +4085,7 @@
             dbg:datatype "'xsd:string'^^xsd:string";
             dwc:measurementValue 'EMOBON-221027-BPNS-So3-Micro-R4'^^xsd:string;
         ];
-        dwc:MaterialSampleID "EMOBON-221027-BPNS-So3-Micro-R4".    # the material sample
-    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-221027-BPNS-So3-Micro-B1>
+        dwc:MaterialSampleID "EMOBON-221027-BPNS-So3-Micro-R4".    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-221027-BPNS-So3-Micro-B1>
         a emobon:SedimentSample;
         sosa:isResultOf <https://data.emobon.embrc.eu/id/materialsample/BPNS%20So3%20221027>;
         sosa:hasResult a emobon:EnvironmentalMeasurement
@@ -4194,8 +4112,7 @@
             dbg:datatype "'xsd:string'^^xsd:string";
             dwc:measurementValue 'EMOBON-221027-BPNS-So3-Micro-B1'^^xsd:string;
         ];
-        dwc:MaterialSampleID "EMOBON-221027-BPNS-So3-Micro-B1".    # the material sample
-    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-221027-BPNS-So3-Micro-B2>
+        dwc:MaterialSampleID "EMOBON-221027-BPNS-So3-Micro-B1".    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-221027-BPNS-So3-Micro-B2>
         a emobon:SedimentSample;
         sosa:isResultOf <https://data.emobon.embrc.eu/id/materialsample/BPNS%20So3%20221027>;
         sosa:hasResult a emobon:EnvironmentalMeasurement
@@ -4222,8 +4139,7 @@
             dbg:datatype "'xsd:string'^^xsd:string";
             dwc:measurementValue 'EMOBON-221027-BPNS-So3-Micro-B2'^^xsd:string;
         ];
-        dwc:MaterialSampleID "EMOBON-221027-BPNS-So3-Micro-B2".    # the material sample
-    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-221027-BPNS-So3-Macro-R1>
+        dwc:MaterialSampleID "EMOBON-221027-BPNS-So3-Micro-B2".    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-221027-BPNS-So3-Macro-R1>
         a emobon:SedimentSample;
         sosa:isResultOf <https://data.emobon.embrc.eu/id/materialsample/BPNS%20So3%20221027>;
         sosa:hasResult a emobon:EnvironmentalMeasurement
@@ -4250,8 +4166,7 @@
             dbg:datatype "'xsd:string'^^xsd:string";
             dwc:measurementValue 'EMOBON-221027-BPNS-So3-Macro-R1'^^xsd:string;
         ];
-        dwc:MaterialSampleID "EMOBON-221027-BPNS-So3-Macro-R1".    # the material sample
-    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-221027-BPNS-So3-Macro-R2>
+        dwc:MaterialSampleID "EMOBON-221027-BPNS-So3-Macro-R1".    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-221027-BPNS-So3-Macro-R2>
         a emobon:SedimentSample;
         sosa:isResultOf <https://data.emobon.embrc.eu/id/materialsample/BPNS%20So3%20221027>;
         sosa:hasResult a emobon:EnvironmentalMeasurement
@@ -4278,8 +4193,7 @@
             dbg:datatype "'xsd:string'^^xsd:string";
             dwc:measurementValue 'EMOBON-221027-BPNS-So3-Macro-R2'^^xsd:string;
         ];
-        dwc:MaterialSampleID "EMOBON-221027-BPNS-So3-Macro-R2".    # the material sample
-    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-221027-BPNS-So3-Macro-R3>
+        dwc:MaterialSampleID "EMOBON-221027-BPNS-So3-Macro-R2".    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-221027-BPNS-So3-Macro-R3>
         a emobon:SedimentSample;
         sosa:isResultOf <https://data.emobon.embrc.eu/id/materialsample/BPNS%20So3%20221027>;
         sosa:hasResult a emobon:EnvironmentalMeasurement
@@ -4306,8 +4220,7 @@
             dbg:datatype "'xsd:string'^^xsd:string";
             dwc:measurementValue 'EMOBON-221027-BPNS-So3-Macro-R3'^^xsd:string;
         ];
-        dwc:MaterialSampleID "EMOBON-221027-BPNS-So3-Macro-R3".    # the material sample
-    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-221027-BPNS-So3-Macro-R4>
+        dwc:MaterialSampleID "EMOBON-221027-BPNS-So3-Macro-R3".    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-221027-BPNS-So3-Macro-R4>
         a emobon:SedimentSample;
         sosa:isResultOf <https://data.emobon.embrc.eu/id/materialsample/BPNS%20So3%20221027>;
         sosa:hasResult a emobon:EnvironmentalMeasurement
@@ -4334,8 +4247,7 @@
             dbg:datatype "'xsd:string'^^xsd:string";
             dwc:measurementValue 'EMOBON-221027-BPNS-So3-Macro-R4'^^xsd:string;
         ];
-        dwc:MaterialSampleID "EMOBON-221027-BPNS-So3-Macro-R4".    # the material sample
-    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-221027-BPNS-So3-Macro-B>
+        dwc:MaterialSampleID "EMOBON-221027-BPNS-So3-Macro-R4".    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-221027-BPNS-So3-Macro-B>
         a emobon:SedimentSample;
         sosa:isResultOf <https://data.emobon.embrc.eu/id/materialsample/BPNS%20So3%20221027>;
         sosa:hasResult a emobon:EnvironmentalMeasurement
@@ -4362,8 +4274,7 @@
             dbg:datatype "'xsd:string'^^xsd:string";
             dwc:measurementValue 'EMOBON-221027-BPNS-So3-Macro-B'^^xsd:string;
         ];
-        dwc:MaterialSampleID "EMOBON-221027-BPNS-So3-Macro-B".    # the material sample
-    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-221027-BPNS-SoSOP3-Meio-R1>
+        dwc:MaterialSampleID "EMOBON-221027-BPNS-So3-Macro-B".    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-221027-BPNS-SoSOP3-Meio-R1>
         a emobon:SedimentSample;
         sosa:isResultOf <https://data.emobon.embrc.eu/id/materialsample/BPNS%20So3%20221027>;
         sosa:hasResult a emobon:EnvironmentalMeasurement
@@ -4404,8 +4315,7 @@
             dbg:datatype "'xsd:string'^^xsd:string";
             dwc:measurementValue 'EMOBON-221027-BPNS-SoSOP3-Meio-R1'^^xsd:string;
         ];
-        dwc:MaterialSampleID "EMOBON-221027-BPNS-SoSOP3-Meio-R1".    # the material sample
-    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-221027-BPNS-SoSOP3-Meio-R2>
+        dwc:MaterialSampleID "EMOBON-221027-BPNS-SoSOP3-Meio-R1".    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-221027-BPNS-SoSOP3-Meio-R2>
         a emobon:SedimentSample;
         sosa:isResultOf <https://data.emobon.embrc.eu/id/materialsample/BPNS%20So3%20221027>;
         sosa:hasResult a emobon:EnvironmentalMeasurement
@@ -4446,8 +4356,7 @@
             dbg:datatype "'xsd:string'^^xsd:string";
             dwc:measurementValue 'EMOBON-221027-BPNS-SoSOP3-Meio-R2'^^xsd:string;
         ];
-        dwc:MaterialSampleID "EMOBON-221027-BPNS-SoSOP3-Meio-R2".    # the material sample
-    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-221027-BPNS-SoSOP3-Meio-R3>
+        dwc:MaterialSampleID "EMOBON-221027-BPNS-SoSOP3-Meio-R2".    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-221027-BPNS-SoSOP3-Meio-R3>
         a emobon:SedimentSample;
         sosa:isResultOf <https://data.emobon.embrc.eu/id/materialsample/BPNS%20So3%20221027>;
         sosa:hasResult a emobon:EnvironmentalMeasurement
@@ -4488,8 +4397,7 @@
             dbg:datatype "'xsd:string'^^xsd:string";
             dwc:measurementValue 'EMOBON-221027-BPNS-SoSOP3-Meio-R3'^^xsd:string;
         ];
-        dwc:MaterialSampleID "EMOBON-221027-BPNS-SoSOP3-Meio-R3".    # the material sample
-    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-221027-BPNS-SoSOP3-Meio-R4>
+        dwc:MaterialSampleID "EMOBON-221027-BPNS-SoSOP3-Meio-R3".    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-221027-BPNS-SoSOP3-Meio-R4>
         a emobon:SedimentSample;
         sosa:isResultOf <https://data.emobon.embrc.eu/id/materialsample/BPNS%20So3%20221027>;
         sosa:hasResult a emobon:EnvironmentalMeasurement
@@ -4530,8 +4438,7 @@
             dbg:datatype "'xsd:string'^^xsd:string";
             dwc:measurementValue 'EMOBON-221027-BPNS-SoSOP3-Meio-R4'^^xsd:string;
         ];
-        dwc:MaterialSampleID "EMOBON-221027-BPNS-SoSOP3-Meio-R4".    # the material sample
-    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-221027-BPNS-SoSOP3-Meio-B>
+        dwc:MaterialSampleID "EMOBON-221027-BPNS-SoSOP3-Meio-R4".    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-221027-BPNS-SoSOP3-Meio-B>
         a emobon:SedimentSample;
         sosa:isResultOf <https://data.emobon.embrc.eu/id/materialsample/BPNS%20So3%20221027>;
         sosa:hasResult a emobon:EnvironmentalMeasurement
@@ -4572,8 +4479,7 @@
             dbg:datatype "'xsd:string'^^xsd:string";
             dwc:measurementValue 'EMOBON-221027-BPNS-SoSOP3-Meio-B'^^xsd:string;
         ];
-        dwc:MaterialSampleID "EMOBON-221027-BPNS-SoSOP3-Meio-B".    # the material sample
-    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-221212-BPNS-So3-Micro-R1>
+        dwc:MaterialSampleID "EMOBON-221027-BPNS-SoSOP3-Meio-B".    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-221212-BPNS-So3-Micro-R1>
         a emobon:SedimentSample;
         sosa:isResultOf <https://data.emobon.embrc.eu/id/materialsample/BPNS%20So3%20221212>;
         sosa:hasResult a emobon:EnvironmentalMeasurement
@@ -4600,8 +4506,7 @@
             dbg:datatype "'xsd:string'^^xsd:string";
             dwc:measurementValue 'EMOBON-221212-BPNS-So3-Micro-R1'^^xsd:string;
         ];
-        dwc:MaterialSampleID "EMOBON-221212-BPNS-So3-Micro-R1".    # the material sample
-    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-221212-BPNS-So3-Micro-R2>
+        dwc:MaterialSampleID "EMOBON-221212-BPNS-So3-Micro-R1".    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-221212-BPNS-So3-Micro-R2>
         a emobon:SedimentSample;
         sosa:isResultOf <https://data.emobon.embrc.eu/id/materialsample/BPNS%20So3%20221212>;
         sosa:hasResult a emobon:EnvironmentalMeasurement
@@ -4628,8 +4533,7 @@
             dbg:datatype "'xsd:string'^^xsd:string";
             dwc:measurementValue 'EMOBON-221212-BPNS-So3-Micro-R2'^^xsd:string;
         ];
-        dwc:MaterialSampleID "EMOBON-221212-BPNS-So3-Micro-R2".    # the material sample
-    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-221212-BPNS-So3-Micro-R3>
+        dwc:MaterialSampleID "EMOBON-221212-BPNS-So3-Micro-R2".    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-221212-BPNS-So3-Micro-R3>
         a emobon:SedimentSample;
         sosa:isResultOf <https://data.emobon.embrc.eu/id/materialsample/BPNS%20So3%20221212>;
         sosa:hasResult a emobon:EnvironmentalMeasurement
@@ -4656,8 +4560,7 @@
             dbg:datatype "'xsd:string'^^xsd:string";
             dwc:measurementValue 'EMOBON-221212-BPNS-So3-Micro-R3'^^xsd:string;
         ];
-        dwc:MaterialSampleID "EMOBON-221212-BPNS-So3-Micro-R3".    # the material sample
-    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-221212-BPNS-So3-Micro-R4>
+        dwc:MaterialSampleID "EMOBON-221212-BPNS-So3-Micro-R3".    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-221212-BPNS-So3-Micro-R4>
         a emobon:SedimentSample;
         sosa:isResultOf <https://data.emobon.embrc.eu/id/materialsample/BPNS%20So3%20221212>;
         sosa:hasResult a emobon:EnvironmentalMeasurement
@@ -4684,8 +4587,7 @@
             dbg:datatype "'xsd:string'^^xsd:string";
             dwc:measurementValue 'EMOBON-221212-BPNS-So3-Micro-R4'^^xsd:string;
         ];
-        dwc:MaterialSampleID "EMOBON-221212-BPNS-So3-Micro-R4".    # the material sample
-    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-221212-BPNS-So3-Micro-B1>
+        dwc:MaterialSampleID "EMOBON-221212-BPNS-So3-Micro-R4".    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-221212-BPNS-So3-Micro-B1>
         a emobon:SedimentSample;
         sosa:isResultOf <https://data.emobon.embrc.eu/id/materialsample/BPNS%20So3%20221212>;
         sosa:hasResult a emobon:EnvironmentalMeasurement
@@ -4712,8 +4614,7 @@
             dbg:datatype "'xsd:string'^^xsd:string";
             dwc:measurementValue 'EMOBON-221212-BPNS-So3-Micro-B1'^^xsd:string;
         ];
-        dwc:MaterialSampleID "EMOBON-221212-BPNS-So3-Micro-B1".    # the material sample
-    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-221212-BPNS-So3-Micro-B2>
+        dwc:MaterialSampleID "EMOBON-221212-BPNS-So3-Micro-B1".    <https://data.emobon.embrc.eu/id/materialsample/EMOBON-221212-BPNS-So3-Micro-B2>
         a emobon:SedimentSample;
         sosa:isResultOf <https://data.emobon.embrc.eu/id/materialsample/BPNS%20So3%20221212>;
         sosa:hasResult a emobon:EnvironmentalMeasurement

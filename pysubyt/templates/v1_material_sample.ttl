@@ -1,4 +1,3 @@
-    # the material sample
     <{{uritexpand("https://data.emobon.embrc.eu/id/materialsample/{source_mat_id}", _)}}>
         a emobon:SedimentSample;
         sosa:isResultOf <{{uritexpand("https://data.emobon.embrc.eu/id/materialsample/{sampling_event}", _)}}>;

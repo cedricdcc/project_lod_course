@@ -1,0 +1,20 @@
+{% for col_description in sets['col_md'] %}		
+{%- if col_description['Logsheet type'] == 'both' or col_description['Logsheet type'] == 'sediment' -%}
+{%- if _[col_description['Parameter']]|length -%}
+{%- if col_description['Linked term (URL)']|length and col_description['Linked term (URL)'] != 'NA' -%}
+<https://data.emobon.embrc.eu/IDs/{{_['source_mat_id']}}_{{col_description['Parameter']}}>
+    a emobon:EnvironmentalMeasurement 
+    [ 
+        dwc:measurementValue {{_[col_description['Parameter']] | ttl(col_description['Data type'])}};
+        sosa:observedProperty  <{{col_description['Linked term (URL)']}}>;
+        {%- if col_description['Unit (URL)']|length and col_description['Unit (URL)'] != 'NA' %}
+        dwc:measurementUnit <{{col_description['Unit (URL)']}}>;
+        {%- endif %}
+        a xsd:float ;   
+    ],
+    sosa:isResultOf <{{uritexpand("https://data.emobon.embrc.eu/IDs{sampling_event}", _)}}>, <{{uritexpand("https://data.emobon.embrc.eu/IDs/{source_mat_id}", _)}}> .
+    {##}
+{% endif -%}
+{% endif -%}
+{%- endif -%}
+{% endfor -%} 
