@@ -1,0 +1,23 @@
+    # the material sample
+    <{{uritexpand("https://data.emobon.embrc.eu/id/materialsample/{source_mat_id}", _)}}>
+        a emobon:SedimentSample;
+        sosa:isResultOf <{{uritexpand("https://data.emobon.embrc.eu/id/materialsample/{sampling_event}", _)}}>;
+        {% for col_description in sets['col_md'] %}		
+        {%- if col_description['Logsheet type'] == 'both' or col_description['Logsheet type'] == 'sediment' -%}
+        {%- if _[col_description['Parameter']]|length -%}
+        sosa:hasResult a emobon:EnvironmentalMeasurement
+        [
+            rdf:label "{{col_description['Parameter'] | ttl('xsd:string')}}";
+            dbg:datatype "{{col_description['Data type'] | ttl('xsd:string')}}";
+            dwc:measurementValue {{_[col_description['Parameter']] | ttl(col_description['Data type'])}};
+            {%- if col_description['Linked term (URL)']|length and col_description['Linked term (URL)'] != 'NA' %}
+            sosa:observedProperty  <{{col_description['Linked term (URL)']}}>;
+            {%- endif -%}
+            {%- if col_description['Unit (URL)']|length and col_description['Unit (URL)'] != 'NA' %}
+            dwc:measurementUnit <{{col_description['Unit (URL)']}}>;
+            {%- endif %}
+        ];
+        {% endif -%}
+        {%- endif -%}
+        {%- endfor -%} 
+        dwc:MaterialSampleID "{{_['source_mat_id']}}".

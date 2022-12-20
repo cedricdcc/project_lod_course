@@ -1,0 +1,13 @@
+
+<https://edmo.seadatanet.org/report/422%2C%20449%2C%20432%2C%202248> 
+         a schema:Organization ;
+         schema:legalName "Flanders Marine Institute (VLIZ), Ghent University, Royal Belgian Institute of Natural Sciences, Katholieke Universiteit Leuven" ;
+         schema:Country "Belgium" ;
+         schema:ContactPoint [ 
+            schema:name "Klaas Deneudt" ;
+            schema:identifier  "" ;
+            schema:email "klaas.deneudt@vliz.be";
+         ] ;
+         schema:identifier "BPNS", "BPNS So" ;
+         schema:memberOf <https://www.embrc.eu/emo-bon> .
+         

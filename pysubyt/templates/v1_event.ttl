@@ -1,0 +1,21 @@
+<{{uritexpand("https://data.emobon.embrc.eu/IDs/{sampling_event}", _)}}>
+    a emobon:Event ;
+    dwc:eventDate "{{_['collection_date']}}";
+    {%- for emo_obs in sets['emo_obs']%}
+    dwc:waterBody "{{emo_obs['loc_broad_ocean']}},{{emo_obs['loc_loc']}},{{emo_obs['loc_regional']}}" ;
+    dwc:decimalLatitude "{{emo_obs['latitude']}}" ; 
+    dwc:decimalLongitude "{{emo_obs['longitude']}}" ;
+    dwc:eventID "{{_['sampling_event']}}" ; 
+    schema:Contributor 
+        [ 
+            {%- for organization_edmoid in emo_obs['organization_edmoid'].split(',') %}
+            {%- if organization_edmoid.find(' ') != -1 -%}
+            {%- set organization_edmoid = organization_edmoid.replace(' ', '') -%}
+            {%- endif -%}
+            schema:isMemberOf <https://edmo.seadatanet.org/report/{{organization_edmoid}}> ; 
+            {%- endfor %}
+            {%- endfor %}
+            schema:name "{{_['sampl_person']}}";
+            schema:identifier  "{{_['sampl_person_orcid']}}" ;
+        ] ;
+    schema:range emobon:sedimentSample .

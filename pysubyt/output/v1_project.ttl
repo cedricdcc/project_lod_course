@@ -1,0 +1,9 @@
+<https://www.embrc.eu/emo-bon> a schema:Project ;
+    schema:legalName “European Marine Omics Biodiversity Observation Network” ;
+    schema:name "EMO BON" . 
+    schema:ContactPoint
+    [
+        schema:givenName "Ioulia" ;
+        schema:familyName "Santi" ;
+        schema:email "secretariat@embrc.eu" ;
+    ] .

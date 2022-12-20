@@ -1,0 +1,13 @@
+{#observatory#}
+<{{uritexpand("https://edmo.seadatanet.org/report/{organization_edmoid}", _)}}> 
+         a schema:Organization ;
+         schema:legalName "{{_['organization']}}" ;
+         schema:Country "{{_['organization_country']}}" ;
+         schema:ContactPoint [ 
+            schema:name "{{_['contact_name']}}" ;
+            schema:identifier  "{{_['contact_orcid']}}" ;
+            schema:email "{{_['contact_email']}}";
+         ] ;
+         schema:identifier "{{_['obs_id']}}", "{{_['so_id']}}" ;
+         schema:memberOf <https://www.embrc.eu/emo-bon> .
+         {#schema:range emobon:sedimentSample .#}
