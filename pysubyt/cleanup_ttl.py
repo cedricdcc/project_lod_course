@@ -22,7 +22,11 @@ split_ttl = ttl_string.split(ttl_split)
 unique_split_ttl = list(set(split_ttl))
 
 #combine the list back into a string by adding "<https://data.emobon.embrc.eu/IDs/>" back in
+#make ttl_split have a blank line in it
+ttl_split = ttl_split + "\n"
 unique_combined_ttl = ttl_split.join(unique_split_ttl)
+#append the ttl_split one more time 
+unique_combined_ttl = unique_combined_ttl + ttl_split
 
 #writes the unique_combined_ttl string to a new file
 newname = os.path.join(directory, "cleaned_" + filename)

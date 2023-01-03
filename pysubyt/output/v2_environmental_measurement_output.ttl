@@ -6,7 +6,7 @@
         dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULAA/>;
         a xsd:float ;   
     ],
-    sosa:isResultOf <https://data.emobon.embrc.eu/IDsEMOBON_BE_20210701_330>, <https://data.emobon.embrc.eu/IDs/EMOBON-210701-330-SoSOP3-Meio-R1> .
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDs/EMOBON_BE_20210701_330>, <https://data.emobon.embrc.eu/IDs/EMOBON-210701-330-SoSOP3-Meio-R1> .
     
 <https://data.emobon.embrc.eu/IDs/EMOBON-210701-330-SoSOP3-Meio-R1_size_frac_low>
     a emobon:EnvironmentalMeasurement 
@@ -16,7 +16,7 @@
         dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/UMIC/>;
         a xsd:float ;   
     ],
-    sosa:isResultOf <https://data.emobon.embrc.eu/IDsEMOBON_BE_20210701_330>, <https://data.emobon.embrc.eu/IDs/EMOBON-210701-330-SoSOP3-Meio-R1> .
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDs/EMOBON_BE_20210701_330>, <https://data.emobon.embrc.eu/IDs/EMOBON-210701-330-SoSOP3-Meio-R1> .
     
 <https://data.emobon.embrc.eu/IDs/EMOBON-210701-330-SoSOP3-Meio-R2_depth>
     a emobon:EnvironmentalMeasurement 
@@ -26,7 +26,7 @@
         dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULAA/>;
         a xsd:float ;   
     ],
-    sosa:isResultOf <https://data.emobon.embrc.eu/IDsEMOBON_BE_20210701_330>, <https://data.emobon.embrc.eu/IDs/EMOBON-210701-330-SoSOP3-Meio-R2> .
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDs/EMOBON_BE_20210701_330>, <https://data.emobon.embrc.eu/IDs/EMOBON-210701-330-SoSOP3-Meio-R2> .
     
 <https://data.emobon.embrc.eu/IDs/EMOBON-210701-330-SoSOP3-Meio-R2_size_frac_low>
     a emobon:EnvironmentalMeasurement 
@@ -36,7 +36,7 @@
         dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/UMIC/>;
         a xsd:float ;   
     ],
-    sosa:isResultOf <https://data.emobon.embrc.eu/IDsEMOBON_BE_20210701_330>, <https://data.emobon.embrc.eu/IDs/EMOBON-210701-330-SoSOP3-Meio-R2> .
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDs/EMOBON_BE_20210701_330>, <https://data.emobon.embrc.eu/IDs/EMOBON-210701-330-SoSOP3-Meio-R2> .
     
 <https://data.emobon.embrc.eu/IDs/EMOBON-210701-330-SoSOP3-Meio-R3_depth>
     a emobon:EnvironmentalMeasurement 
@@ -46,7 +46,7 @@
         dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULAA/>;
         a xsd:float ;   
     ],
-    sosa:isResultOf <https://data.emobon.embrc.eu/IDsEMOBON_BE_20210701_330>, <https://data.emobon.embrc.eu/IDs/EMOBON-210701-330-SoSOP3-Meio-R3> .
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDs/EMOBON_BE_20210701_330>, <https://data.emobon.embrc.eu/IDs/EMOBON-210701-330-SoSOP3-Meio-R3> .
     
 <https://data.emobon.embrc.eu/IDs/EMOBON-210701-330-SoSOP3-Meio-R3_size_frac_low>
     a emobon:EnvironmentalMeasurement 
@@ -56,7 +56,7 @@
         dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/UMIC/>;
         a xsd:float ;   
     ],
-    sosa:isResultOf <https://data.emobon.embrc.eu/IDsEMOBON_BE_20210701_330>, <https://data.emobon.embrc.eu/IDs/EMOBON-210701-330-SoSOP3-Meio-R3> .
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDs/EMOBON_BE_20210701_330>, <https://data.emobon.embrc.eu/IDs/EMOBON-210701-330-SoSOP3-Meio-R3> .
     
 <https://data.emobon.embrc.eu/IDs/EMOBON-210701-330-SoSOP3-Meio-R4_depth>
     a emobon:EnvironmentalMeasurement 
@@ -66,7 +66,7 @@
         dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULAA/>;
         a xsd:float ;   
     ],
-    sosa:isResultOf <https://data.emobon.embrc.eu/IDsEMOBON_BE_20210701_330>, <https://data.emobon.embrc.eu/IDs/EMOBON-210701-330-SoSOP3-Meio-R4> .
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDs/EMOBON_BE_20210701_330>, <https://data.emobon.embrc.eu/IDs/EMOBON-210701-330-SoSOP3-Meio-R4> .
     
 <https://data.emobon.embrc.eu/IDs/EMOBON-210701-330-SoSOP3-Meio-R4_size_frac_low>
     a emobon:EnvironmentalMeasurement 
@@ -76,7 +76,7 @@
         dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/UMIC/>;
         a xsd:float ;   
     ],
-    sosa:isResultOf <https://data.emobon.embrc.eu/IDsEMOBON_BE_20210701_330>, <https://data.emobon.embrc.eu/IDs/EMOBON-210701-330-SoSOP3-Meio-R4> .
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDs/EMOBON_BE_20210701_330>, <https://data.emobon.embrc.eu/IDs/EMOBON-210701-330-SoSOP3-Meio-R4> .
     
 <https://data.emobon.embrc.eu/IDs/EMOBON-210726-330-SoSOP3-Micro-R1_depth>
     a emobon:EnvironmentalMeasurement 
@@ -86,7 +86,7 @@
         dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULAA/>;
         a xsd:float ;   
     ],
-    sosa:isResultOf <https://data.emobon.embrc.eu/IDsEMOBON_BE_20210726_330>, <https://data.emobon.embrc.eu/IDs/EMOBON-210726-330-SoSOP3-Micro-R1> .
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDs/EMOBON_BE_20210726_330>, <https://data.emobon.embrc.eu/IDs/EMOBON-210726-330-SoSOP3-Micro-R1> .
     
 <https://data.emobon.embrc.eu/IDs/EMOBON-210726-330-SoSOP3-Micro-R2_depth>
     a emobon:EnvironmentalMeasurement 
@@ -96,7 +96,7 @@
         dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULAA/>;
         a xsd:float ;   
     ],
-    sosa:isResultOf <https://data.emobon.embrc.eu/IDsEMOBON_BE_20210726_330>, <https://data.emobon.embrc.eu/IDs/EMOBON-210726-330-SoSOP3-Micro-R2> .
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDs/EMOBON_BE_20210726_330>, <https://data.emobon.embrc.eu/IDs/EMOBON-210726-330-SoSOP3-Micro-R2> .
     
 <https://data.emobon.embrc.eu/IDs/EMOBON-210726-330-SoSOP3-Micro-R3_depth>
     a emobon:EnvironmentalMeasurement 
@@ -106,7 +106,7 @@
         dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULAA/>;
         a xsd:float ;   
     ],
-    sosa:isResultOf <https://data.emobon.embrc.eu/IDsEMOBON_BE_20210726_330>, <https://data.emobon.embrc.eu/IDs/EMOBON-210726-330-SoSOP3-Micro-R3> .
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDs/EMOBON_BE_20210726_330>, <https://data.emobon.embrc.eu/IDs/EMOBON-210726-330-SoSOP3-Micro-R3> .
     
 <https://data.emobon.embrc.eu/IDs/EMOBON-210726-330-SoSOP3-Micro-R4_depth>
     a emobon:EnvironmentalMeasurement 
@@ -116,7 +116,7 @@
         dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULAA/>;
         a xsd:float ;   
     ],
-    sosa:isResultOf <https://data.emobon.embrc.eu/IDsEMOBON_BE_20210726_330>, <https://data.emobon.embrc.eu/IDs/EMOBON-210726-330-SoSOP3-Micro-R4> .
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDs/EMOBON_BE_20210726_330>, <https://data.emobon.embrc.eu/IDs/EMOBON-210726-330-SoSOP3-Micro-R4> .
     
 <https://data.emobon.embrc.eu/IDs/EMOBON-210726-330-SoSOP3-Micro-B1_depth>
     a emobon:EnvironmentalMeasurement 
@@ -126,7 +126,7 @@
         dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULAA/>;
         a xsd:float ;   
     ],
-    sosa:isResultOf <https://data.emobon.embrc.eu/IDsEMOBON_BE_20210726_330>, <https://data.emobon.embrc.eu/IDs/EMOBON-210726-330-SoSOP3-Micro-B1> .
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDs/EMOBON_BE_20210726_330>, <https://data.emobon.embrc.eu/IDs/EMOBON-210726-330-SoSOP3-Micro-B1> .
     
 <https://data.emobon.embrc.eu/IDs/EMOBON-210726-330-SoSOP3-Micro-B2_depth>
     a emobon:EnvironmentalMeasurement 
@@ -136,7 +136,7 @@
         dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULAA/>;
         a xsd:float ;   
     ],
-    sosa:isResultOf <https://data.emobon.embrc.eu/IDsEMOBON_BE_20210726_330>, <https://data.emobon.embrc.eu/IDs/EMOBON-210726-330-SoSOP3-Micro-B2> .
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDs/EMOBON_BE_20210726_330>, <https://data.emobon.embrc.eu/IDs/EMOBON-210726-330-SoSOP3-Micro-B2> .
     
 <https://data.emobon.embrc.eu/IDs/EMOBON-210825-330-SoSOP3-Micro-R1_depth>
     a emobon:EnvironmentalMeasurement 
@@ -146,7 +146,7 @@
         dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULAA/>;
         a xsd:float ;   
     ],
-    sosa:isResultOf <https://data.emobon.embrc.eu/IDsEMOBON_BE_20210825_330>, <https://data.emobon.embrc.eu/IDs/EMOBON-210825-330-SoSOP3-Micro-R1> .
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDs/EMOBON_BE_20210825_330>, <https://data.emobon.embrc.eu/IDs/EMOBON-210825-330-SoSOP3-Micro-R1> .
     
 <https://data.emobon.embrc.eu/IDs/EMOBON-210825-330-SoSOP3-Micro-R2_depth>
     a emobon:EnvironmentalMeasurement 
@@ -156,7 +156,7 @@
         dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULAA/>;
         a xsd:float ;   
     ],
-    sosa:isResultOf <https://data.emobon.embrc.eu/IDsEMOBON_BE_20210825_330>, <https://data.emobon.embrc.eu/IDs/EMOBON-210825-330-SoSOP3-Micro-R2> .
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDs/EMOBON_BE_20210825_330>, <https://data.emobon.embrc.eu/IDs/EMOBON-210825-330-SoSOP3-Micro-R2> .
     
 <https://data.emobon.embrc.eu/IDs/EMOBON-210825-330-SoSOP3-Micro-R3_depth>
     a emobon:EnvironmentalMeasurement 
@@ -166,7 +166,7 @@
         dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULAA/>;
         a xsd:float ;   
     ],
-    sosa:isResultOf <https://data.emobon.embrc.eu/IDsEMOBON_BE_20210825_330>, <https://data.emobon.embrc.eu/IDs/EMOBON-210825-330-SoSOP3-Micro-R3> .
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDs/EMOBON_BE_20210825_330>, <https://data.emobon.embrc.eu/IDs/EMOBON-210825-330-SoSOP3-Micro-R3> .
     
 <https://data.emobon.embrc.eu/IDs/EMOBON-210825-330-SoSOP3-Micro-R4_depth>
     a emobon:EnvironmentalMeasurement 
@@ -176,7 +176,7 @@
         dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULAA/>;
         a xsd:float ;   
     ],
-    sosa:isResultOf <https://data.emobon.embrc.eu/IDsEMOBON_BE_20210825_330>, <https://data.emobon.embrc.eu/IDs/EMOBON-210825-330-SoSOP3-Micro-R4> .
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDs/EMOBON_BE_20210825_330>, <https://data.emobon.embrc.eu/IDs/EMOBON-210825-330-SoSOP3-Micro-R4> .
     
 <https://data.emobon.embrc.eu/IDs/EMOBON-210825-330-SoSOP3-Micro-B1_depth>
     a emobon:EnvironmentalMeasurement 
@@ -186,7 +186,7 @@
         dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULAA/>;
         a xsd:float ;   
     ],
-    sosa:isResultOf <https://data.emobon.embrc.eu/IDsEMOBON_BE_20210825_330>, <https://data.emobon.embrc.eu/IDs/EMOBON-210825-330-SoSOP3-Micro-B1> .
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDs/EMOBON_BE_20210825_330>, <https://data.emobon.embrc.eu/IDs/EMOBON-210825-330-SoSOP3-Micro-B1> .
     
 <https://data.emobon.embrc.eu/IDs/EMOBON-210825-330-SoSOP3-Micro-B2_depth>
     a emobon:EnvironmentalMeasurement 
@@ -196,7 +196,7 @@
         dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULAA/>;
         a xsd:float ;   
     ],
-    sosa:isResultOf <https://data.emobon.embrc.eu/IDsEMOBON_BE_20210825_330>, <https://data.emobon.embrc.eu/IDs/EMOBON-210825-330-SoSOP3-Micro-B2> .
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDs/EMOBON_BE_20210825_330>, <https://data.emobon.embrc.eu/IDs/EMOBON-210825-330-SoSOP3-Micro-B2> .
     
 <https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-So3-Micro-R1_depth>
     a emobon:EnvironmentalMeasurement 
@@ -206,7 +206,7 @@
         dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULAA/>;
         a xsd:float ;   
     ],
-    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-211013>, <https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-So3-Micro-R1> .
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDs/BPNS-So3-211013>, <https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-So3-Micro-R1> .
     
 <https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-So3-Micro-R2_depth>
     a emobon:EnvironmentalMeasurement 
@@ -216,7 +216,7 @@
         dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULAA/>;
         a xsd:float ;   
     ],
-    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-211014>, <https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-So3-Micro-R2> .
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDs/BPNS-So3-211014>, <https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-So3-Micro-R2> .
     
 <https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-So3-Micro-R3_depth>
     a emobon:EnvironmentalMeasurement 
@@ -226,7 +226,7 @@
         dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULAA/>;
         a xsd:float ;   
     ],
-    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-211015>, <https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-So3-Micro-R3> .
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDs/BPNS-So3-211015>, <https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-So3-Micro-R3> .
     
 <https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-So3-Micro-R4_depth>
     a emobon:EnvironmentalMeasurement 
@@ -236,7 +236,7 @@
         dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULAA/>;
         a xsd:float ;   
     ],
-    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-211016>, <https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-So3-Micro-R4> .
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDs/BPNS-So3-211016>, <https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-So3-Micro-R4> .
     
 <https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-So3-Micro-B1_depth>
     a emobon:EnvironmentalMeasurement 
@@ -246,7 +246,7 @@
         dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULAA/>;
         a xsd:float ;   
     ],
-    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-211017>, <https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-So3-Micro-B1> .
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDs/BPNS-So3-211017>, <https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-So3-Micro-B1> .
     
 <https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-So3-Micro-B2_depth>
     a emobon:EnvironmentalMeasurement 
@@ -256,7 +256,7 @@
         dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULAA/>;
         a xsd:float ;   
     ],
-    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-211018>, <https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-So3-Micro-B2> .
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDs/BPNS-So3-211018>, <https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-So3-Micro-B2> .
     
 <https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-So3-Macro-R1_depth>
     a emobon:EnvironmentalMeasurement 
@@ -266,7 +266,7 @@
         dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULAA/>;
         a xsd:float ;   
     ],
-    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-211019>, <https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-So3-Macro-R1> .
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDs/BPNS-So3-211019>, <https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-So3-Macro-R1> .
     
 <https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-So3-Macro-R2_depth>
     a emobon:EnvironmentalMeasurement 
@@ -276,7 +276,7 @@
         dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULAA/>;
         a xsd:float ;   
     ],
-    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-211020>, <https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-So3-Macro-R2> .
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDs/BPNS-So3-211020>, <https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-So3-Macro-R2> .
     
 <https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-So3-Macro-R3_depth>
     a emobon:EnvironmentalMeasurement 
@@ -286,7 +286,7 @@
         dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULAA/>;
         a xsd:float ;   
     ],
-    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-211021>, <https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-So3-Macro-R3> .
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDs/BPNS-So3-211021>, <https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-So3-Macro-R3> .
     
 <https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-So3-Macro-R4_depth>
     a emobon:EnvironmentalMeasurement 
@@ -296,7 +296,7 @@
         dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULAA/>;
         a xsd:float ;   
     ],
-    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-211022>, <https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-So3-Macro-R4> .
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDs/BPNS-So3-211022>, <https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-So3-Macro-R4> .
     
 <https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-So3-Macro-B_depth>
     a emobon:EnvironmentalMeasurement 
@@ -306,7 +306,7 @@
         dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULAA/>;
         a xsd:float ;   
     ],
-    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-211023>, <https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-So3-Macro-B> .
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDs/BPNS-So3-211023>, <https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-So3-Macro-B> .
     
 <https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-SoSOP3-Meio-R1_depth>
     a emobon:EnvironmentalMeasurement 
@@ -316,7 +316,7 @@
         dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULAA/>;
         a xsd:float ;   
     ],
-    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-211024>, <https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-SoSOP3-Meio-R1> .
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDs/BPNS-So3-211024>, <https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-SoSOP3-Meio-R1> .
     
 <https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-SoSOP3-Meio-R1_size_frac_low>
     a emobon:EnvironmentalMeasurement 
@@ -326,7 +326,7 @@
         dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/UMIC/>;
         a xsd:float ;   
     ],
-    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-211024>, <https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-SoSOP3-Meio-R1> .
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDs/BPNS-So3-211024>, <https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-SoSOP3-Meio-R1> .
     
 <https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-SoSOP3-Meio-R2_depth>
     a emobon:EnvironmentalMeasurement 
@@ -336,7 +336,7 @@
         dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULAA/>;
         a xsd:float ;   
     ],
-    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-211025>, <https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-SoSOP3-Meio-R2> .
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDs/BPNS-So3-211025>, <https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-SoSOP3-Meio-R2> .
     
 <https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-SoSOP3-Meio-R2_size_frac_low>
     a emobon:EnvironmentalMeasurement 
@@ -346,7 +346,7 @@
         dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/UMIC/>;
         a xsd:float ;   
     ],
-    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-211025>, <https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-SoSOP3-Meio-R2> .
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDs/BPNS-So3-211025>, <https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-SoSOP3-Meio-R2> .
     
 <https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-SoSOP3-Meio-R3_depth>
     a emobon:EnvironmentalMeasurement 
@@ -356,7 +356,7 @@
         dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULAA/>;
         a xsd:float ;   
     ],
-    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-211026>, <https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-SoSOP3-Meio-R3> .
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDs/BPNS-So3-211026>, <https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-SoSOP3-Meio-R3> .
     
 <https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-SoSOP3-Meio-R3_size_frac_low>
     a emobon:EnvironmentalMeasurement 
@@ -366,7 +366,7 @@
         dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/UMIC/>;
         a xsd:float ;   
     ],
-    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-211026>, <https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-SoSOP3-Meio-R3> .
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDs/BPNS-So3-211026>, <https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-SoSOP3-Meio-R3> .
     
 <https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-SoSOP3-Meio-R4_depth>
     a emobon:EnvironmentalMeasurement 
@@ -376,7 +376,7 @@
         dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULAA/>;
         a xsd:float ;   
     ],
-    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-211027>, <https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-SoSOP3-Meio-R4> .
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDs/BPNS-So3-211027>, <https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-SoSOP3-Meio-R4> .
     
 <https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-SoSOP3-Meio-R4_size_frac_low>
     a emobon:EnvironmentalMeasurement 
@@ -386,7 +386,7 @@
         dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/UMIC/>;
         a xsd:float ;   
     ],
-    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-211027>, <https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-SoSOP3-Meio-R4> .
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDs/BPNS-So3-211027>, <https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-SoSOP3-Meio-R4> .
     
 <https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-SoSOP3-Meio-B_depth>
     a emobon:EnvironmentalMeasurement 
@@ -396,7 +396,7 @@
         dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULAA/>;
         a xsd:float ;   
     ],
-    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-211028>, <https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-SoSOP3-Meio-B> .
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDs/BPNS-So3-211028>, <https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-SoSOP3-Meio-B> .
     
 <https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-SoSOP3-Meio-B_size_frac_low>
     a emobon:EnvironmentalMeasurement 
@@ -406,7 +406,7 @@
         dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/UMIC/>;
         a xsd:float ;   
     ],
-    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-211028>, <https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-SoSOP3-Meio-B> .
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDs/BPNS-So3-211028>, <https://data.emobon.embrc.eu/IDs/EMOBON-211028-BPNS-SoSOP3-Meio-B> .
     
 <https://data.emobon.embrc.eu/IDs/EMOBON-211223-BPNS-So3-Micro-R1_depth>
     a emobon:EnvironmentalMeasurement 
@@ -416,7 +416,7 @@
         dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULAA/>;
         a xsd:float ;   
     ],
-    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-211223>, <https://data.emobon.embrc.eu/IDs/EMOBON-211223-BPNS-So3-Micro-R1> .
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDs/BPNS-So3-211223>, <https://data.emobon.embrc.eu/IDs/EMOBON-211223-BPNS-So3-Micro-R1> .
     
 <https://data.emobon.embrc.eu/IDs/EMOBON-211223-BPNS-So3-Micro-R2
 _depth>
@@ -427,7 +427,7 @@ _depth>
         dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULAA/>;
         a xsd:float ;   
     ],
-    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-211223>, <https://data.emobon.embrc.eu/IDs/EMOBON-211223-BPNS-So3-Micro-R2%0A> .
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDs/BPNS-So3-211223>, <https://data.emobon.embrc.eu/IDs/EMOBON-211223-BPNS-So3-Micro-R2%0A> .
     
 <https://data.emobon.embrc.eu/IDs/EMOBON-211223-BPNS-So3-Micro-R3_depth>
     a emobon:EnvironmentalMeasurement 
@@ -437,7 +437,7 @@ _depth>
         dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULAA/>;
         a xsd:float ;   
     ],
-    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-211223>, <https://data.emobon.embrc.eu/IDs/EMOBON-211223-BPNS-So3-Micro-R3> .
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDs/BPNS-So3-211223>, <https://data.emobon.embrc.eu/IDs/EMOBON-211223-BPNS-So3-Micro-R3> .
     
 <https://data.emobon.embrc.eu/IDs/EMOBON-211223-BPNS-So3-Micro-R4_depth>
     a emobon:EnvironmentalMeasurement 
@@ -447,7 +447,7 @@ _depth>
         dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULAA/>;
         a xsd:float ;   
     ],
-    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-211223>, <https://data.emobon.embrc.eu/IDs/EMOBON-211223-BPNS-So3-Micro-R4> .
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDs/BPNS-So3-211223>, <https://data.emobon.embrc.eu/IDs/EMOBON-211223-BPNS-So3-Micro-R4> .
     
 <https://data.emobon.embrc.eu/IDs/EMOBON-211223-BPNS-So3-Micro-B1_depth>
     a emobon:EnvironmentalMeasurement 
@@ -457,7 +457,7 @@ _depth>
         dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULAA/>;
         a xsd:float ;   
     ],
-    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-211223>, <https://data.emobon.embrc.eu/IDs/EMOBON-211223-BPNS-So3-Micro-B1> .
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDs/BPNS-So3-211223>, <https://data.emobon.embrc.eu/IDs/EMOBON-211223-BPNS-So3-Micro-B1> .
     
 <https://data.emobon.embrc.eu/IDs/EMOBON-211223-BPNS-So3-Micro-B2_depth>
     a emobon:EnvironmentalMeasurement 
@@ -467,7 +467,7 @@ _depth>
         dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULAA/>;
         a xsd:float ;   
     ],
-    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-211223>, <https://data.emobon.embrc.eu/IDs/EMOBON-211223-BPNS-So3-Micro-B2> .
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDs/BPNS-So3-211223>, <https://data.emobon.embrc.eu/IDs/EMOBON-211223-BPNS-So3-Micro-B2> .
     
 <https://data.emobon.embrc.eu/IDs/EMOBON-220420-BPNS-SoSOP3-Meio-R1_size_frac_low>
     a emobon:EnvironmentalMeasurement 
@@ -477,7 +477,7 @@ _depth>
         dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/UMIC/>;
         a xsd:float ;   
     ],
-    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-220431>, <https://data.emobon.embrc.eu/IDs/EMOBON-220420-BPNS-SoSOP3-Meio-R1> .
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDs/BPNS-So3-220431>, <https://data.emobon.embrc.eu/IDs/EMOBON-220420-BPNS-SoSOP3-Meio-R1> .
     
 <https://data.emobon.embrc.eu/IDs/EMOBON-220420-BPNS-SoSOP3-Meio-R2_size_frac_low>
     a emobon:EnvironmentalMeasurement 
@@ -487,7 +487,7 @@ _depth>
         dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/UMIC/>;
         a xsd:float ;   
     ],
-    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-220432>, <https://data.emobon.embrc.eu/IDs/EMOBON-220420-BPNS-SoSOP3-Meio-R2> .
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDs/BPNS-So3-220432>, <https://data.emobon.embrc.eu/IDs/EMOBON-220420-BPNS-SoSOP3-Meio-R2> .
     
 <https://data.emobon.embrc.eu/IDs/EMOBON-220420-BPNS-SoSOP3-Meio-R3_size_frac_low>
     a emobon:EnvironmentalMeasurement 
@@ -497,7 +497,7 @@ _depth>
         dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/UMIC/>;
         a xsd:float ;   
     ],
-    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-220433>, <https://data.emobon.embrc.eu/IDs/EMOBON-220420-BPNS-SoSOP3-Meio-R3> .
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDs/BPNS-So3-220433>, <https://data.emobon.embrc.eu/IDs/EMOBON-220420-BPNS-SoSOP3-Meio-R3> .
     
 <https://data.emobon.embrc.eu/IDs/EMOBON-220420-BPNS-SoSOP3-Meio-R4_size_frac_low>
     a emobon:EnvironmentalMeasurement 
@@ -507,7 +507,7 @@ _depth>
         dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/UMIC/>;
         a xsd:float ;   
     ],
-    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-220434>, <https://data.emobon.embrc.eu/IDs/EMOBON-220420-BPNS-SoSOP3-Meio-R4> .
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDs/BPNS-So3-220434>, <https://data.emobon.embrc.eu/IDs/EMOBON-220420-BPNS-SoSOP3-Meio-R4> .
     
 <https://data.emobon.embrc.eu/IDs/EMOBON-220420-BPNS-SoSOP3-Meio-B_size_frac_low>
     a emobon:EnvironmentalMeasurement 
@@ -517,7 +517,7 @@ _depth>
         dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/UMIC/>;
         a xsd:float ;   
     ],
-    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-220435>, <https://data.emobon.embrc.eu/IDs/EMOBON-220420-BPNS-SoSOP3-Meio-B> .
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDs/BPNS-So3-220435>, <https://data.emobon.embrc.eu/IDs/EMOBON-220420-BPNS-SoSOP3-Meio-B> .
     
 <https://data.emobon.embrc.eu/IDs/EMOBON-220601-BPNS-So3-Micro-R1_depth>
     a emobon:EnvironmentalMeasurement 
@@ -527,7 +527,7 @@ _depth>
         dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULAA/>;
         a xsd:float ;   
     ],
-    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-220601>, <https://data.emobon.embrc.eu/IDs/EMOBON-220601-BPNS-So3-Micro-R1> .
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDs/BPNS-So3-220601>, <https://data.emobon.embrc.eu/IDs/EMOBON-220601-BPNS-So3-Micro-R1> .
     
 <https://data.emobon.embrc.eu/IDs/EMOBON-220601-BPNS-So3-Micro-R2_depth>
     a emobon:EnvironmentalMeasurement 
@@ -537,7 +537,7 @@ _depth>
         dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULAA/>;
         a xsd:float ;   
     ],
-    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-220601>, <https://data.emobon.embrc.eu/IDs/EMOBON-220601-BPNS-So3-Micro-R2> .
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDs/BPNS-So3-220601>, <https://data.emobon.embrc.eu/IDs/EMOBON-220601-BPNS-So3-Micro-R2> .
     
 <https://data.emobon.embrc.eu/IDs/EMOBON-220601-BPNS-So3-Micro-R3_depth>
     a emobon:EnvironmentalMeasurement 
@@ -547,7 +547,7 @@ _depth>
         dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULAA/>;
         a xsd:float ;   
     ],
-    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-220601>, <https://data.emobon.embrc.eu/IDs/EMOBON-220601-BPNS-So3-Micro-R3> .
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDs/BPNS-So3-220601>, <https://data.emobon.embrc.eu/IDs/EMOBON-220601-BPNS-So3-Micro-R3> .
     
 <https://data.emobon.embrc.eu/IDs/EMOBON-220601-BPNS-So3-Micro-R4_depth>
     a emobon:EnvironmentalMeasurement 
@@ -557,7 +557,7 @@ _depth>
         dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULAA/>;
         a xsd:float ;   
     ],
-    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-220601>, <https://data.emobon.embrc.eu/IDs/EMOBON-220601-BPNS-So3-Micro-R4> .
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDs/BPNS-So3-220601>, <https://data.emobon.embrc.eu/IDs/EMOBON-220601-BPNS-So3-Micro-R4> .
     
 <https://data.emobon.embrc.eu/IDs/EMOBON-220601-BPNS-So3-Micro-B1_depth>
     a emobon:EnvironmentalMeasurement 
@@ -567,7 +567,7 @@ _depth>
         dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULAA/>;
         a xsd:float ;   
     ],
-    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-220601>, <https://data.emobon.embrc.eu/IDs/EMOBON-220601-BPNS-So3-Micro-B1> .
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDs/BPNS-So3-220601>, <https://data.emobon.embrc.eu/IDs/EMOBON-220601-BPNS-So3-Micro-B1> .
     
 <https://data.emobon.embrc.eu/IDs/EMOBON-220601-BPNS-So3-Micro-B2_depth>
     a emobon:EnvironmentalMeasurement 
@@ -577,7 +577,7 @@ _depth>
         dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULAA/>;
         a xsd:float ;   
     ],
-    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-220601>, <https://data.emobon.embrc.eu/IDs/EMOBON-220601-BPNS-So3-Micro-B2> .
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDs/BPNS-So3-220601>, <https://data.emobon.embrc.eu/IDs/EMOBON-220601-BPNS-So3-Micro-B2> .
     
 <https://data.emobon.embrc.eu/IDs/EMOBON-220601-BPNS-SoSOP3-Meio-R1_depth>
     a emobon:EnvironmentalMeasurement 
@@ -587,7 +587,7 @@ _depth>
         dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULAA/>;
         a xsd:float ;   
     ],
-    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-220601>, <https://data.emobon.embrc.eu/IDs/EMOBON-220601-BPNS-SoSOP3-Meio-R1> .
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDs/BPNS-So3-220601>, <https://data.emobon.embrc.eu/IDs/EMOBON-220601-BPNS-SoSOP3-Meio-R1> .
     
 <https://data.emobon.embrc.eu/IDs/EMOBON-220601-BPNS-SoSOP3-Meio-R1_size_frac_low>
     a emobon:EnvironmentalMeasurement 
@@ -597,7 +597,7 @@ _depth>
         dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/UMIC/>;
         a xsd:float ;   
     ],
-    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-220601>, <https://data.emobon.embrc.eu/IDs/EMOBON-220601-BPNS-SoSOP3-Meio-R1> .
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDs/BPNS-So3-220601>, <https://data.emobon.embrc.eu/IDs/EMOBON-220601-BPNS-SoSOP3-Meio-R1> .
     
 <https://data.emobon.embrc.eu/IDs/EMOBON-220601-BPNS-SoSOP3-Meio-R2_depth>
     a emobon:EnvironmentalMeasurement 
@@ -607,7 +607,7 @@ _depth>
         dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULAA/>;
         a xsd:float ;   
     ],
-    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-220601>, <https://data.emobon.embrc.eu/IDs/EMOBON-220601-BPNS-SoSOP3-Meio-R2> .
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDs/BPNS-So3-220601>, <https://data.emobon.embrc.eu/IDs/EMOBON-220601-BPNS-SoSOP3-Meio-R2> .
     
 <https://data.emobon.embrc.eu/IDs/EMOBON-220601-BPNS-SoSOP3-Meio-R2_size_frac_low>
     a emobon:EnvironmentalMeasurement 
@@ -617,7 +617,7 @@ _depth>
         dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/UMIC/>;
         a xsd:float ;   
     ],
-    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-220601>, <https://data.emobon.embrc.eu/IDs/EMOBON-220601-BPNS-SoSOP3-Meio-R2> .
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDs/BPNS-So3-220601>, <https://data.emobon.embrc.eu/IDs/EMOBON-220601-BPNS-SoSOP3-Meio-R2> .
     
 <https://data.emobon.embrc.eu/IDs/EMOBON-220601-BPNS-SoSOP3-Meio-R3_depth>
     a emobon:EnvironmentalMeasurement 
@@ -627,7 +627,7 @@ _depth>
         dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULAA/>;
         a xsd:float ;   
     ],
-    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-220601>, <https://data.emobon.embrc.eu/IDs/EMOBON-220601-BPNS-SoSOP3-Meio-R3> .
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDs/BPNS-So3-220601>, <https://data.emobon.embrc.eu/IDs/EMOBON-220601-BPNS-SoSOP3-Meio-R3> .
     
 <https://data.emobon.embrc.eu/IDs/EMOBON-220601-BPNS-SoSOP3-Meio-R3_size_frac_low>
     a emobon:EnvironmentalMeasurement 
@@ -637,7 +637,7 @@ _depth>
         dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/UMIC/>;
         a xsd:float ;   
     ],
-    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-220601>, <https://data.emobon.embrc.eu/IDs/EMOBON-220601-BPNS-SoSOP3-Meio-R3> .
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDs/BPNS-So3-220601>, <https://data.emobon.embrc.eu/IDs/EMOBON-220601-BPNS-SoSOP3-Meio-R3> .
     
 <https://data.emobon.embrc.eu/IDs/EMOBON-220601-BPNS-SoSOP3-Meio-R4_depth>
     a emobon:EnvironmentalMeasurement 
@@ -647,7 +647,7 @@ _depth>
         dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULAA/>;
         a xsd:float ;   
     ],
-    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-220601>, <https://data.emobon.embrc.eu/IDs/EMOBON-220601-BPNS-SoSOP3-Meio-R4> .
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDs/BPNS-So3-220601>, <https://data.emobon.embrc.eu/IDs/EMOBON-220601-BPNS-SoSOP3-Meio-R4> .
     
 <https://data.emobon.embrc.eu/IDs/EMOBON-220601-BPNS-SoSOP3-Meio-R4_size_frac_low>
     a emobon:EnvironmentalMeasurement 
@@ -657,7 +657,7 @@ _depth>
         dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/UMIC/>;
         a xsd:float ;   
     ],
-    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-220601>, <https://data.emobon.embrc.eu/IDs/EMOBON-220601-BPNS-SoSOP3-Meio-R4> .
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDs/BPNS-So3-220601>, <https://data.emobon.embrc.eu/IDs/EMOBON-220601-BPNS-SoSOP3-Meio-R4> .
     
 <https://data.emobon.embrc.eu/IDs/EMOBON-220601-BPNS-SoSOP3-Meio-B_depth>
     a emobon:EnvironmentalMeasurement 
@@ -667,7 +667,7 @@ _depth>
         dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULAA/>;
         a xsd:float ;   
     ],
-    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-220601>, <https://data.emobon.embrc.eu/IDs/EMOBON-220601-BPNS-SoSOP3-Meio-B> .
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDs/BPNS-So3-220601>, <https://data.emobon.embrc.eu/IDs/EMOBON-220601-BPNS-SoSOP3-Meio-B> .
     
 <https://data.emobon.embrc.eu/IDs/EMOBON-220601-BPNS-SoSOP3-Meio-B_size_frac_low>
     a emobon:EnvironmentalMeasurement 
@@ -677,7 +677,7 @@ _depth>
         dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/UMIC/>;
         a xsd:float ;   
     ],
-    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-220601>, <https://data.emobon.embrc.eu/IDs/EMOBON-220601-BPNS-SoSOP3-Meio-B> .
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDs/BPNS-So3-220601>, <https://data.emobon.embrc.eu/IDs/EMOBON-220601-BPNS-SoSOP3-Meio-B> .
     
 <https://data.emobon.embrc.eu/IDs/EMOBON-220819-BPNS-So3-Micro-R1_depth>
     a emobon:EnvironmentalMeasurement 
@@ -687,7 +687,7 @@ _depth>
         dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULAA/>;
         a xsd:float ;   
     ],
-    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-220601>, <https://data.emobon.embrc.eu/IDs/EMOBON-220819-BPNS-So3-Micro-R1> .
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDs/BPNS-So3-220601>, <https://data.emobon.embrc.eu/IDs/EMOBON-220819-BPNS-So3-Micro-R1> .
     
 <https://data.emobon.embrc.eu/IDs/EMOBON-220819-BPNS-So3-Micro-R2_depth>
     a emobon:EnvironmentalMeasurement 
@@ -697,7 +697,7 @@ _depth>
         dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULAA/>;
         a xsd:float ;   
     ],
-    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-220601>, <https://data.emobon.embrc.eu/IDs/EMOBON-220819-BPNS-So3-Micro-R2> .
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDs/BPNS-So3-220601>, <https://data.emobon.embrc.eu/IDs/EMOBON-220819-BPNS-So3-Micro-R2> .
     
 <https://data.emobon.embrc.eu/IDs/EMOBON-220819-BPNS-So3-Micro-R3_depth>
     a emobon:EnvironmentalMeasurement 
@@ -707,7 +707,7 @@ _depth>
         dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULAA/>;
         a xsd:float ;   
     ],
-    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-220601>, <https://data.emobon.embrc.eu/IDs/EMOBON-220819-BPNS-So3-Micro-R3> .
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDs/BPNS-So3-220601>, <https://data.emobon.embrc.eu/IDs/EMOBON-220819-BPNS-So3-Micro-R3> .
     
 <https://data.emobon.embrc.eu/IDs/EMOBON-220819-BPNS-So3-Micro-R4_depth>
     a emobon:EnvironmentalMeasurement 
@@ -717,7 +717,7 @@ _depth>
         dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULAA/>;
         a xsd:float ;   
     ],
-    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-220601>, <https://data.emobon.embrc.eu/IDs/EMOBON-220819-BPNS-So3-Micro-R4> .
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDs/BPNS-So3-220601>, <https://data.emobon.embrc.eu/IDs/EMOBON-220819-BPNS-So3-Micro-R4> .
     
 <https://data.emobon.embrc.eu/IDs/EMOBON-220819-BPNS-So3-Micro-B1_depth>
     a emobon:EnvironmentalMeasurement 
@@ -727,7 +727,7 @@ _depth>
         dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULAA/>;
         a xsd:float ;   
     ],
-    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-220601>, <https://data.emobon.embrc.eu/IDs/EMOBON-220819-BPNS-So3-Micro-B1> .
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDs/BPNS-So3-220601>, <https://data.emobon.embrc.eu/IDs/EMOBON-220819-BPNS-So3-Micro-B1> .
     
 <https://data.emobon.embrc.eu/IDs/EMOBON-220819-BPNS-So3-Micro-B2_depth>
     a emobon:EnvironmentalMeasurement 
@@ -737,7 +737,7 @@ _depth>
         dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/ULAA/>;
         a xsd:float ;   
     ],
-    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS-So3-220601>, <https://data.emobon.embrc.eu/IDs/EMOBON-220819-BPNS-So3-Micro-B2> .
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDs/BPNS-So3-220601>, <https://data.emobon.embrc.eu/IDs/EMOBON-220819-BPNS-So3-Micro-B2> .
     
 <https://data.emobon.embrc.eu/IDs/EMOBON-221027-BPNS-SoSOP3-Meio-R1_size_frac_low>
     a emobon:EnvironmentalMeasurement 
@@ -747,7 +747,7 @@ _depth>
         dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/UMIC/>;
         a xsd:float ;   
     ],
-    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS%20So3%20221027>, <https://data.emobon.embrc.eu/IDs/EMOBON-221027-BPNS-SoSOP3-Meio-R1> .
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDs/BPNS%20So3%20221027>, <https://data.emobon.embrc.eu/IDs/EMOBON-221027-BPNS-SoSOP3-Meio-R1> .
     
 <https://data.emobon.embrc.eu/IDs/EMOBON-221027-BPNS-SoSOP3-Meio-R2_size_frac_low>
     a emobon:EnvironmentalMeasurement 
@@ -757,7 +757,7 @@ _depth>
         dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/UMIC/>;
         a xsd:float ;   
     ],
-    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS%20So3%20221027>, <https://data.emobon.embrc.eu/IDs/EMOBON-221027-BPNS-SoSOP3-Meio-R2> .
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDs/BPNS%20So3%20221027>, <https://data.emobon.embrc.eu/IDs/EMOBON-221027-BPNS-SoSOP3-Meio-R2> .
     
 <https://data.emobon.embrc.eu/IDs/EMOBON-221027-BPNS-SoSOP3-Meio-R3_size_frac_low>
     a emobon:EnvironmentalMeasurement 
@@ -767,7 +767,7 @@ _depth>
         dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/UMIC/>;
         a xsd:float ;   
     ],
-    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS%20So3%20221027>, <https://data.emobon.embrc.eu/IDs/EMOBON-221027-BPNS-SoSOP3-Meio-R3> .
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDs/BPNS%20So3%20221027>, <https://data.emobon.embrc.eu/IDs/EMOBON-221027-BPNS-SoSOP3-Meio-R3> .
     
 <https://data.emobon.embrc.eu/IDs/EMOBON-221027-BPNS-SoSOP3-Meio-R4_size_frac_low>
     a emobon:EnvironmentalMeasurement 
@@ -777,7 +777,7 @@ _depth>
         dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/UMIC/>;
         a xsd:float ;   
     ],
-    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS%20So3%20221027>, <https://data.emobon.embrc.eu/IDs/EMOBON-221027-BPNS-SoSOP3-Meio-R4> .
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDs/BPNS%20So3%20221027>, <https://data.emobon.embrc.eu/IDs/EMOBON-221027-BPNS-SoSOP3-Meio-R4> .
     
 <https://data.emobon.embrc.eu/IDs/EMOBON-221027-BPNS-SoSOP3-Meio-B_size_frac_low>
     a emobon:EnvironmentalMeasurement 
@@ -787,5 +787,5 @@ _depth>
         dwc:measurementUnit <http://vocab.nerc.ac.uk/collection/P06/current/UMIC/>;
         a xsd:float ;   
     ],
-    sosa:isResultOf <https://data.emobon.embrc.eu/IDsBPNS%20So3%20221027>, <https://data.emobon.embrc.eu/IDs/EMOBON-221027-BPNS-SoSOP3-Meio-B> .
+    sosa:isResultOf <https://data.emobon.embrc.eu/IDs/BPNS%20So3%20221027>, <https://data.emobon.embrc.eu/IDs/EMOBON-221027-BPNS-SoSOP3-Meio-B> .
     

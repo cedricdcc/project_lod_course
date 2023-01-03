@@ -18,4 +18,4 @@
             schema:name "{{_['sampl_person']}}";
             schema:identifier  "{{_['sampl_person_orcid']}}" ;
         ] ;
-    schema:range emobon:sedimentSample .
+schema:range emobon:sedimentSample .

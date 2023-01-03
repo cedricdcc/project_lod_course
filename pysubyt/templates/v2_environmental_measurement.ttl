@@ -12,7 +12,7 @@
         {%- endif %}
         a xsd:float ;   
     ],
-    sosa:isResultOf <{{uritexpand("https://data.emobon.embrc.eu/IDs{sampling_event}", _)}}>, <{{uritexpand("https://data.emobon.embrc.eu/IDs/{source_mat_id}", _)}}> .
+    sosa:isResultOf <{{uritexpand("https://data.emobon.embrc.eu/IDs/{sampling_event}", _)}}>, <{{uritexpand("https://data.emobon.embrc.eu/IDs/{source_mat_id}", _)}}> .
     {##}
 {% endif -%}
 {% endif -%}

@@ -10,7 +10,7 @@
             schema:name "Lara Macheriotou";
             schema:identifier  "0000-0002-5662-5689" ;
         ] ;
-    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/EMOBON_BE_20210701_330>
+schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/EMOBON_BE_20210701_330>
     a emobon:Event ;
     dwc:eventDate "2021-07-01 08:23:15";
     dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
@@ -22,7 +22,7 @@
             schema:name "Lara Macheriotou";
             schema:identifier  "0000-0002-5662-5689" ;
         ] ;
-    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/EMOBON_BE_20210701_330>
+schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/EMOBON_BE_20210701_330>
     a emobon:Event ;
     dwc:eventDate "2021-07-01 08:23:15";
     dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
@@ -34,7 +34,7 @@
             schema:name "Lara Macheriotou";
             schema:identifier  "0000-0002-5662-5689" ;
         ] ;
-    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/EMOBON_BE_20210701_330>
+schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/EMOBON_BE_20210701_330>
     a emobon:Event ;
     dwc:eventDate "2021-07-01 08:23:15";
     dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
@@ -46,7 +46,7 @@
             schema:name "Lara Macheriotou";
             schema:identifier  "0000-0002-5662-5689" ;
         ] ;
-    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/EMOBON_BE_20210726_330>
+schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/EMOBON_BE_20210726_330>
     a emobon:Event ;
     dwc:eventDate "2021-07-26 12:44:15";
     dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
@@ -58,7 +58,7 @@
             schema:name "Jonas Mortelmans";
             schema:identifier  "0000-0002-8781-7915" ;
         ] ;
-    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/EMOBON_BE_20210726_330>
+schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/EMOBON_BE_20210726_330>
     a emobon:Event ;
     dwc:eventDate "2021-07-26 12:44:15";
     dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
@@ -70,7 +70,7 @@
             schema:name "Jonas Mortelmans";
             schema:identifier  "0000-0002-8781-7915" ;
         ] ;
-    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/EMOBON_BE_20210726_330>
+schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/EMOBON_BE_20210726_330>
     a emobon:Event ;
     dwc:eventDate "2021-07-26 12:44:15";
     dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
@@ -82,7 +82,7 @@
             schema:name "Jonas Mortelmans";
             schema:identifier  "0000-0002-8781-7915" ;
         ] ;
-    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/EMOBON_BE_20210726_330>
+schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/EMOBON_BE_20210726_330>
     a emobon:Event ;
     dwc:eventDate "2021-07-26 12:44:15";
     dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
@@ -94,7 +94,7 @@
             schema:name "Jonas Mortelmans";
             schema:identifier  "0000-0002-8781-7915" ;
         ] ;
-    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/EMOBON_BE_20210726_330>
+schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/EMOBON_BE_20210726_330>
     a emobon:Event ;
     dwc:eventDate "2021-07-26 12:44:15";
     dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
@@ -106,7 +106,7 @@
             schema:name "Jonas Mortelmans";
             schema:identifier  "0000-0002-8781-7915" ;
         ] ;
-    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/EMOBON_BE_20210726_330>
+schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/EMOBON_BE_20210726_330>
     a emobon:Event ;
     dwc:eventDate "2021-07-26 12:44:15";
     dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
@@ -118,7 +118,7 @@
             schema:name "Jonas Mortelmans";
             schema:identifier  "0000-0002-8781-7915" ;
         ] ;
-    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/EMOBON_BE_20210825_330>
+schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/EMOBON_BE_20210825_330>
     a emobon:Event ;
     dwc:eventDate "2021-08-25 09:06:30";
     dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
@@ -130,7 +130,7 @@
             schema:name "Sander Delacauw";
             schema:identifier  "0000-0002-5400-2891" ;
         ] ;
-    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/EMOBON_BE_20210825_330>
+schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/EMOBON_BE_20210825_330>
     a emobon:Event ;
     dwc:eventDate "2021-08-25 09:06:30";
     dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
@@ -142,7 +142,7 @@
             schema:name "Sander Delacauw";
             schema:identifier  "0000-0002-5400-2891" ;
         ] ;
-    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/EMOBON_BE_20210825_330>
+schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/EMOBON_BE_20210825_330>
     a emobon:Event ;
     dwc:eventDate "2021-08-25 09:06:30";
     dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
@@ -154,7 +154,7 @@
             schema:name "Sander Delacauw";
             schema:identifier  "0000-0002-5400-2891" ;
         ] ;
-    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/EMOBON_BE_20210825_330>
+schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/EMOBON_BE_20210825_330>
     a emobon:Event ;
     dwc:eventDate "2021-08-25 09:06:30";
     dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
@@ -166,7 +166,7 @@
             schema:name "Sander Delacauw";
             schema:identifier  "0000-0002-5400-2891" ;
         ] ;
-    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/EMOBON_BE_20210825_330>
+schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/EMOBON_BE_20210825_330>
     a emobon:Event ;
     dwc:eventDate "2021-08-25 09:06:30";
     dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
@@ -178,7 +178,7 @@
             schema:name "Sander Delacauw";
             schema:identifier  "0000-0002-5400-2891" ;
         ] ;
-    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/EMOBON_BE_20210825_330>
+schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/EMOBON_BE_20210825_330>
     a emobon:Event ;
     dwc:eventDate "2021-08-25 09:06:30";
     dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
@@ -190,7 +190,7 @@
             schema:name "Sander Delacauw";
             schema:identifier  "0000-0002-5400-2891" ;
         ] ;
-    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-211013>
+schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-211013>
     a emobon:Event ;
     dwc:eventDate "2021-10-28 08:02:56";
     dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
@@ -202,7 +202,7 @@
             schema:name "Sander Delacauw";
             schema:identifier  "0000-0002-5400-2891" ;
         ] ;
-    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-211014>
+schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-211014>
     a emobon:Event ;
     dwc:eventDate "2021-10-28 08:02:56";
     dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
@@ -214,7 +214,7 @@
             schema:name "Sander Delacauw";
             schema:identifier  "0000-0002-5400-2891" ;
         ] ;
-    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-211015>
+schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-211015>
     a emobon:Event ;
     dwc:eventDate "2021-10-28 08:02:56";
     dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
@@ -226,7 +226,7 @@
             schema:name "Sander Delacauw";
             schema:identifier  "0000-0002-5400-2891" ;
         ] ;
-    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-211016>
+schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-211016>
     a emobon:Event ;
     dwc:eventDate "2021-10-28 08:02:56";
     dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
@@ -238,7 +238,7 @@
             schema:name "Sander Delacauw";
             schema:identifier  "0000-0002-5400-2891" ;
         ] ;
-    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-211017>
+schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-211017>
     a emobon:Event ;
     dwc:eventDate "2021-10-28 08:02:56";
     dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
@@ -250,7 +250,7 @@
             schema:name "Sander Delacauw";
             schema:identifier  "0000-0002-5400-2891" ;
         ] ;
-    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-211018>
+schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-211018>
     a emobon:Event ;
     dwc:eventDate "2021-10-28 08:02:56";
     dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
@@ -262,7 +262,7 @@
             schema:name "Sander Delacauw";
             schema:identifier  "0000-0002-5400-2891" ;
         ] ;
-    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-211019>
+schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-211019>
     a emobon:Event ;
     dwc:eventDate "2021-10-28 08:02:56";
     dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
@@ -274,7 +274,7 @@
             schema:name "Sander Delacauw";
             schema:identifier  "0000-0002-5400-2891" ;
         ] ;
-    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-211020>
+schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-211020>
     a emobon:Event ;
     dwc:eventDate "2021-10-28 08:02:56";
     dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
@@ -286,7 +286,7 @@
             schema:name "Sander Delacauw";
             schema:identifier  "0000-0002-5400-2891" ;
         ] ;
-    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-211021>
+schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-211021>
     a emobon:Event ;
     dwc:eventDate "2021-10-28 08:02:56";
     dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
@@ -298,7 +298,7 @@
             schema:name "Sander Delacauw";
             schema:identifier  "0000-0002-5400-2891" ;
         ] ;
-    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-211022>
+schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-211022>
     a emobon:Event ;
     dwc:eventDate "2021-10-28 08:02:56";
     dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
@@ -310,7 +310,7 @@
             schema:name "Sander Delacauw";
             schema:identifier  "0000-0002-5400-2891" ;
         ] ;
-    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-211023>
+schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-211023>
     a emobon:Event ;
     dwc:eventDate "2021-10-28 08:02:56";
     dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
@@ -322,7 +322,7 @@
             schema:name "Sander Delacauw";
             schema:identifier  "0000-0002-5400-2891" ;
         ] ;
-    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-211024>
+schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-211024>
     a emobon:Event ;
     dwc:eventDate "2021-10-28 08:02:56";
     dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
@@ -334,7 +334,7 @@
             schema:name "Lara Macheriotou";
             schema:identifier  "0000-0002-5662-5689" ;
         ] ;
-    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-211025>
+schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-211025>
     a emobon:Event ;
     dwc:eventDate "2021-10-28 08:02:56";
     dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
@@ -346,7 +346,7 @@
             schema:name "Lara Macheriotou";
             schema:identifier  "0000-0002-5662-5689" ;
         ] ;
-    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-211026>
+schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-211026>
     a emobon:Event ;
     dwc:eventDate "2021-10-28 08:02:56";
     dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
@@ -358,7 +358,7 @@
             schema:name "Lara Macheriotou";
             schema:identifier  "0000-0002-5662-5689" ;
         ] ;
-    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-211027>
+schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-211027>
     a emobon:Event ;
     dwc:eventDate "2021-10-28 08:02:56";
     dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
@@ -370,7 +370,7 @@
             schema:name "Lara Macheriotou";
             schema:identifier  "0000-0002-5662-5689" ;
         ] ;
-    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-211028>
+schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-211028>
     a emobon:Event ;
     dwc:eventDate "2021-10-28 08:02:56";
     dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
@@ -382,7 +382,7 @@
             schema:name "Lara Macheriotou";
             schema:identifier  "0000-0002-5662-5689" ;
         ] ;
-    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-211223>
+schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-211223>
     a emobon:Event ;
     dwc:eventDate "2021-12-23 09:28:40";
     dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
@@ -394,7 +394,7 @@
             schema:name "Rune Lagaisse";
             schema:identifier  "0000-0001-9191-9140" ;
         ] ;
-    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-211223>
+schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-211223>
     a emobon:Event ;
     dwc:eventDate "2021-12-23 09:28:40";
     dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
@@ -406,7 +406,7 @@
             schema:name "Rune Lagaisse";
             schema:identifier  "0000-0001-9191-9140" ;
         ] ;
-    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-211223>
+schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-211223>
     a emobon:Event ;
     dwc:eventDate "2021-12-23 09:28:40";
     dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
@@ -418,7 +418,7 @@
             schema:name "Rune Lagaisse";
             schema:identifier  "0000-0001-9191-9140" ;
         ] ;
-    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-211223>
+schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-211223>
     a emobon:Event ;
     dwc:eventDate "2021-12-23 09:28:40";
     dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
@@ -430,7 +430,7 @@
             schema:name "Rune Lagaisse";
             schema:identifier  "0000-0001-9191-9140" ;
         ] ;
-    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-211223>
+schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-211223>
     a emobon:Event ;
     dwc:eventDate "2021-12-23 09:28:40";
     dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
@@ -442,7 +442,7 @@
             schema:name "Rune Lagaisse";
             schema:identifier  "0000-0001-9191-9140" ;
         ] ;
-    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-211223>
+schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-211223>
     a emobon:Event ;
     dwc:eventDate "2021-12-23 09:28:40";
     dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
@@ -454,7 +454,7 @@
             schema:name "Rune Lagaisse";
             schema:identifier  "0000-0001-9191-9140" ;
         ] ;
-    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-220322>
+schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-220322>
     a emobon:Event ;
     dwc:eventDate "2022-03-22 17:44:43";
     dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
@@ -466,7 +466,7 @@
             schema:name "Rune Lagaisse";
             schema:identifier  "0000-0001-9191-9140" ;
         ] ;
-    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-220322>
+schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-220322>
     a emobon:Event ;
     dwc:eventDate "2022-03-22 17:44:43";
     dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
@@ -478,7 +478,7 @@
             schema:name "Rune Lagaisse";
             schema:identifier  "0000-0001-9191-9140" ;
         ] ;
-    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-220322>
+schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-220322>
     a emobon:Event ;
     dwc:eventDate "2022-03-22 17:44:43";
     dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
@@ -490,7 +490,7 @@
             schema:name "Rune Lagaisse";
             schema:identifier  "0000-0001-9191-9140" ;
         ] ;
-    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-220322>
+schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-220322>
     a emobon:Event ;
     dwc:eventDate "2022-03-22 17:44:43";
     dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
@@ -502,7 +502,7 @@
             schema:name "Rune Lagaisse";
             schema:identifier  "0000-0001-9191-9140" ;
         ] ;
-    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-220322>
+schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-220322>
     a emobon:Event ;
     dwc:eventDate "2022-03-22 17:44:43";
     dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
@@ -514,7 +514,7 @@
             schema:name "Rune Lagaisse";
             schema:identifier  "0000-0001-9191-9140" ;
         ] ;
-    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-220322>
+schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-220322>
     a emobon:Event ;
     dwc:eventDate "2022-03-22 17:44:43";
     dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
@@ -526,7 +526,7 @@
             schema:name "Rune Lagaisse";
             schema:identifier  "0000-0001-9191-9140" ;
         ] ;
-    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-220420>
+schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-220420>
     a emobon:Event ;
     dwc:eventDate "2022-04-20 10:57:42";
     dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
@@ -538,7 +538,7 @@
             schema:name "Annelien Rigaux";
             schema:identifier  "" ;
         ] ;
-    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-220421>
+schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-220421>
     a emobon:Event ;
     dwc:eventDate "2022-04-20 10:57:42";
     dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
@@ -550,7 +550,7 @@
             schema:name "Annelien Rigaux";
             schema:identifier  "" ;
         ] ;
-    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-220422>
+schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-220422>
     a emobon:Event ;
     dwc:eventDate "2022-04-20 10:57:42";
     dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
@@ -562,7 +562,7 @@
             schema:name "Annelien Rigaux";
             schema:identifier  "" ;
         ] ;
-    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-220423>
+schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-220423>
     a emobon:Event ;
     dwc:eventDate "2022-04-20 10:57:42";
     dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
@@ -574,7 +574,7 @@
             schema:name "Annelien Rigaux";
             schema:identifier  "" ;
         ] ;
-    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-220424>
+schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-220424>
     a emobon:Event ;
     dwc:eventDate "2022-04-20 10:57:42";
     dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
@@ -586,7 +586,7 @@
             schema:name "Annelien Rigaux";
             schema:identifier  "" ;
         ] ;
-    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-220425>
+schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-220425>
     a emobon:Event ;
     dwc:eventDate "2022-04-20 10:57:42";
     dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
@@ -598,7 +598,7 @@
             schema:name "Annelien Rigaux";
             schema:identifier  "" ;
         ] ;
-    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-220426>
+schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-220426>
     a emobon:Event ;
     dwc:eventDate "2022-04-20 10:57:42";
     dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
@@ -610,7 +610,7 @@
             schema:name "Annelien Rigaux";
             schema:identifier  "" ;
         ] ;
-    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-220427>
+schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-220427>
     a emobon:Event ;
     dwc:eventDate "2022-04-20 10:57:42";
     dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
@@ -622,7 +622,7 @@
             schema:name "Annelien Rigaux";
             schema:identifier  "" ;
         ] ;
-    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-220428>
+schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-220428>
     a emobon:Event ;
     dwc:eventDate "2022-04-20 10:57:42";
     dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
@@ -634,7 +634,7 @@
             schema:name "Annelien Rigaux";
             schema:identifier  "" ;
         ] ;
-    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-220429>
+schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-220429>
     a emobon:Event ;
     dwc:eventDate "2022-04-20 10:57:42";
     dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
@@ -646,7 +646,7 @@
             schema:name "Annelien Rigaux";
             schema:identifier  "" ;
         ] ;
-    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-220430>
+schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-220430>
     a emobon:Event ;
     dwc:eventDate "2022-04-20 10:57:42";
     dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
@@ -658,7 +658,7 @@
             schema:name "Annelien Rigaux";
             schema:identifier  "" ;
         ] ;
-    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-220431>
+schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-220431>
     a emobon:Event ;
     dwc:eventDate "2022-04-20 10:57:42";
     dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
@@ -670,7 +670,7 @@
             schema:name "Annelien Rigaux";
             schema:identifier  "" ;
         ] ;
-    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-220432>
+schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-220432>
     a emobon:Event ;
     dwc:eventDate "2022-04-20 10:57:42";
     dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
@@ -682,7 +682,7 @@
             schema:name "Annelien Rigaux";
             schema:identifier  "" ;
         ] ;
-    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-220433>
+schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-220433>
     a emobon:Event ;
     dwc:eventDate "2022-04-20 10:57:42";
     dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
@@ -694,7 +694,7 @@
             schema:name "Annelien Rigaux";
             schema:identifier  "" ;
         ] ;
-    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-220434>
+schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-220434>
     a emobon:Event ;
     dwc:eventDate "2022-04-20 10:57:42";
     dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
@@ -706,7 +706,7 @@
             schema:name "Annelien Rigaux";
             schema:identifier  "" ;
         ] ;
-    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-220435>
+schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-220435>
     a emobon:Event ;
     dwc:eventDate "2022-04-20 10:57:42";
     dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
@@ -718,7 +718,7 @@
             schema:name "Annelien Rigaux";
             schema:identifier  "" ;
         ] ;
-    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-220601>
+schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-220601>
     a emobon:Event ;
     dwc:eventDate "2022-06-01 12:57:08";
     dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
@@ -730,7 +730,7 @@
             schema:name "Rune Lagaisse";
             schema:identifier  "0000-0001-9191-9140" ;
         ] ;
-    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-220601>
+schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-220601>
     a emobon:Event ;
     dwc:eventDate "2022-06-01 12:57:08";
     dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
@@ -742,7 +742,7 @@
             schema:name "Rune Lagaisse";
             schema:identifier  "0000-0001-9191-9140" ;
         ] ;
-    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-220601>
+schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-220601>
     a emobon:Event ;
     dwc:eventDate "2022-06-01 12:57:08";
     dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
@@ -754,7 +754,7 @@
             schema:name "Rune Lagaisse";
             schema:identifier  "0000-0001-9191-9140" ;
         ] ;
-    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-220601>
+schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-220601>
     a emobon:Event ;
     dwc:eventDate "2022-06-01 12:57:08";
     dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
@@ -766,7 +766,7 @@
             schema:name "Rune Lagaisse";
             schema:identifier  "0000-0001-9191-9140" ;
         ] ;
-    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-220601>
+schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-220601>
     a emobon:Event ;
     dwc:eventDate "2022-06-01 12:57:08";
     dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
@@ -778,7 +778,7 @@
             schema:name "Rune Lagaisse";
             schema:identifier  "0000-0001-9191-9140" ;
         ] ;
-    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-220601>
+schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-220601>
     a emobon:Event ;
     dwc:eventDate "2022-06-01 12:57:08";
     dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
@@ -790,19 +790,7 @@
             schema:name "Rune Lagaisse";
             schema:identifier  "0000-0001-9191-9140" ;
         ] ;
-    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-220601>
-    a emobon:Event ;
-    dwc:eventDate "2022-06-01 12:57:08";
-    dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
-    dwc:decimalLatitude "51.433331" ; 
-    dwc:decimalLongitude "2.80833" ;
-    dwc:eventID "BPNS-So3-220601" ; 
-    schema:Contributor 
-        [schema:isMemberOf <https://edmo.seadatanet.org/report/422> ;schema:isMemberOf <https://edmo.seadatanet.org/report/449> ;schema:isMemberOf <https://edmo.seadatanet.org/report/432> ;schema:isMemberOf <https://edmo.seadatanet.org/report/2248> ;
-            schema:name "Lara Macheriotou";
-            schema:identifier  "0000-0002-5662-5689" ;
-        ] ;
-    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-220601>
+schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-220601>
     a emobon:Event ;
     dwc:eventDate "2022-06-01 12:57:08";
     dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
@@ -814,7 +802,7 @@
             schema:name "Lara Macheriotou";
             schema:identifier  "0000-0002-5662-5689" ;
         ] ;
-    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-220601>
+schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-220601>
     a emobon:Event ;
     dwc:eventDate "2022-06-01 12:57:08";
     dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
@@ -826,7 +814,7 @@
             schema:name "Lara Macheriotou";
             schema:identifier  "0000-0002-5662-5689" ;
         ] ;
-    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-220601>
+schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-220601>
     a emobon:Event ;
     dwc:eventDate "2022-06-01 12:57:08";
     dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
@@ -838,7 +826,7 @@
             schema:name "Lara Macheriotou";
             schema:identifier  "0000-0002-5662-5689" ;
         ] ;
-    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-220601>
+schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-220601>
     a emobon:Event ;
     dwc:eventDate "2022-06-01 12:57:08";
     dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
@@ -850,7 +838,19 @@
             schema:name "Lara Macheriotou";
             schema:identifier  "0000-0002-5662-5689" ;
         ] ;
-    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-220601>
+schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-220601>
+    a emobon:Event ;
+    dwc:eventDate "2022-06-01 12:57:08";
+    dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
+    dwc:decimalLatitude "51.433331" ; 
+    dwc:decimalLongitude "2.80833" ;
+    dwc:eventID "BPNS-So3-220601" ; 
+    schema:Contributor 
+        [schema:isMemberOf <https://edmo.seadatanet.org/report/422> ;schema:isMemberOf <https://edmo.seadatanet.org/report/449> ;schema:isMemberOf <https://edmo.seadatanet.org/report/432> ;schema:isMemberOf <https://edmo.seadatanet.org/report/2248> ;
+            schema:name "Lara Macheriotou";
+            schema:identifier  "0000-0002-5662-5689" ;
+        ] ;
+schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-220601>
     a emobon:Event ;
     dwc:eventDate "";
     dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
@@ -862,7 +862,7 @@
             schema:name "Rune Lagaisse";
             schema:identifier  "0000-0001-9191-9140" ;
         ] ;
-    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-220601>
+schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-220601>
     a emobon:Event ;
     dwc:eventDate "";
     dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
@@ -874,7 +874,7 @@
             schema:name "Rune Lagaisse";
             schema:identifier  "0000-0001-9191-9140" ;
         ] ;
-    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-220601>
+schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-220601>
     a emobon:Event ;
     dwc:eventDate "";
     dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
@@ -886,7 +886,7 @@
             schema:name "Rune Lagaisse";
             schema:identifier  "0000-0001-9191-9140" ;
         ] ;
-    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-220601>
+schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-220601>
     a emobon:Event ;
     dwc:eventDate "";
     dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
@@ -898,7 +898,7 @@
             schema:name "Rune Lagaisse";
             schema:identifier  "0000-0001-9191-9140" ;
         ] ;
-    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-220601>
+schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-220601>
     a emobon:Event ;
     dwc:eventDate "";
     dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
@@ -910,7 +910,7 @@
             schema:name "Rune Lagaisse";
             schema:identifier  "0000-0001-9191-9140" ;
         ] ;
-    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-220601>
+schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS-So3-220601>
     a emobon:Event ;
     dwc:eventDate "";
     dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
@@ -922,7 +922,7 @@
             schema:name "Rune Lagaisse";
             schema:identifier  "0000-0001-9191-9140" ;
         ] ;
-    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS%20So3%20221027>
+schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS%20So3%20221027>
     a emobon:Event ;
     dwc:eventDate "";
     dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
@@ -934,7 +934,7 @@
             schema:name "Rune Lagaisse";
             schema:identifier  "0000-0001-9191-9140" ;
         ] ;
-    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS%20So3%20221027>
+schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS%20So3%20221027>
     a emobon:Event ;
     dwc:eventDate "";
     dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
@@ -946,7 +946,7 @@
             schema:name "Rune Lagaisse";
             schema:identifier  "0000-0001-9191-9140" ;
         ] ;
-    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS%20So3%20221027>
+schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS%20So3%20221027>
     a emobon:Event ;
     dwc:eventDate "";
     dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
@@ -958,7 +958,7 @@
             schema:name "Rune Lagaisse";
             schema:identifier  "0000-0001-9191-9140" ;
         ] ;
-    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS%20So3%20221027>
+schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS%20So3%20221027>
     a emobon:Event ;
     dwc:eventDate "";
     dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
@@ -970,7 +970,7 @@
             schema:name "Rune Lagaisse";
             schema:identifier  "0000-0001-9191-9140" ;
         ] ;
-    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS%20So3%20221027>
+schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS%20So3%20221027>
     a emobon:Event ;
     dwc:eventDate "";
     dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
@@ -982,7 +982,7 @@
             schema:name "Rune Lagaisse";
             schema:identifier  "0000-0001-9191-9140" ;
         ] ;
-    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS%20So3%20221027>
+schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS%20So3%20221027>
     a emobon:Event ;
     dwc:eventDate "";
     dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
@@ -994,7 +994,7 @@
             schema:name "Rune Lagaisse";
             schema:identifier  "0000-0001-9191-9140" ;
         ] ;
-    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS%20So3%20221027>
+schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS%20So3%20221027>
     a emobon:Event ;
     dwc:eventDate "";
     dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
@@ -1006,7 +1006,7 @@
             schema:name "Rune Lagaisse";
             schema:identifier  "0000-0001-9191-9140" ;
         ] ;
-    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS%20So3%20221027>
+schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS%20So3%20221027>
     a emobon:Event ;
     dwc:eventDate "";
     dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
@@ -1018,7 +1018,7 @@
             schema:name "Rune Lagaisse";
             schema:identifier  "0000-0001-9191-9140" ;
         ] ;
-    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS%20So3%20221027>
+schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS%20So3%20221027>
     a emobon:Event ;
     dwc:eventDate "";
     dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
@@ -1030,7 +1030,7 @@
             schema:name "Rune Lagaisse";
             schema:identifier  "0000-0001-9191-9140" ;
         ] ;
-    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS%20So3%20221027>
+schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS%20So3%20221027>
     a emobon:Event ;
     dwc:eventDate "";
     dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
@@ -1042,7 +1042,7 @@
             schema:name "Rune Lagaisse";
             schema:identifier  "0000-0001-9191-9140" ;
         ] ;
-    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS%20So3%20221027>
+schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS%20So3%20221027>
     a emobon:Event ;
     dwc:eventDate "";
     dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
@@ -1054,7 +1054,7 @@
             schema:name "Rune Lagaisse";
             schema:identifier  "0000-0001-9191-9140" ;
         ] ;
-    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS%20So3%20221027>
+schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS%20So3%20221027>
     a emobon:Event ;
     dwc:eventDate "";
     dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
@@ -1066,7 +1066,7 @@
             schema:name "Rune Lagaisse";
             schema:identifier  "0000-0001-9191-9140" ;
         ] ;
-    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS%20So3%20221027>
+schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS%20So3%20221027>
     a emobon:Event ;
     dwc:eventDate "";
     dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
@@ -1078,7 +1078,7 @@
             schema:name "Rune Lagaisse";
             schema:identifier  "0000-0001-9191-9140" ;
         ] ;
-    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS%20So3%20221027>
+schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS%20So3%20221027>
     a emobon:Event ;
     dwc:eventDate "";
     dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
@@ -1090,7 +1090,7 @@
             schema:name "Rune Lagaisse";
             schema:identifier  "0000-0001-9191-9140" ;
         ] ;
-    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS%20So3%20221027>
+schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS%20So3%20221027>
     a emobon:Event ;
     dwc:eventDate "";
     dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
@@ -1102,7 +1102,7 @@
             schema:name "Rune Lagaisse";
             schema:identifier  "0000-0001-9191-9140" ;
         ] ;
-    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS%20So3%20221027>
+schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS%20So3%20221027>
     a emobon:Event ;
     dwc:eventDate "";
     dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
@@ -1114,7 +1114,7 @@
             schema:name "Rune Lagaisse";
             schema:identifier  "0000-0001-9191-9140" ;
         ] ;
-    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS%20So3%20221212>
+schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS%20So3%20221212>
     a emobon:Event ;
     dwc:eventDate "";
     dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
@@ -1126,7 +1126,7 @@
             schema:name "Rune Lagaisse";
             schema:identifier  "0000-0001-9191-9140" ;
         ] ;
-    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS%20So3%20221212>
+schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS%20So3%20221212>
     a emobon:Event ;
     dwc:eventDate "";
     dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
@@ -1138,7 +1138,7 @@
             schema:name "Rune Lagaisse";
             schema:identifier  "0000-0001-9191-9140" ;
         ] ;
-    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS%20So3%20221212>
+schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS%20So3%20221212>
     a emobon:Event ;
     dwc:eventDate "";
     dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
@@ -1150,7 +1150,7 @@
             schema:name "Rune Lagaisse";
             schema:identifier  "0000-0001-9191-9140" ;
         ] ;
-    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS%20So3%20221212>
+schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS%20So3%20221212>
     a emobon:Event ;
     dwc:eventDate "";
     dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
@@ -1162,7 +1162,7 @@
             schema:name "Rune Lagaisse";
             schema:identifier  "0000-0001-9191-9140" ;
         ] ;
-    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS%20So3%20221212>
+schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS%20So3%20221212>
     a emobon:Event ;
     dwc:eventDate "";
     dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
@@ -1174,7 +1174,7 @@
             schema:name "Rune Lagaisse";
             schema:identifier  "0000-0001-9191-9140" ;
         ] ;
-    schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS%20So3%20221212>
+schema:range emobon:sedimentSample .<https://data.emobon.embrc.eu/IDs/BPNS%20So3%20221212>
     a emobon:Event ;
     dwc:eventDate "";
     dwc:waterBody "North Atlantic Ocean,Belgian part of the North Sea,North Sea" ;
@@ -1186,4 +1186,4 @@
             schema:name "Rune Lagaisse";
             schema:identifier  "0000-0001-9191-9140" ;
         ] ;
-    schema:range emobon:sedimentSample .
+schema:range emobon:sedimentSample .
