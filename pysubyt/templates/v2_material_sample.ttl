@@ -2,7 +2,7 @@
 <{{uritexpand("https://data.emobon.embrc.eu/IDs/{source_mat_id}", _)}}>
      a emobon:SedimentSample ;   
      dwc:MaterialSampleID "{{_['source_mat_id']}}" ;
-     sosa:isResultOf <{{uritexpand("https://data.emobon.embrc.eu/IDs{sampling_event}", _)}}>;
+     sosa:isResultOf <{{uritexpand("https://data.emobon.embrc.eu/IDs/{sampling_event}", _)}}>;
      emobon:sop "{{_['samp_mat_process']}}" ; 
      sosa:hasResult a sosa:observerdProperty[ 
            a emobon:sampleSize ;
